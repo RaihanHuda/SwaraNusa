@@ -547,3 +547,46 @@ textarea { border-radius: 12px; }
 }
 @media (max-width: 360px) { .carousel-hint { display: none; } }
 @media (prefers-reduced-motion: reduce) { .carousel-control:active { transform: none; } }
+
+/* The introduction stays still while each photograph travels with its caption. */
+.hero-track {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: 100%;
+  grid-template-rows: 100%;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  overscroll-behavior-x: contain;
+  scrollbar-width: none;
+  -webkit-overflow-scrolling: touch;
+  cursor: grab;
+}
+.hero-track::-webkit-scrollbar { display: none; }
+.hero-track.is-dragging { cursor: grabbing; scroll-snap-type: none; }
+.hero-slide { position: relative; min-width: 0; min-height: 0; isolation: isolate; scroll-snap-align: start; }
+.hero-slide .hero-image { user-select: none; -webkit-user-drag: none; }
+.hero-carousel .hero-content { position: relative; z-index: 1; pointer-events: none; }
+.hero-carousel .hero-content a { pointer-events: auto; }
+.hero-carousel > .carousel-controls { position: absolute; z-index: 2; bottom: 98px; left: 40px; width: 390px; min-height: 44px; padding: 0; }
+.hero-carousel .carousel-count { color: #fffdf4; }
+.hero-carousel .carousel-hint { max-width: 125px; color: #eeeade; }
+.hero-carousel .carousel-control { color: #fffdf4; border-color: #ffffff80; background: #173c2ec2; }
+.hero-carousel .carousel-control:hover { background: #315942; border-color: #fffdf4; }
+.hero-carousel .hero-bottom { z-index: 2; }
+.request-band-art img { display: block; width: min(100%, 270px); height: 245px; object-fit: contain; }
+
+@media (max-width: 1000px) and (min-width: 701px) {
+  .hero-carousel > .carousel-controls { left: 35px; width: 300px; bottom: 94px; }
+  .hero-carousel .carousel-hint { display: none; }
+}
+@media (max-width: 700px) {
+  .hero-carousel { min-height: 700px; }
+  .hero-carousel > .carousel-controls { left: 23px; right: 23px; bottom: 153px; width: auto; }
+  .hero-carousel .carousel-hint { max-width: 105px; }
+  .hero-carousel .hero-location { left: 23px; right: 23px; max-width: none; bottom: 70px; min-height: 60px; }
+  .hero-carousel .hero-location > .icon:last-child { margin-left: auto; }
+  .request-band-art { display: grid; height: 175px; margin-bottom: 28px; }
+  .request-band-art img { width: 180px; height: 175px; }
+}
