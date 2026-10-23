@@ -21,3 +21,10 @@ Review focus: direct deep links and unknown slugs; unauthorized access to other 
 Shared interface: public/data.json documented in docs/interfaces.md. Backend entry server.mjs and database in .data/. Frontend files public/index.html, styles.css, app.js, components.js. Backend owns server.mjs and tests/server.test.mjs; content owns public/data.json, public/assets photo files, docs/sources.md. Main owner integrates UI.
 
 Final verification: 10/10 server checks pass from the requested final directory. Browser checked 1440x900 and 390x844, guest province/category navigation, sourced entry, absent content, request/auth/draft, demo approval/response/selection/reopen, invalid login and GitHub Mermaid ERD rendering. All external source files uploaded; operational SQLite files excluded.
+
+
+## Publikasi dan perbaikan tampilan, 23 Oktober 2026
+
+Pengguna menunda penambahan materi. Repo dijadikan publik atas permintaan pengguna. Situs GitHub Pages menerbitkan berkas statis dari cabang gh-pages, dengan jalur /SwaraNusa dan halaman index untuk semua provinsi serta artikel. Layanan akun, demo peran dan request tetap hanya berjalan di server lokal.
+
+Tampilan menambahkan sudut membulat, dropdown provinsi dan kategori, menu seluler bertingkat, hover/press, serta scroll reveal. Gerak menghormati prefers-reduced-motion. Referensi SIGAP dibaca pada komponen site-header.tsx dan token motion.ts; implementasi SwaraNusa tetap HTML/CSS/JavaScript tanpa mengambil kode aplikasi SIGAP.

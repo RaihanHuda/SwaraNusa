@@ -1,3 +1,4 @@
+import {site} from './site-config.js';
 export const esc = value => String(value ?? '').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const paths = {
  arrow:'<path d="M5 12h14m-6-6 6 6-6 6"/>',upRight:'<path d="M6 18 18 6M6 6h12v12"/>',
@@ -27,6 +28,7 @@ export const date=s=>s?new Intl.DateTimeFormat('id-ID',{day:'numeric',month:'sho
 export const photo=(item,cls='',eager=false)=>`<img class="${cls}" src="${esc(item.image||'/assets/hero-sumbar.jpg')}" alt="${esc(item.imageAlt||item.title||item.name)}" ${eager?'fetchpriority="high"':'loading="lazy"'} decoding="async">`;
 export const entryCard=(e,provinces,large=false)=>`<a class="entry-card ${large?'entry-card-large':''}" href="/materi/${esc(e.id)}"><div class="entry-photo">${photo(e)}<span class="photo-tag">${esc(cats[e.category])}</span><span class="entry-arrow">${icon('upRight')}</span></div><div class="entry-meta">${esc(provinces.find(p=>p.id===e.provinceId)?.name)}<span>${esc(e.kind||'Pengenalan')}</span></div><h3>${esc(e.title)}</h3><p>${esc(e.summary)}</p></a>`;
 export async function api(path,options={}) {
+ if(site.publicPreview)throw new Error('Akun dan request belum dibuka pada situs publik ini.');
  const r=await fetch('/api'+path,{...options,headers:{'Content-Type':'application/json',...options.headers},credentials:'same-origin'});
  let d;try{d=await r.json()}catch{throw new Error('Server belum dapat memuat data. Coba muat ulang halaman.')}
  if(!r.ok)throw new Error(d.error||'Permintaan belum berhasil. Coba lagi.');return d;

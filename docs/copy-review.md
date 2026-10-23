@@ -22,3 +22,8 @@ Skor peninjauan internal: directness 9, rhythm 8, trust 9, authenticity 8, densi
 - Pengelola harus menyimpan jawaban sebelum menyelesaikan request informasi.
 
 Tidak ada video, rating, harga, klaim mitra, atau statistik pengunjung rekaan. Akun dan tanggapan demo memiliki penanda.
+
+
+## Pratinjau publik, 23 Oktober 2026
+
+Akun dan request menyatakan belum dibuka. Formulir publik tidak menerima data pribadi atau mengklaim request telah dikirim. Halaman Tentang menjelaskan koleksi belum memenuhi lima per kategori. Bahasa pengantar tetap memakai pedoman stop-slop. Skor tinjauan: directness 9, rhythm 8, trust 10, authenticity 8, density 9 (44/50).

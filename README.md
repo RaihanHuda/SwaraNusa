@@ -2,6 +2,14 @@
 
 Website pengenalan budaya Sumatra untuk proyek pemrograman web. Pengunjung memilih satu dari 10 provinsi, lalu membaca materi seni, wisata, kuliner, atau permainan. Pengguna dapat mengajukan request informasi maupun pendamping belajar.
 
+## Situs publik
+
+**https://raihanhuda.github.io/SwaraNusa/**
+
+Repo ini publik. GitHub Pages menerbitkan cabang `gh-pages`, folder akar. Situs publik menampilkan bacaan, foto, kategori dan rujukan; akun serta pengiriman request belum dibuka. Versi lokal tetap memiliki alur akun dan request dengan SQLite. Materi masih 27 entri; pengisian lima per kategori ditunda.
+
+Bangun situs publik dengan `npm run build:pages`. Hasil `_site/` memakai awalan `/SwaraNusa`, menyiapkan halaman langsung untuk setiap provinsi dan artikel, dan hanya memuat berkas publik. Terbitkan isi folder itu ke akar cabang `gh-pages`. Setiap perubahan materi perlu build dan penerbitan ulang. Tidak ada database akun, server, atau kredensial dalam situs publik.
+
 ## Menjalankan
 
 Gunakan **Node.js 24 atau lebih baru**. Proyek tidak memerlukan instalasi paket npm.

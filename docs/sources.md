@@ -24,7 +24,7 @@ Ditinjau 23 Oktober 2026. Artikel memakai parafrasa singkat. Koleksi awal berisi
 - **Galah Panjang** (kepulauan-riau): [Rosa dan Retnaningsih, Journal of Childhood Education 2022](https://journalfai.unisla.ac.id/index.php/jce/article/download/1151/617). Jenis: Pengenalan.
 - **Kawasan Candi Muarajambi** (jambi): [Direktorat Jenderal Kebudayaan](https://kebudayaan.kemdikbud.go.id/revitalisasi-kcbn-muarajambi-membangun-pusat-peradaban/). Jenis: Pengenalan.
 - **Batik Jambi** (jambi): [Jurnal Renjis Vol. 5 No. 2, 2020](https://repositori.kemendikdasmen.go.id/17239/1/Renjis%20vol%205%20no%202%202020%2C%202.pdf). Jenis: Pengenalan.
-- **Dol Bengkulu** (bengkulu): [Direktorat Warisan dan Diplomasi Budaya](https://kebudayaan.kemdikbud.go.id/ditwdb/pemerintah-kota-bengkulu-kota-perjumpaan-ragam-budaya/). Jenis: Pengenalan.
+- **Dol Bengkulu** (bengkulu): [Direktorat Warisan dan Diplomasi Budaya](https://www.indonesia.travel/id/id/travel-ideas/culture/dol). Jenis: Pengenalan.
   - Pendukung: [Penelitian perkembangan musik dol](https://garuda.kemdiktisaintek.go.id/documents/detail/781201).
 - **Benteng Marlborough** (bengkulu): [Balai Pelestarian Kebudayaan Wilayah V](https://kebudayaan.kemdikbud.go.id/bpkw5/sejarah-singkat-fort-marlborough/). Jenis: Pengenalan.
 - **Pempek** (sumatera-selatan): [Indonesia Travel, Kementerian Pariwisata](https://www.indonesia.travel/id/id/travel-ideas/gastronomy/pempek). Jenis: Pengenalan.
