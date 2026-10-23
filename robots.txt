@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://raihanhuda.github.io/SwaraNusa/sitemap.xml
