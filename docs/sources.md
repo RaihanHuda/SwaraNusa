@@ -80,3 +80,8 @@ Foto bersumber dari Wikimedia Commons. Halaman file memuat berkas asli dan riway
 ## Logo pengguna
 
 `logo.jpg` berasal dari lampiran pengguna. Proyek tidak mengubah berkas ini. Atribusi dan lisensi foto Wikimedia tidak berlaku untuk logo pengguna.
+
+
+## Ilustrasi Pulau Sumatra
+
+Siluet pada beranda diadaptasi dari Natural Earth, Admin 0 Countries skala 1:50m. Garis pantai diproyeksikan dan diberi warna untuk ilustrasi; tanpa penambahan batas provinsi. [Data sumber](https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_50m_admin_0_countries.geojson), [domain publik](https://www.naturalearthdata.com/about/terms-of-use/).

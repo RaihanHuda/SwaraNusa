@@ -35,3 +35,10 @@ Tampilan menambahkan sudut membulat, dropdown provinsi dan kategori, menu selule
 Sorotan provinsi berurutan Aceh sampai Lampung, interval 3 detik setelah gerakan selesai. Foto, teks dan href berada pada satu slide. Bacaan memakai 27 entri yang sudah ada, diacak per kunjungan dengan giliran antardaerah. Pengunjung dapat menggeser horizontal, memakai panah dan tombol jeda/mulai. Karusel memakai scroll snap; salinan di tepi menjaga putaran tetap berlanjut. Timer berhenti saat keluar layar, tab tersembunyi, atau pengguna berinteraksi. Pindah rute membersihkan timer, observer dan listener. Pengguna reduced motion memulai dengan putaran otomatis mati. Build publik memberi versi yang sama pada modul dan impor agar browser mengambil rilis terbaru.
 
 Pemeriksaan: 40 susunan acak mempertahankan semua 27 entri dan memuat 10 provinsi pada 10 posisi awal; browser memeriksa perpindahan otomatis dan jeda lebih dari 3 detik, 11 langkah provinsi termasuk Lampung ke Aceh, serta kecocokan CTA dengan href. Tidak ada penambahan materi.
+
+
+## Banner dan siluet, 23 Oktober 2026
+
+Banner atas memakai putaran 10 daerah Aceh sampai Lampung dengan mesin karusel yang sama. Satu slide menyimpan foto dan tautan lokasi; judul utama tetap satu. Kontrol jeda, panah dan geser horizontal tersedia. Ilustrasi tanda tanya serta dua lingkaran diganti siluet Sumatra dari garis pantai Natural Earth 1:50m, domain publik, dengan kredit pada halaman sumber. Tidak ada penambahan materi budaya.
+
+Pemeriksaan browser: banner berpindah Aceh ke Sumatera Utara sesudah 3,8 detik, jeda mempertahankan slide selama 3,8 detik, putaran mundur Aceh ke Lampung serta tautan menuju halaman Lampung sesuai. Lebar 1440 dan 390 piksel diperiksa; pada ponsel kontrol, keterangan lokasi dan tombol utama terpisah tanpa luapan horizontal.
