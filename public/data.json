@@ -1,0 +1,1258 @@
+{
+  "provinces": [
+    {
+      "id": "aceh",
+      "name": "Aceh",
+      "capital": "Banda Aceh",
+      "description": "Mulai dari Saman masyarakat Gayo, lalu kenali masjid dan keseharian di Banda Aceh. Setiap komunitas punya cerita yang perlu didengar dalam konteksnya.",
+      "image": "/assets/aceh.jpg",
+      "imageAlt": "Masjid Raya Baiturrahman di Banda Aceh",
+      "sourceUrl": "https://www.indonesia.travel/id/id/travel-ideas/pilgrimage/masjid-raya-baiturrahman",
+      "sourceLabel": "Indonesia Travel, Kementerian Pariwisata"
+    },
+    {
+      "id": "sumatera-utara",
+      "name": "Sumatera Utara",
+      "capital": "Medan",
+      "description": "Di sekitar Danau Toba, kamu bisa mengenal ulos dan kehidupan masyarakat Batak. Buka topiknya untuk membaca peran kain dan tempat dalam kehidupan setempat.",
+      "image": "/assets/sumatera-utara.jpg",
+      "imageAlt": "Danau Toba dengan perbukitan hijau di sekelilingnya",
+      "sourceUrl": "https://www.indonesia.travel/id/id/destination/sumatra/north-sumatra/lake-toba-the-wonder-of-the-lake-in-north-sumatra0",
+      "sourceLabel": "Indonesia Travel, Kementerian Pariwisata"
+    },
+    {
+      "id": "sumatera-barat",
+      "name": "Sumatera Barat",
+      "capital": "Padang",
+      "description": "Kenali budaya Minangkabau lewat tari piring, bunyi saluang, dan tenun Pandai Sikek. Lanjutkan dengan membaca cerita Istano Basa Pagaruyung dan randang.",
+      "image": "/assets/hero-sumbar.jpg",
+      "imageAlt": "Gonjong dan ukiran Istano Basa Pagaruyung di Tanah Datar",
+      "sourceUrl": "https://museum.kemenbud.go.id/museum/profile/istano%2Bbasa%2Bpagaruyung",
+      "sourceLabel": "Direktori Museum, Kementerian Kebudayaan"
+    },
+    {
+      "id": "riau",
+      "name": "Riau",
+      "capital": "Pekanbaru",
+      "description": "Di Siak, kamu dapat menelusuri istana dan ragam seni Melayu. Koleksi ini juga memuat congkak, permainan yang dikenal dengan beberapa nama di daerah lain.",
+      "image": "/assets/riau.jpg",
+      "imageAlt": "Istana Siak Sri Indrapura di Kabupaten Siak",
+      "sourceUrl": "https://kebudayaan.kemdikbud.go.id/dpk/penetapan-kawasan-cagar-budaya-siak-di-riau/",
+      "sourceLabel": "Direktorat Pelindungan Kebudayaan"
+    },
+    {
+      "id": "kepulauan-riau",
+      "name": "Kepulauan Riau",
+      "capital": "Tanjungpinang",
+      "description": "Pulau Penyengat menjadi salah satu pintu untuk mengenal sejarah Melayu. Baca tentang zapin setempat atau ajak teman mencoba galah panjang.",
+      "image": "/assets/kepulauan-riau.jpg",
+      "imageAlt": "Masjid Raya Sultan Riau di Pulau Penyengat",
+      "sourceUrl": "https://kebudayaan.kemdikbud.go.id/ditkma/tari-zapin-penyengat/",
+      "sourceLabel": "Direktorat Kepercayaan dan Tradisi"
+    },
+    {
+      "id": "jambi",
+      "name": "Jambi",
+      "capital": "Jambi",
+      "description": "Kawasan Muarajambi menyimpan jejak pembelajaran agama Buddha. Kenali juga batik Jambi melalui pengantar tentang perajin dan perubahan pemakaiannya.",
+      "image": "/assets/jambi.jpg",
+      "imageAlt": "Bangunan candi bata di kawasan Muarajambi",
+      "sourceUrl": "https://kebudayaan.kemdikbud.go.id/revitalisasi-kcbn-muarajambi-membangun-pusat-peradaban/",
+      "sourceLabel": "Direktorat Jenderal Kebudayaan"
+    },
+    {
+      "id": "bengkulu",
+      "name": "Bengkulu",
+      "capital": "Bengkulu",
+      "description": "Kenali dol dan konteks perayaan Tabot, lalu telusuri jejak kolonial di Benteng Marlborough. Tradisi pertunjukan dan sejarah kota punya jalur baca masing-masing.",
+      "image": "/assets/bengkulu.jpg",
+      "imageAlt": "Pemandangan udara Benteng Marlborough dan Kota Bengkulu",
+      "sourceUrl": "https://bengkuluprov.go.id/sekilas-bengkulu/",
+      "sourceLabel": "Pemerintah Provinsi Bengkulu"
+    },
+    {
+      "id": "sumatera-selatan",
+      "name": "Sumatera Selatan",
+      "capital": "Palembang",
+      "description": "Dari tepian Musi ke meja makan, kenali Ampera dan pempek. Untuk waktu bermain bersama, buka panduan Cak Ingkling yang mencatat variasi aturan setempat.",
+      "image": "/assets/sumatera-selatan.jpg",
+      "imageAlt": "LRT melintas di dekat Jembatan Ampera, Palembang",
+      "sourceUrl": "https://kebudayaan.kemdikbud.go.id/ditwdb/cak-ingkling/",
+      "sourceLabel": "Direktorat Warisan dan Diplomasi Budaya"
+    },
+    {
+      "id": "bangka-belitung",
+      "name": "Kepulauan Bangka Belitung",
+      "capital": "Pangkalpinang",
+      "description": "Di Bangka, kenali alat musik petik dambus. Di Belitung, baca tentang pesisir Tanjung Tinggi dan batu granit yang membentuk bentang pantainya.",
+      "image": "/assets/bangka-belitung.jpg",
+      "imageAlt": "Batu granit dan laut di Pantai Tanjung Tinggi, Belitung",
+      "sourceUrl": "https://www.indonesia.travel/gb/en/travel-ideas/marine/top-9-special-places-to-enjoy-your-belitung-island-holiday",
+      "sourceLabel": "Indonesia Travel, Kementerian Pariwisata"
+    },
+    {
+      "id": "lampung",
+      "name": "Lampung",
+      "capital": "Bandar Lampung",
+      "description": "Perajin Lampung menyulam tapis, sementara keluarga mengenal kebersamaan lewat nyeruit. Mulai dari dua pengantar ini untuk memahami kain dan hidangan dalam konteksnya.",
+      "image": "/assets/lampung.jpg",
+      "imageAlt": "Menara Siger di Bakauheni, Lampung",
+      "sourceUrl": "https://kebudayaan.kemdikbud.go.id/ditwdb/tapis/",
+      "sourceLabel": "Direktorat Warisan dan Diplomasi Budaya"
+    }
+  ],
+  "entries": [
+    {
+      "id": "saman",
+      "provinceId": "aceh",
+      "category": "tari",
+      "title": "Saman",
+      "subtitle": "Dari masyarakat Gayo",
+      "summary": "Kenali syair, kekompakan gerak, dan peran Saman dalam hubungan antarkampung.",
+      "image": "/assets/saman.jpg",
+      "imageAlt": "Barisan peserta Saman pada pertunjukan massal di Gayo Lues",
+      "kind": "Pengenalan",
+      "community": "Masyarakat Gayo",
+      "location": "Gayo Lues dan wilayah Gayo lainnya, Aceh",
+      "paragraphs": [
+        "Saman merupakan warisan masyarakat Gayo. Para penari duduk atau berlutut dalam barisan rapat, mengikuti syair dan arahan pemimpin di tengah barisan. Mereka menyelaraskan tepukan dan gerak tubuh dengan perubahan irama.",
+        "Masyarakat menyajikan Saman pada berbagai pertemuan dan perayaan. Syairnya memuat pesan dalam bahasa Gayo. UNESCO mencatatnya dalam daftar warisan yang memerlukan pelindungan mendesak pada 2011.",
+        "Untuk mulai belajar, kenali bahasa syair dan konteks pertunjukannya bersama pelatih Gayo. SwaraNusa belum menyediakan tutorial gerak atau video latihan Saman."
+      ],
+      "facts": [
+        {
+          "label": "Komunitas",
+          "value": "Gayo"
+        },
+        {
+          "label": "Materi saat ini",
+          "value": "Pengenalan, belum ada tutorial gerak"
+        }
+      ],
+      "steps": [],
+      "sourceUrl": "https://ich.unesco.org/en/lists?USL=00509",
+      "sourceLabel": "UNESCO, Saman dance"
+    },
+    {
+      "id": "baiturrahman",
+      "provinceId": "aceh",
+      "category": "wisata",
+      "title": "Masjid Raya Baiturrahman",
+      "subtitle": "Ruang ibadah di pusat Banda Aceh",
+      "summary": "Baca konteks masjid sebelum berkunjung dan ikuti aturan pengurus di lokasi.",
+      "image": "/assets/aceh.jpg",
+      "imageAlt": "Masjid Raya Baiturrahman, Banda Aceh",
+      "kind": "Pengenalan",
+      "community": "Masyarakat Banda Aceh",
+      "location": "Banda Aceh",
+      "paragraphs": [
+        "Masyarakat Banda Aceh menggunakan Masjid Raya Baiturrahman sebagai tempat ibadah dan pembelajaran agama. Pengunjung dapat mengenali arsitektur dan perannya dalam sejarah kota.",
+        "Sesuaikan kunjungan dengan kegiatan ibadah. Kenakan pakaian yang sesuai, minta izin sebelum memotret orang, dan ikuti petunjuk pengurus. SwaraNusa belum mencatat jam kunjungan atau biaya terbaru."
+      ],
+      "facts": [
+        {
+          "label": "Lokasi",
+          "value": "Kota Banda Aceh"
+        },
+        {
+          "label": "Informasi kunjungan",
+          "value": "Periksa kepada pengurus sebelum datang"
+        }
+      ],
+      "steps": [],
+      "sourceUrl": "https://www.indonesia.travel/id/id/travel-ideas/pilgrimage/masjid-raya-baiturrahman",
+      "sourceLabel": "Indonesia Travel, Kementerian Pariwisata",
+      "mapQuery": "Masjid Raya Baiturrahman Banda Aceh"
+    },
+    {
+      "id": "danau-toba",
+      "provinceId": "sumatera-utara",
+      "category": "wisata",
+      "title": "Danau Toba",
+      "subtitle": "Danau, perkampungan, dan kehidupan Batak",
+      "summary": "Pahami kawasan Danau Toba lewat tempat dan masyarakat yang tinggal di sekitarnya.",
+      "image": "/assets/sumatera-utara.jpg",
+      "imageAlt": "Pemandangan Danau Toba dan perbukitan di Sumatera Utara",
+      "kind": "Pengenalan",
+      "community": "Masyarakat di kawasan Danau Toba",
+      "location": "Kawasan Danau Toba, Sumatera Utara",
+      "paragraphs": [
+        "Pengunjung Danau Toba dapat mengenali bentang danau sekaligus kehidupan masyarakat di sekitarnya. Di Samosir dan wilayah tepian danau, rumah, museum, serta kegiatan perajin memberi konteks budaya kunjungan.",
+        "Pilih tujuan yang spesifik sebelum berangkat karena kawasan danau mencakup banyak daerah. Tanyakan izin ketika memasuki ruang adat atau memotret warga. Periksa jadwal transportasi dan kondisi cuaca melalui penyedia setempat."
+      ],
+      "facts": [
+        {
+          "label": "Wilayah",
+          "value": "Sumatera Utara, termasuk Pulau Samosir"
+        },
+        {
+          "label": "Jam dan tiket",
+          "value": "Belum tersedia dalam koleksi ini"
+        }
+      ],
+      "steps": [],
+      "sourceUrl": "https://www.indonesia.travel/id/id/destination/sumatra/north-sumatra/lake-toba-the-wonder-of-the-lake-in-north-sumatra0",
+      "sourceLabel": "Indonesia Travel, Kementerian Pariwisata",
+      "mapQuery": "Danau Toba Sumatera Utara"
+    },
+    {
+      "id": "ulos",
+      "provinceId": "sumatera-utara",
+      "category": "kerajinan",
+      "title": "Ulos",
+      "subtitle": "Kain dalam kehidupan masyarakat Batak",
+      "summary": "Kenali fungsi ulos sebelum memilih kain atau mempelajari tenunannya.",
+      "image": "/assets/ulos.jpg",
+      "imageAlt": "Orang mengenakan ulos pada kegiatan adat Batak",
+      "kind": "Pengenalan",
+      "community": "Masyarakat Batak",
+      "location": "Kawasan Danau Toba dan wilayah Batak lainnya",
+      "paragraphs": [
+        "Perajin menenun ulos dengan beragam corak. Masyarakat Batak memakai dan memberikan ulos dalam berbagai peristiwa kehidupan, termasuk perkawinan. Jenis kain dan cara memberikannya berkaitan dengan hubungan antarpihak dalam adat.",
+        "Saat belajar, tanyakan nama kain, daerah pembuat, serta konteks penggunaannya kepada perajin atau pemangku adat. Pengantar ini belum memuat teknik menenun. Jangan menyamakan fungsi seluruh jenis ulos."
+      ],
+      "facts": [
+        {
+          "label": "Bahan belajar",
+          "value": "Jenis kain, corak, dan konteks pemberian"
+        },
+        {
+          "label": "Materi praktik",
+          "value": "Belum tersedia"
+        }
+      ],
+      "steps": [],
+      "sourceUrl": "https://www.indonesia.travel/id/id/travel-ideas/heritage/tak-hanya-memesona-5-kain-ulos-khas-danau-toba-ini-juga-sarat-makna",
+      "sourceLabel": "Indonesia Travel, Kementerian Pariwisata"
+    },
+    {
+      "id": "tari-piring",
+      "provinceId": "sumatera-barat",
+      "category": "tari",
+      "title": "Tari Piring",
+      "subtitle": "Gerak dan irama Minangkabau",
+      "summary": "Perhatikan hubungan gerak penari, piring, dan musik dalam pertunjukan.",
+      "image": "/assets/tari-piring.jpg",
+      "imageAlt": "Pertunjukan Tari Piring pada acara budaya di Painan, Pesisir Selatan",
+      "kind": "Pengenalan",
+      "community": "Masyarakat Minangkabau",
+      "location": "Sumatera Barat",
+      "paragraphs": [
+        "Penari Tari Piring membawa piring sambil bergerak mengikuti musik. Dalam berbagai penyajian, pemusik memakai talempong atau saluang. Susunan penari dan koreografi dapat berbeda antarkelompok.",
+        "Untuk mulai belajar, amati cara penari mengikuti irama dan berkoordinasi dalam kelompok. Cari pelatih yang memahami bentuk tari yang ingin kamu pelajari. Artikel ini belum menjadi panduan gerak.",
+        "Beberapa pertunjukan memuat adegan dengan pecahan piring. Jangan menirunya. Pelatih perlu memilih materi dan alat latihan yang sesuai untuk pemula."
+      ],
+      "facts": [
+        {
+          "label": "Komunitas",
+          "value": "Minangkabau"
+        },
+        {
+          "label": "Materi saat ini",
+          "value": "Pengenalan pertunjukan"
+        }
+      ],
+      "steps": [],
+      "sourceUrl": "https://www.indonesia.travel/id/id/travel-ideas/culture/tari-piring",
+      "sourceLabel": "Indonesia Travel, Kementerian Pariwisata"
+    },
+    {
+      "id": "saluang",
+      "provinceId": "sumatera-barat",
+      "category": "musik",
+      "title": "Saluang",
+      "subtitle": "Mengenal bunyi dari bambu",
+      "summary": "Mulai dengan mengenali alat tiup dan konteks pertunjukan saluang.",
+      "image": "/assets/saluang.jpg",
+      "imageAlt": "Seorang pemusik memainkan saluang darek",
+      "kind": "Pengenalan",
+      "community": "Masyarakat Minangkabau",
+      "location": "Sumatera Barat",
+      "paragraphs": [
+        "Pemusik Minangkabau memainkan saluang sebagai alat tiup. Sumber kebudayaan nasional mencatat Saluang sebagai warisan budaya dari Sumatera Barat. Foto pada halaman ini memperlihatkan pemain saluang darek.",
+        "Dengarkan permainan melalui sumber atau pertunjukan yang menyebut nama pemain dan jenis saluang. Untuk latihan meniup, mintalah arahan pemusik. SwaraNusa belum menyiapkan panduan pernapasan atau rekaman pelajaran."
+      ],
+      "facts": [
+        {
+          "label": "Bentuk alat",
+          "value": "Alat musik tiup"
+        },
+        {
+          "label": "Materi praktik",
+          "value": "Belum tersedia"
+        }
+      ],
+      "steps": [],
+      "sourceUrl": "https://budaya.data.kemdikbud.go.id/wbtb/objek/AA001218",
+      "sourceLabel": "Basis Data Warisan Budaya, Kemendikbud"
+    },
+    {
+      "id": "songket-pandai-sikek",
+      "provinceId": "sumatera-barat",
+      "category": "kerajinan",
+      "title": "Songket Pandai Sikek",
+      "subtitle": "Benang, motif, dan kerja perajin",
+      "summary": "Kenali kain tenun dari Nagari Pandai Sikek, Tanah Datar.",
+      "image": "/assets/songket.jpg",
+      "imageAlt": "Kain songket hasil tenunan Pandai Sikek",
+      "kind": "Pengenalan",
+      "community": "Perajin Minangkabau di Pandai Sikek",
+      "location": "Pandai Sikek, Kabupaten Tanah Datar",
+      "paragraphs": [
+        "Perajin Pandai Sikek menenun songket dengan hiasan benang emas atau perak. Mereka mengenal motif cukie pada bagian kain dan sungayang sebagai corak keseluruhan.",
+        "Sebelum mencoba menenun, kenali alat, bahan, dan nama motif bersama perajin. Keterangan ini membantu kamu melihat kain sebagai hasil keterampilan dan pengetahuan setempat. SwaraNusa belum menyediakan tutorial menenun songket."
+      ],
+      "facts": [
+        {
+          "label": "Daerah",
+          "value": "Nagari Pandai Sikek, Tanah Datar"
+        },
+        {
+          "label": "Teknik",
+          "value": "Tenun dengan hiasan benang tambahan"
+        }
+      ],
+      "steps": [],
+      "sourceUrl": "https://repositori.kemendikdasmen.go.id/12378/1/Buku%20Panduan%20Penetapan%20Warisan%20Budaya%20Takbenda%20Indonesia%20Tahun%202014.pdf",
+      "sourceLabel": "Buku Penetapan WBTb Indonesia 2014, Kemendikbud"
+    },
+    {
+      "id": "istano-pagaruyung",
+      "provinceId": "sumatera-barat",
+      "category": "wisata",
+      "title": "Istano Basa Pagaruyung",
+      "subtitle": "Membaca rumah, adat, dan sejarah",
+      "summary": "Kenali arsitektur Minangkabau di Kabupaten Tanah Datar.",
+      "image": "/assets/hero-sumbar.jpg",
+      "imageAlt": "Gonjong dan ukiran Istano Basa Pagaruyung berlatar perbukitan",
+      "kind": "Pengenalan",
+      "community": "Masyarakat Minangkabau",
+      "location": "Pagaruyung, Tanjung Emas, Kabupaten Tanah Datar",
+      "paragraphs": [
+        "Pengunjung Istano Basa Pagaruyung dapat mengenali arsitektur dan penggambaran adat Minangkabau. Pengelola menghadirkan bangunan sebagai ruang pengenalan sejarah dan budaya.",
+        "Bangunan yang kamu kunjungi merupakan hasil pembangunan kembali. Direktori museum mencatat peletakan tiang utama rekonstruksi pada 27 Desember 1976. Ketika berkunjung, baca keterangan koleksi dan ikuti batas ruang yang ditetapkan pengelola.",
+        "SwaraNusa belum mencatat jam buka dan harga tiket terbaru. Gunakan sumber pengelola untuk memeriksa informasi sebelum datang."
+      ],
+      "facts": [
+        {
+          "label": "Lokasi",
+          "value": "Tanjung Emas, Tanah Datar"
+        },
+        {
+          "label": "Saran kunjungan",
+          "value": "Baca keterangan bangunan dan koleksi"
+        }
+      ],
+      "steps": [],
+      "sourceUrl": "https://museum.kemenbud.go.id/museum/profile/istano%2Bbasa%2Bpagaruyung",
+      "sourceLabel": "Direktori Museum, Kementerian Kebudayaan",
+      "mapQuery": "Istano Basa Pagaruyung Tanah Datar"
+    },
+    {
+      "id": "rendang",
+      "provinceId": "sumatera-barat",
+      "category": "kuliner",
+      "title": "Randang",
+      "subtitle": "Dari dapur Minangkabau",
+      "summary": "Kenali masakan yang sering disebut rendang, beserta ragam bahan dan namanya.",
+      "image": "/assets/rendang.jpg",
+      "imageAlt": "Rendang daging sapi dengan bumbu berwarna gelap",
+      "kind": "Pengenalan",
+      "community": "Masyarakat Minangkabau",
+      "location": "Sumatera Barat dan komunitas Minangkabau di perantauan",
+      "paragraphs": [
+        "Masyarakat Minangkabau mengenal randang sebagai masakan lauk dengan berbagai sebutan menurut dialek daerah. Penyebutan rendang Padang di luar Sumatera Barat tidak berarti pembuatannya hanya berlangsung di Kota Padang.",
+        "Pemasak mengolah daging atau bahan lain bersama santan dan rempah dalam waktu panjang. Variasi bahan dan cara penyajian perlu kamu tanyakan kepada pembuatnya, terutama jika kamu memiliki pantangan atau alergi. Halaman ini memuat pengenalan, belum resep memasak."
+      ],
+      "facts": [
+        {
+          "label": "Nama lain",
+          "value": "Rendang; sebutan setempat beragam"
+        },
+        {
+          "label": "Bahan yang umum",
+          "value": "Daging, santan, dan rempah"
+        }
+      ],
+      "steps": [],
+      "sourceUrl": "https://kebudayaan.kemdikbud.go.id/ditwdb/randang/",
+      "sourceLabel": "Direktorat Warisan dan Diplomasi Budaya",
+      "sources": [
+        {
+          "label": "Indonesia Travel: proses dan ragam rendang",
+          "url": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/lezatnya-rendang-minangkabau-yang-mendunia"
+        }
+      ]
+    },
+    {
+      "id": "main-dore",
+      "provinceId": "sumatera-barat",
+      "category": "permainan",
+      "title": "Main Dore",
+      "subtitle": "Nama setempat untuk permainan petak",
+      "summary": "Kenali salah satu sebutan permainan melompat petak di Minangkabau.",
+      "image": "/assets/main-dore.svg",
+      "imageAlt": "Ilustrasi garis petak sebagai pengantar permainan Main Dore",
+      "kind": "Pengenalan",
+      "community": "Anak-anak di Minangkabau",
+      "location": "Sumatera Barat",
+      "paragraphs": [
+        "Catatan Warisan Budaya Takbenda tentang Cak Ingkling menyebut nama Main Dore untuk permainan sejenis di Minangkabau. Pemain menggunakan petak dan penanda dalam permainan melompat.",
+        "SwaraNusa belum memverifikasi aturan Main Dore pada satu nagari tertentu. Karena variasi setempat dapat berbeda, halaman ini memuat pengenalan. Kamu dapat membaca panduan Cak Ingkling di Sumatera Selatan sebagai pembanding, bukan sebagai aturan tunggal Main Dore."
+      ],
+      "facts": [
+        {
+          "label": "Materi saat ini",
+          "value": "Pengenalan nama dan hubungan permainan"
+        },
+        {
+          "label": "Aturan lokal",
+          "value": "Belum tersedia"
+        }
+      ],
+      "steps": [],
+      "sourceUrl": "https://kebudayaan.kemdikbud.go.id/ditwdb/cak-ingkling/",
+      "sourceLabel": "Direktorat Warisan dan Diplomasi Budaya"
+    },
+    {
+      "id": "zapin-siak",
+      "provinceId": "riau",
+      "category": "tari",
+      "title": "Zapin Tradisional Siak",
+      "subtitle": "Ragam zapin dalam budaya Melayu",
+      "summary": "Kenali perpaduan pengaruh Melayu dan Arab pada pertunjukan zapin.",
+      "image": "/assets/zapin.jpg",
+      "imageAlt": "Murid sekolah menampilkan tari zapin; foto pengantar, bukan dokumentasi khusus Zapin Siak",
+      "kind": "Pengenalan",
+      "community": "Masyarakat Melayu di Siak",
+      "location": "Kabupaten Siak, Riau",
+      "paragraphs": [
+        "Masyarakat Siak mengenal zapin sebagai salah satu seni pertunjukan Melayu. Pengelola desa wisata mencatat pertemuan pengaruh Melayu dan Arab dalam perkembangannya.",
+        "Penyebutan zapin mencakup ragam bentuk di beberapa daerah. Saat mencari pelatih, sebutkan bentuk atau daerah yang ingin kamu pelajari. SwaraNusa belum memuat tutorial langkah Zapin Siak.",
+        "Foto pada halaman ini memperlihatkan pertunjukan zapin oleh murid sekolah. Foto membantu pengenalan umum dan tidak menjadi rujukan gerak khusus Zapin Siak."
+      ],
+      "facts": [
+        {
+          "label": "Daerah dalam koleksi",
+          "value": "Siak"
+        },
+        {
+          "label": "Materi praktik",
+          "value": "Belum tersedia"
+        }
+      ],
+      "steps": [],
+      "sourceUrl": "https://jadesta.kemenpar.go.id/atraksi/zapin_tradisional_siak",
+      "sourceLabel": "Jadesta, Kementerian Pariwisata"
+    },
+    {
+      "id": "istana-siak",
+      "provinceId": "riau",
+      "category": "wisata",
+      "title": "Istana Siak Sri Indrapura",
+      "subtitle": "Jejak kesultanan di tepian Siak",
+      "summary": "Baca sejarah kawasan dan kenali bangunan yang saling berkaitan.",
+      "image": "/assets/riau.jpg",
+      "imageAlt": "Bangunan Istana Siak Sri Indrapura",
+      "kind": "Pengenalan",
+      "community": "Masyarakat Melayu Siak",
+      "location": "Siak Sri Indrapura, Kabupaten Siak",
+      "paragraphs": [
+        "Istana Siak Sri Indrapura merupakan salah satu tinggalan dalam kawasan cagar budaya Siak. Di kawasan yang sama, pengunjung dapat mengenali balai kerapatan, masjid, serta makam yang berkaitan dengan sejarah kesultanan.",
+        "Baca keterangan pengelola agar kamu memahami hubungan antartempat. Ikuti aturan pemotretan dan pelindungan koleksi. Jam buka serta biaya terbaru belum tercatat di SwaraNusa."
+      ],
+      "facts": [
+        {
+          "label": "Lokasi",
+          "value": "Kabupaten Siak, Riau"
+        },
+        {
+          "label": "Konteks",
+          "value": "Sejarah Kesultanan Siak"
+        }
+      ],
+      "steps": [],
+      "sourceUrl": "https://kebudayaan.kemdikbud.go.id/dpk/penetapan-kawasan-cagar-budaya-siak-di-riau/",
+      "sourceLabel": "Direktorat Pelindungan Kebudayaan",
+      "mapQuery": "Istana Siak Sri Indrapura"
+    },
+    {
+      "id": "congkak",
+      "provinceId": "riau",
+      "category": "permainan",
+      "title": "Congkak",
+      "subtitle": "Belajar menghitung sambil bermain",
+      "summary": "Siapkan papan dan biji, lalu coba satu putaran bersama seorang teman.",
+      "image": "/assets/congklak.jpg",
+      "imageAlt": "Contoh papan congkak berbentuk angsa di Museum Nasional Malaysia; foto ilustrasi alat",
+      "kind": "Panduan",
+      "community": "Masyarakat Melayu Riau; juga dikenal di wilayah lain",
+      "location": "Riau",
+      "paragraphs": [
+        "Catatan permainan rakyat Riau memuat Main Congkak. Dua pemain memindahkan biji di papan berlubang. Panduan ini memakai variasi latihan satu putaran tanpa tembak dan lubang hangus. Sepakati variasi ini sebelum mulai.",
+        "Gunakan biji berukuran aman dan dampingi anak kecil. Foto memperlihatkan contoh papan dari Malaysia, bukan dokumentasi permainan di Riau.",
+        "Rincian pertandingan Melayu dapat memakai tembak dan lubang hangus. Bacalah sumber bersama untuk aturan tersebut. Ringkasan latihan ini membatasi permainan hingga satu putaran pengumpulan biji."
+      ],
+      "facts": [
+        {
+          "label": "Pemain",
+          "value": "2 orang"
+        },
+        {
+          "label": "Persiapan",
+          "value": "Papan 16 lubang dan 98 biji"
+        },
+        {
+          "label": "Tujuan latihan",
+          "value": "Kumpulkan biji terbanyak dalam induk selama satu putaran"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Isi papan",
+          "body": "Isi 7 lubang kecil di tiap sisi dengan masing-masing 7 biji. Biarkan kedua lubang induk kosong. Tentukan pemain pertama dengan suit."
+        },
+        {
+          "title": "Bagikan biji",
+          "body": "Ambil seluruh biji dari satu lubang milikmu. Bagikan satu per satu ke lubang berikutnya dan indukmu. Lewati induk lawan."
+        },
+        {
+          "title": "Lanjutkan giliran",
+          "body": "Jika biji terakhir masuk lubang berisi biji, ambil isinya dan lanjutkan. Jika masuk indukmu, pilih lubang milikmu untuk melanjutkan."
+        },
+        {
+          "title": "Akhiri giliran di lubang kosong",
+          "body": "Jika biji terakhir masuk lubang kosong, giliranmu berakhir dan lawan mulai bermain. Dalam variasi latihan ini, pemain tidak memakai aturan tembak."
+        },
+        {
+          "title": "Tentukan hasil putaran",
+          "body": "Putaran selesai ketika seluruh biji terkumpul di kedua induk. Hitung bijinya; pemain dengan jumlah lebih banyak menang. Jika sama, hasilnya seri."
+        }
+      ],
+      "sourceUrl": "https://budayamelayuriau.org/lingkup-materi/permainan-tradisional/permainan-congkak/",
+      "sourceLabel": "Budaya Melayu Riau, dokumentasi permainan",
+      "sources": [
+        {
+          "label": "Inventaris permainan rakyat Riau",
+          "url": "https://www.pustaka-bpkxii.org/slims/index.php?id=1364&keywords=&p=show_detail"
+        },
+        {
+          "label": "Aturan pengumpulan biji dan hasil akhir congklak",
+          "url": "https://kebudayaan.kemdikbud.go.id/ditwdb/congklak-betawi/"
+        }
+      ]
+    },
+    {
+      "id": "zapin-penyengat",
+      "provinceId": "kepulauan-riau",
+      "category": "tari",
+      "title": "Zapin Penyengat",
+      "subtitle": "Ragam zapin dari Pulau Penyengat",
+      "summary": "Kenali sebutan gerak pembuka dan penutup dalam catatan tradisi setempat.",
+      "image": "/assets/zapin.jpg",
+      "imageAlt": "Murid sekolah menampilkan tari zapin; foto pengantar, bukan dokumentasi khusus Zapin Penyengat",
+      "kind": "Pengenalan",
+      "community": "Masyarakat Melayu Penyengat",
+      "location": "Pulau Penyengat, Tanjungpinang",
+      "paragraphs": [
+        "Masyarakat Penyengat mengembangkan ragam zapin yang dikenal sebagai Zapin Penyengat. Catatan Direktorat Kepercayaan dan Tradisi menyebut Gerak Alif sebagai pembuka dan Tahto sebagai penutup.",
+        "Kelompok seni menampilkannya dalam kegiatan resmi dan hiburan. Kenali nama ragam dan musik bersama pelatih sebelum mempraktikkan geraknya. SwaraNusa belum memiliki tutorial Zapin Penyengat.",
+        "Foto pertunjukan zapin pada halaman ini merupakan ilustrasi pengenalan umum. SwaraNusa belum memiliki foto yang telah dipastikan sebagai Zapin Penyengat."
+      ],
+      "facts": [
+        {
+          "label": "Ragam daerah",
+          "value": "Penyengat"
+        },
+        {
+          "label": "Materi saat ini",
+          "value": "Pengenalan"
+        }
+      ],
+      "steps": [],
+      "sourceUrl": "https://kebudayaan.kemdikbud.go.id/ditkma/tari-zapin-penyengat/",
+      "sourceLabel": "Direktorat Kepercayaan dan Tradisi"
+    },
+    {
+      "id": "pulau-penyengat",
+      "provinceId": "kepulauan-riau",
+      "category": "wisata",
+      "title": "Pulau Penyengat",
+      "subtitle": "Mengenal sejarah Melayu dari pulau kecil",
+      "summary": "Mulai dari Masjid Raya Sultan Riau dan baca konteks tempat di sekitarnya.",
+      "image": "/assets/kepulauan-riau.jpg",
+      "imageAlt": "Masjid Raya Sultan Riau di Pulau Penyengat",
+      "kind": "Pengenalan",
+      "community": "Masyarakat Melayu Penyengat",
+      "location": "Pulau Penyengat, Kota Tanjungpinang",
+      "paragraphs": [
+        "Pengunjung Pulau Penyengat dapat mengenali peninggalan sejarah Melayu dan ruang kehidupan warga. Masjid Raya Sultan Riau menjadi salah satu bangunan yang dikenal di pulau ini.",
+        "Hormati aktivitas ibadah dan kehidupan warga ketika berjalan di pulau. Periksa kondisi penyeberangan melalui penyedia setempat sebelum datang. SwaraNusa belum mencantumkan jadwal kapal dan harga tiket."
+      ],
+      "facts": [
+        {
+          "label": "Lokasi",
+          "value": "Kota Tanjungpinang, Kepulauan Riau"
+        },
+        {
+          "label": "Foto",
+          "value": "Masjid Raya Sultan Riau"
+        }
+      ],
+      "steps": [],
+      "sourceUrl": "https://jadesta.kemenpar.go.id/desa/pulau_penyengat",
+      "sourceLabel": "Jadesta, Kementerian Pariwisata",
+      "mapQuery": "Pulau Penyengat Tanjungpinang"
+    },
+    {
+      "id": "galah-panjang",
+      "provinceId": "kepulauan-riau",
+      "category": "permainan",
+      "title": "Galah Panjang",
+      "subtitle": "Kerja sama di lapangan bergaris",
+      "summary": "Kenali peran regu penjaga dan penyerang dalam permainan Melayu ini.",
+      "image": "/assets/galah-panjang.svg",
+      "imageAlt": "Diagram regu penjaga dan penyerang di lapangan Galah Panjang",
+      "kind": "Pengenalan",
+      "community": "Masyarakat Melayu Kepulauan Riau",
+      "location": "Kepulauan Riau",
+      "paragraphs": [
+        "Guru di Tanjungpinang menggunakan galah panjang dalam pembelajaran permainan Melayu. Peneliti mencatat nama Belon di beberapa daerah Kepulauan Riau. Dua regu bergantian menjaga garis dan mencoba melewatinya.",
+        "Catatan ini memberi pengenalan peran pemain. SwaraNusa belum memverifikasi aturan lengkap tentang penilaian, pergantian regu, dan akhir pertandingan pada satu variasi setempat. Panduan bermain belum tersedia."
+      ],
+      "facts": [
+        {
+          "label": "Pemain",
+          "value": "6–10 orang, dua regu"
+        },
+        {
+          "label": "Tempat",
+          "value": "Lapangan datar, kering, dan bebas kendaraan"
+        },
+        {
+          "label": "Materi saat ini",
+          "value": "Pengenalan; aturan pertandingan lengkap belum tersedia"
+        }
+      ],
+      "steps": [],
+      "sourceUrl": "https://journalfai.unisla.ac.id/index.php/jce/article/download/1151/617",
+      "sourceLabel": "Rosa dan Retnaningsih, Journal of Childhood Education 2022"
+    },
+    {
+      "id": "candi-muarajambi",
+      "provinceId": "jambi",
+      "category": "wisata",
+      "title": "Kawasan Candi Muarajambi",
+      "subtitle": "Jejak pusat pembelajaran Buddha",
+      "summary": "Baca konteks kawasan sebelum menelusuri candi dan lingkungan sekitarnya.",
+      "image": "/assets/jambi.jpg",
+      "imageAlt": "Candi berbahan bata merah dalam kawasan Muarajambi",
+      "kind": "Pengenalan",
+      "community": "Masyarakat Muarajambi",
+      "location": "Kabupaten Muaro Jambi, Jambi",
+      "paragraphs": [
+        "Pengelola dan peneliti mengenali Muarajambi sebagai kawasan cagar budaya dengan jejak pusat pembelajaran agama Buddha. Pengunjung dapat memahami hubungan antara tinggalan bangunan dan lingkungan kawasan.",
+        "Jaga bangunan bata dengan mengikuti jalur dan petunjuk petugas. Hindari menaiki bagian yang dibatasi. SwaraNusa belum mencatat ketentuan kunjungan terbaru; periksa informasi pengelola sebelum datang."
+      ],
+      "facts": [
+        {
+          "label": "Konteks",
+          "value": "Kawasan Cagar Budaya Nasional"
+        },
+        {
+          "label": "Lokasi",
+          "value": "Kabupaten Muaro Jambi"
+        }
+      ],
+      "steps": [],
+      "sourceUrl": "https://kebudayaan.kemdikbud.go.id/revitalisasi-kcbn-muarajambi-membangun-pusat-peradaban/",
+      "sourceLabel": "Direktorat Jenderal Kebudayaan",
+      "mapQuery": "Kawasan Candi Muaro Jambi"
+    },
+    {
+      "id": "batik-jambi",
+      "provinceId": "jambi",
+      "category": "kerajinan",
+      "title": "Batik Jambi",
+      "subtitle": "Mengenali kain lewat para pembuatnya",
+      "summary": "Baca pengantar batik Jambi dan tanyakan ragamnya kepada perajin.",
+      "image": "/assets/batik.jpg",
+      "imageAlt": "Contoh kain batik Jambi dalam dokumentasi Wikimedia Commons",
+      "kind": "Pengenalan",
+      "community": "Perajin batik Jambi",
+      "location": "Jambi",
+      "paragraphs": [
+        "Penulis dalam jurnal Renjis membahas perubahan batik Jambi dari konteks istana menuju pemakaian dan produksi masa kini. Pengetahuan tentang kain mencakup pembuat, pengguna, serta perubahan bentuknya.",
+        "Saat mengenal batik Jambi, catat nama perajin dan penjelasan motif dari pembuatnya. SwaraNusa belum menyediakan daftar motif yang telah diperiksa atau panduan membatik."
+      ],
+      "facts": [
+        {
+          "label": "Materi saat ini",
+          "value": "Pengenalan"
+        },
+        {
+          "label": "Panduan membatik",
+          "value": "Belum tersedia"
+        }
+      ],
+      "steps": [],
+      "sourceUrl": "https://repositori.kemendikdasmen.go.id/17239/1/Renjis%20vol%205%20no%202%202020%2C%202.pdf",
+      "sourceLabel": "Jurnal Renjis Vol. 5 No. 2, 2020"
+    },
+    {
+      "id": "dol-bengkulu",
+      "provinceId": "bengkulu",
+      "category": "musik",
+      "title": "Dol Bengkulu",
+      "subtitle": "Bunyi perkusi dan konteks Tabot",
+      "summary": "Kenali dol dengan membedakan konteks perayaan dan pertunjukan umum.",
+      "image": "/assets/dol.jpg",
+      "imageAlt": "Seorang pemain menabuh dol Bengkulu pada dokumentasi Tokok Dol",
+      "kind": "Pengenalan",
+      "community": "Masyarakat Bengkulu, termasuk keluarga Tabot",
+      "location": "Kota Bengkulu",
+      "paragraphs": [
+        "Masyarakat Bengkulu mengenal dol sebagai musik perkusi yang berkaitan dengan perayaan Tabot. Pemusik juga mengembangkan penyajiannya dalam pertunjukan di luar konteks upacara.",
+        "Saat belajar, tanyakan konteks repertoar kepada pemusik. Jangan menganggap seluruh bagian upacara sebagai materi latihan bebas. SwaraNusa belum menyediakan tutorial pukulan atau rekaman pelajaran dol."
+      ],
+      "facts": [
+        {
+          "label": "Jenis",
+          "value": "Musik perkusi"
+        },
+        {
+          "label": "Materi saat ini",
+          "value": "Pengenalan konteks"
+        }
+      ],
+      "steps": [],
+      "sourceUrl": "https://kebudayaan.kemdikbud.go.id/ditwdb/pemerintah-kota-bengkulu-kota-perjumpaan-ragam-budaya/",
+      "sourceLabel": "Direktorat Warisan dan Diplomasi Budaya",
+      "sources": [
+        {
+          "label": "Penelitian perkembangan musik dol",
+          "url": "https://garuda.kemdiktisaintek.go.id/documents/detail/781201"
+        }
+      ]
+    },
+    {
+      "id": "benteng-marlborough",
+      "provinceId": "bengkulu",
+      "category": "wisata",
+      "title": "Benteng Marlborough",
+      "subtitle": "Membaca jejak kolonial di Bengkulu",
+      "summary": "Kenali benteng sebagai tempat untuk mempelajari sejarah kota.",
+      "image": "/assets/bengkulu.jpg",
+      "imageAlt": "Pemandangan udara Benteng Marlborough dan bangunan di Kota Bengkulu",
+      "kind": "Pengenalan",
+      "community": "Masyarakat Kota Bengkulu",
+      "location": "Kota Bengkulu",
+      "paragraphs": [
+        "Pihak East India Company membangun Benteng Marlborough pada masa kolonial Inggris. Pengunjung dapat membaca sejarah bangunan melalui kawasan dan keterangan yang disediakan pengelola.",
+        "Ikuti jalur kunjungan dan jaga koleksi maupun struktur bangunan. SwaraNusa belum memiliki jam buka serta harga tiket terbaru. Periksa informasi pengelola sebelum datang."
+      ],
+      "facts": [
+        {
+          "label": "Lokasi",
+          "value": "Kota Bengkulu"
+        },
+        {
+          "label": "Konteks",
+          "value": "Sejarah kolonial dan perkembangan kota"
+        }
+      ],
+      "steps": [],
+      "sourceUrl": "https://kebudayaan.kemdikbud.go.id/bpkw5/sejarah-singkat-fort-marlborough/",
+      "sourceLabel": "Balai Pelestarian Kebudayaan Wilayah V",
+      "mapQuery": "Benteng Marlborough Bengkulu"
+    },
+    {
+      "id": "pempek",
+      "provinceId": "sumatera-selatan",
+      "category": "kuliner",
+      "title": "Pempek",
+      "subtitle": "Ikan, sagu, dan cuko",
+      "summary": "Kenali hidangan Palembang lewat bahan, bentuk, dan cara penyajiannya.",
+      "image": "/assets/pempek.jpg",
+      "imageAlt": "Pempek lenjer dan krispi bersama cuko",
+      "kind": "Pengenalan",
+      "community": "Masyarakat Palembang",
+      "location": "Palembang, Sumatera Selatan",
+      "paragraphs": [
+        "Pembuat pempek mengolah ikan dan tepung menjadi beberapa bentuk, lalu menyajikannya dengan cuko. Kamu dapat mengenali nama seperti lenjer dan kapal selam ketika memilih hidangan.",
+        "Tanyakan bahan kepada pembuat jika kamu menghindari ikan, telur, atau bahan tertentu. Komposisi dapat berbeda antarpenjual. SwaraNusa belum menyediakan resep atau daftar penjual yang telah diperiksa."
+      ],
+      "facts": [
+        {
+          "label": "Bahan yang umum",
+          "value": "Ikan dan tepung sagu atau tapioka"
+        },
+        {
+          "label": "Pelengkap",
+          "value": "Cuko"
+        }
+      ],
+      "steps": [],
+      "sourceUrl": "https://www.indonesia.travel/id/id/travel-ideas/gastronomy/pempek",
+      "sourceLabel": "Indonesia Travel, Kementerian Pariwisata"
+    },
+    {
+      "id": "jembatan-ampera",
+      "provinceId": "sumatera-selatan",
+      "category": "wisata",
+      "title": "Jembatan Ampera",
+      "subtitle": "Penanda kota di atas Sungai Musi",
+      "summary": "Kenali Ampera dalam hubungan warga Palembang dengan Sungai Musi.",
+      "image": "/assets/sumatera-selatan.jpg",
+      "imageAlt": "LRT Palembang melintas dengan Jembatan Ampera di latar",
+      "kind": "Pengenalan",
+      "community": "Masyarakat Palembang",
+      "location": "Sungai Musi, Kota Palembang",
+      "paragraphs": [
+        "Warga dan pengunjung mengenali Jembatan Ampera sebagai salah satu penanda Kota Palembang. Dari tepian Musi, kamu dapat melihat hubungan jembatan, aktivitas sungai, dan ruang kota.",
+        "Gunakan area pejalan kaki yang diperbolehkan dan patuhi petunjuk lalu lintas. Halaman ini tidak mencantumkan jadwal acara atau layanan wisata sungai. Periksa rincian kunjungan melalui sumber setempat."
+      ],
+      "facts": [
+        {
+          "label": "Lokasi",
+          "value": "Sungai Musi, Palembang"
+        },
+        {
+          "label": "Jenis materi",
+          "value": "Pengenalan tempat"
+        }
+      ],
+      "steps": [],
+      "sourceUrl": "https://palembang.go.id/charming/jembatan-ampera",
+      "sourceLabel": "Pemerintah Kota Palembang",
+      "mapQuery": "Jembatan Ampera Palembang"
+    },
+    {
+      "id": "cak-ingkling",
+      "provinceId": "sumatera-selatan",
+      "category": "permainan",
+      "title": "Cak Ingkling",
+      "subtitle": "Lompat petak dan jaga keseimbangan",
+      "summary": "Kenali petak, penanda uncak, dan variasi permainan melompat di Sumatera Selatan.",
+      "image": "/assets/cak-ingkling.svg",
+      "imageAlt": "Ilustrasi petak dan penanda untuk latihan awal Cak Ingkling",
+      "kind": "Pengenalan",
+      "community": "Masyarakat Sumatera Selatan",
+      "location": "Sumatera Selatan",
+      "paragraphs": [
+        "Catatan WBTb menjelaskan Cak Ingkling sebagai permainan individu untuk 2–6 orang. Setiap pemain memakai penanda yang disebut uncak.",
+        "Pola petak dan cara melompat dapat mengikuti kesepakatan. Gunakan benda tumpul, bukan pecahan keramik tajam. Ilustrasi hanya membantu pengenalan alat; baca sumber untuk bentuk lapangan yang dicatat.",
+        "SwaraNusa belum memverifikasi urutan putaran dan penentuan pemenang dalam variasi ini. Materi saat ini memberi pengenalan, belum panduan bermain lengkap."
+      ],
+      "facts": [
+        {
+          "label": "Pemain",
+          "value": "2–6 orang"
+        },
+        {
+          "label": "Persiapan",
+          "value": "Area datar sekitar 3 × 4 meter dan penanda tumpul"
+        },
+        {
+          "label": "Materi saat ini",
+          "value": "Pengenalan; panduan putaran lengkap belum tersedia"
+        }
+      ],
+      "steps": [],
+      "sourceUrl": "https://kebudayaan.kemdikbud.go.id/ditwdb/cak-ingkling/",
+      "sourceLabel": "Direktorat Warisan dan Diplomasi Budaya"
+    },
+    {
+      "id": "dambus-bangka",
+      "provinceId": "bangka-belitung",
+      "category": "musik",
+      "title": "Dambus Bangka",
+      "subtitle": "Mengenali alat musik petik",
+      "summary": "Baca tentang dambus dan perkembangannya dalam kesenian Bangka.",
+      "image": "/assets/dambus.jpg",
+      "imageAlt": "Alat musik petik dambus Bangka dalam dokumentasi Wikimedia Commons",
+      "kind": "Pengenalan",
+      "community": "Masyarakat Bangka",
+      "location": "Pulau Bangka",
+      "paragraphs": [
+        "Pemusik Bangka mengenal dambus sebagai alat musik petik dalam kesenian setempat. Catatan Balai Pelestarian Nilai Budaya Kepulauan Riau membahas perkembangan dambus dan hubungannya dengan lingkungan budaya Bangka.",
+        "Untuk mulai belajar, dengarkan pemain yang menyebut nama alat serta repertoarnya. Minta penjelasan bentuk dan penyajian kepada pemusik. SwaraNusa belum memiliki tutorial petikan atau audio pelajaran."
+      ],
+      "facts": [
+        {
+          "label": "Jenis alat",
+          "value": "Alat musik petik"
+        },
+        {
+          "label": "Materi praktik",
+          "value": "Belum tersedia"
+        }
+      ],
+      "steps": [],
+      "sourceUrl": "https://kebudayaan.kemdikbud.go.id/bpnbkepri/dambus-bangka-yang-mempesona/",
+      "sourceLabel": "Balai Pelestarian Nilai Budaya Kepulauan Riau"
+    },
+    {
+      "id": "tanjung-tinggi",
+      "provinceId": "bangka-belitung",
+      "category": "wisata",
+      "title": "Pantai Tanjung Tinggi",
+      "subtitle": "Membaca pesisir Belitung",
+      "summary": "Kenali pantai dengan batu granit di Kecamatan Sijuk.",
+      "image": "/assets/bangka-belitung.jpg",
+      "imageAlt": "Batu granit besar di Pantai Tanjung Tinggi, Belitung",
+      "kind": "Pengenalan",
+      "community": "Masyarakat pesisir Belitung",
+      "location": "Kecamatan Sijuk, Kabupaten Belitung",
+      "paragraphs": [
+        "Pengunjung Tanjung Tinggi dapat melihat batu granit di sepanjang pesisir Belitung. Pantai ini menjadi salah satu tempat yang dikenal dalam kunjungan ke pulau tersebut.",
+        "Perhatikan cuaca dan arus sebelum mendekati air. Ikuti arahan petugas atau warga setempat dan bawa kembali sampahmu. SwaraNusa belum mencatat kondisi laut, biaya, atau ketentuan kunjungan terbaru."
+      ],
+      "facts": [
+        {
+          "label": "Lokasi",
+          "value": "Kecamatan Sijuk, Kabupaten Belitung"
+        },
+        {
+          "label": "Bentang tempat",
+          "value": "Pantai dan batu granit"
+        }
+      ],
+      "steps": [],
+      "sourceUrl": "https://www.indonesia.travel/gb/en/travel-ideas/marine/top-9-special-places-to-enjoy-your-belitung-island-holiday",
+      "sourceLabel": "Indonesia Travel, Kementerian Pariwisata",
+      "mapQuery": "Pantai Tanjung Tinggi Belitung"
+    },
+    {
+      "id": "tapis-lampung",
+      "provinceId": "lampung",
+      "category": "kerajinan",
+      "title": "Tapis Lampung",
+      "subtitle": "Kain dan sulaman benang",
+      "summary": "Kenali pekerjaan perajin pada bidang kain dan ragam sulamannya.",
+      "image": "/assets/tapis.jpg",
+      "imageAlt": "Kain tapis Lampung berwarna hitam dan merah dengan sulaman benang keemasan",
+      "kind": "Pengenalan",
+      "community": "Masyarakat Lampung",
+      "location": "Lampung",
+      "paragraphs": [
+        "Perajin tapis menghias kain tenun dengan sulaman. Catatan kebudayaan menyebut penggunaan benang emas, perak, atau sutra pada bidang tertentu dalam kain.",
+        "Masyarakat Lampung memakai ragam tapis dalam konteks yang berbeda. Tanyakan nama, pembuat, dan pemakaiannya sebelum menganggap satu motif mewakili seluruh Lampung. SwaraNusa belum menyediakan panduan menyulam tapis."
+      ],
+      "facts": [
+        {
+          "label": "Teknik",
+          "value": "Tenun dan sulaman"
+        },
+        {
+          "label": "Bahan pengenal",
+          "value": "Kain dasar dan benang hias"
+        }
+      ],
+      "steps": [],
+      "sourceUrl": "https://kebudayaan.kemdikbud.go.id/ditwdb/tapis/",
+      "sourceLabel": "Direktorat Warisan dan Diplomasi Budaya"
+    },
+    {
+      "id": "seruit",
+      "provinceId": "lampung",
+      "category": "kuliner",
+      "title": "Seruit",
+      "subtitle": "Mengenal kebiasaan nyeruit",
+      "summary": "Baca hidangan dan kebersamaan dalam tradisi makan di Lampung.",
+      "image": "/assets/seruit.jpg",
+      "imageAlt": "Hidangan seruit Lampung dalam dokumentasi Wikimedia Commons",
+      "kind": "Pengenalan",
+      "community": "Masyarakat Lampung",
+      "location": "Lampung",
+      "paragraphs": [
+        "Dinas Pariwisata Lampung menjelaskan seruit sebagai perpaduan sambal terasi, tempoyak, dan ikan. Warga menyebut kegiatan makan bersama keluarga atau teman sebagai nyeruit.",
+        "Penyajian dan bahan dapat berbeda menurut pembuat. Tanyakan komposisinya jika kamu menghindari ikan, terasi, atau durian. Halaman ini memberi pengantar, belum resep atau rekomendasi penjual."
+      ],
+      "facts": [
+        {
+          "label": "Bahan dalam sumber",
+          "value": "Sambal terasi, tempoyak durian, dan ikan"
+        },
+        {
+          "label": "Konteks",
+          "value": "Makan bersama"
+        }
+      ],
+      "steps": [],
+      "sourceUrl": "https://disparekraf.lampungprov.go.id/pages/seruit",
+      "sourceLabel": "Dinas Pariwisata dan Ekonomi Kreatif Lampung"
+    }
+  ],
+  "photos": [
+    {
+      "file": "aceh.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Masjid_Raya_Baiturrahman_di_Banda_Aceh.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Masjid_Raya_Baiturrahman_di_Banda_Aceh.jpg",
+      "author": "Felianiwiki",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "title": "File:Masjid Raya Baiturrahman di Banda Aceh.jpg",
+      "path": "/assets/aceh.jpg",
+      "modifications": "Resize to web resolution; display may crop to layout."
+    },
+    {
+      "file": "sumatera-utara.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Lake_Toba_and_the_surrounding_hills.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lake_Toba_and_the_surrounding_hills.jpg",
+      "author": "Bisajunisa",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:Lake Toba and the surrounding hills.jpg",
+      "path": "/assets/sumatera-utara.jpg",
+      "modifications": "Resize to web resolution; display may crop to layout."
+    },
+    {
+      "file": "riau.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Istana_Kerajaan_Siak_%282%29.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Istana_Kerajaan_Siak_(2).jpg",
+      "author": "Wagino 20100516",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "title": "File:Istana Kerajaan Siak (2).jpg",
+      "path": "/assets/riau.jpg",
+      "modifications": "Resize to web resolution; display may crop to layout."
+    },
+    {
+      "file": "kepulauan-riau.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Masjid_Raya_Sultan_Riau%2C_Pulau_Penyengat.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Masjid_Raya_Sultan_Riau,_Pulau_Penyengat.jpg",
+      "author": "Rahma Azizah",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:Masjid Raya Sultan Riau, Pulau Penyengat.jpg",
+      "path": "/assets/kepulauan-riau.jpg",
+      "modifications": "Resize to web resolution; display may crop to layout."
+    },
+    {
+      "file": "jambi.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Candi_Muaro_Jambi_di_siang_hari.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Candi_Muaro_Jambi_di_siang_hari.jpg",
+      "author": "Ryan Wijaya",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:Candi Muaro Jambi di siang hari.jpg",
+      "path": "/assets/jambi.jpg",
+      "modifications": "Resize to web resolution; display may crop to layout."
+    },
+    {
+      "file": "bengkulu.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Bengkulu_City_and_Fort_Marlborough.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bengkulu_City_and_Fort_Marlborough.jpg",
+      "author": "sbamueller",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "title": "File:Bengkulu City and Fort Marlborough.jpg",
+      "path": "/assets/bengkulu.jpg",
+      "modifications": "Resize to web resolution; display may crop to layout."
+    },
+    {
+      "file": "sumatera-selatan.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/LRT_Palembang_Ampera_Bridge.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:LRT_Palembang_Ampera_Bridge.jpg",
+      "author": "Gaudi Renanda",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:LRT Palembang Ampera Bridge.jpg",
+      "path": "/assets/sumatera-selatan.jpg",
+      "modifications": "Resize to web resolution; display may crop to layout."
+    },
+    {
+      "file": "bangka-belitung.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Tanjung_Tinggi_Beach%2C_Belitung.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tanjung_Tinggi_Beach,_Belitung.jpg",
+      "author": "Bersamaku",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:Tanjung Tinggi Beach, Belitung.jpg",
+      "path": "/assets/bangka-belitung.jpg",
+      "modifications": "Resize to web resolution; display may crop to layout."
+    },
+    {
+      "file": "lampung.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Menara_Siger.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Menara_Siger.jpg",
+      "author": "DOLAN YOK",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:Menara Siger.jpg",
+      "path": "/assets/lampung.jpg",
+      "modifications": "Resize to web resolution; display may crop to layout."
+    },
+    {
+      "file": "hero-sumbar.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Istana_Pagaruyung_%28Pagaruyung_Palace%29.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Istana_Pagaruyung_(Pagaruyung_Palace).jpg",
+      "author": "Herusutimbul",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "Istana Pagaruyung (Pagaruyung Palace)",
+      "path": "/assets/hero-sumbar.jpg",
+      "modifications": "Resize to web resolution; display may crop to layout."
+    },
+    {
+      "file": "tari-piring.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Tari_Piring_di_Pesisir_Selatan.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tari_Piring_di_Pesisir_Selatan.jpg",
+      "author": "Syofiardi Bachyul Jb",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:Tari Piring di Pesisir Selatan.jpg",
+      "path": "/assets/tari-piring.jpg",
+      "modifications": "Resize to web resolution; display may crop to layout."
+    },
+    {
+      "file": "rendang.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Beef_Rendang..JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beef_Rendang..JPG",
+      "author": "Miansari66",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "title": "File:Beef Rendang..JPG",
+      "path": "/assets/rendang.jpg",
+      "modifications": "Resize to web resolution; display may crop to layout."
+    },
+    {
+      "file": "songket.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Kain_songket_Pandai_Sikek.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kain_songket_Pandai_Sikek.jpg",
+      "author": "Adhmi",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:Kain songket Pandai Sikek.jpg",
+      "path": "/assets/songket.jpg",
+      "modifications": "Resize to web resolution; display may crop to layout."
+    },
+    {
+      "file": "saluang.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Musician_playing_saluang_darek.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Musician_playing_saluang_darek.jpg",
+      "author": "Molka13",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:Musician playing saluang darek.jpg",
+      "path": "/assets/saluang.jpg",
+      "modifications": "Resize to web resolution; display may crop to layout."
+    },
+    {
+      "file": "saman.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Tari_Saman.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tari_Saman.jpg",
+      "author": "Adearmanda",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:Tari Saman.jpg",
+      "path": "/assets/saman.jpg",
+      "modifications": "Resize to web resolution; display may crop to layout."
+    },
+    {
+      "file": "ulos.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Halak_Batak.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Halak_Batak.jpg",
+      "author": "Angeline Claudia",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:Halak Batak.jpg",
+      "path": "/assets/ulos.jpg",
+      "modifications": "Resize to web resolution; display may crop to layout."
+    },
+    {
+      "file": "pempek.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Pempek_lenjer_dan_krispi.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pempek_lenjer_dan_krispi.jpg",
+      "author": "Pungkas nurrohman",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:Pempek lenjer dan krispi.jpg",
+      "path": "/assets/pempek.jpg",
+      "modifications": "Resize to web resolution; display may crop to layout."
+    },
+    {
+      "file": "tapis.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Black_and_red_tapis.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Black_and_red_tapis.png",
+      "author": "Crisco 1492",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "title": "File:Black and red tapis.png",
+      "path": "/assets/tapis.jpg",
+      "modifications": "Resize to web resolution; display may crop to layout."
+    },
+    {
+      "file": "congklak.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/YosriCongkak1.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:YosriCongkak1.jpg",
+      "author": "Yosri",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "title": "File:YosriCongkak1.jpg",
+      "path": "/assets/congklak.jpg",
+      "modifications": "Resize to web resolution; display may crop to layout."
+    },
+    {
+      "file": "dambus.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Alat_Musik_Dambus.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alat_Musik_Dambus.jpg",
+      "author": "Puji Hastuti",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:Alat Musik Dambus.jpg",
+      "path": "/assets/dambus.jpg",
+      "modifications": "Resize to web resolution; display may crop to layout."
+    },
+    {
+      "file": "batik.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Batik-jambi.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Batik-jambi.jpg",
+      "author": "Aditya alakbar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:Batik-jambi.jpg",
+      "path": "/assets/batik.jpg",
+      "modifications": "Resize to web resolution; display may crop to layout."
+    },
+    {
+      "file": "seruit.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/SERUIT_Lampung.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:SERUIT_Lampung.jpg",
+      "author": "Irawanprayogo",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "title": "File:SERUIT Lampung.jpg",
+      "path": "/assets/seruit.jpg",
+      "modifications": "Resize to web resolution; display may crop to layout."
+    },
+    {
+      "file": "dol.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Tokok_Dol.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tokok_Dol.jpg",
+      "author": "Muhammad Ikhsan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:Tokok Dol.jpg",
+      "path": "/assets/dol.jpg",
+      "modifications": "Resize to web resolution; display may crop to layout."
+    },
+    {
+      "file": "zapin.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Zapin.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zapin.jpg",
+      "author": "Airiz",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "title": "File:Zapin.jpg",
+      "path": "/assets/zapin.jpg",
+      "modifications": "Resize to web resolution; display may crop to layout."
+    }
+  ],
+  "contentNotes": {
+    "reviewedAt": "2026-10-23",
+    "scope": "Koleksi awal 10 provinsi wilayah Sumatra. Provinsi menjadi pintu penelusuran, bukan batas kepemilikan budaya.",
+    "practiceGuides": "Satu panduan latihan congkak untuk satu putaran tanpa tembak dan lubang hangus. Galah Panjang dan Cak Ingkling tetap berupa pengenalan sampai aturan putaran lengkap diperiksa. Tidak ada tutorial tari atau materi sakral rekaan."
+  }
+}
