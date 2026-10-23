@@ -1,4 +1,4 @@
-import { cp, mkdir, readFile, rm, writeFile } from 'node:fs/promises';
+import { cp, mkdir, readFile, readdir, rm, writeFile } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
 import { createHash } from 'node:crypto';
@@ -20,9 +20,17 @@ await writeFile(configPath, config.replace(
 ));
 
 const withBase = html => html.replace(/\b(href|src)="\/(?!\/)/g, `$1="${basePath}/`);
+const files = (await readdir(output)).filter(file => /\.(js|css|json)$/.test(file)).sort();
+const revisionHash = createHash('sha256');
+for (const file of files) revisionHash.update(file).update(await readFile(path.join(output, file)));
+const revision = revisionHash.digest('hex').slice(0, 10);
+// Version module imports together, so a fresh release also refreshes its dependencies.
+for (const file of files.filter(file => file.endsWith('.js'))) {
+  const module = await readFile(path.join(output, file), 'utf8');
+  await writeFile(path.join(output, file), module.replace(/(from\s+['"])(\.[^'"]+\.js)(['"])/g, `$1$2?v=${revision}$3`));
+}
 let index = withBase(await readFile(path.join(publicRoot, 'index.html'), 'utf8'));
 for (const file of ['styles.css', 'polish.css', 'app.js']) {
-  const revision = createHash('sha256').update(await readFile(path.join(publicRoot, file))).digest('hex').slice(0, 10);
   index = index.replace(`/${file}"`, `/${file}?v=${revision}"`);
 }
 await writeFile(path.join(output, 'index.html'), index);
