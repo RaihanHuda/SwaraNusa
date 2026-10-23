@@ -1,4 +1,4 @@
-import {site} from './site-config.js?v=e5e1d78135';
+import {site} from './site-config.js?v=f6575c5fba';
 export const esc = value => String(value ?? '').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const paths = {
  pause:'<path d="M9 5v14M15 5v14"/>',play:'<path d="m9 5 10 7-10 7Z"/>',
