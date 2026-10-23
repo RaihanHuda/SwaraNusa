@@ -590,3 +590,6 @@ textarea { border-radius: 12px; }
   .request-band-art { display: grid; height: 175px; margin-bottom: 28px; }
   .request-band-art img { width: 180px; height: 175px; }
 }
+@media (max-width: 360px) {
+  .hero-carousel { min-height: 770px; }
+}
