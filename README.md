@@ -30,7 +30,7 @@ PORT=4300 node server.mjs
 
 - Beranda dan pilihan 10 provinsi; kategori Belajar Seni, Wisata & Ikon, Kuliner, Permainan Tradisional.
 - 27 materi bersumber, 1 panduan permainan, serta kredit foto.
-- Banner atas, sorotan 10 provinsi berurutan, dan bacaan campuran memakai karusel 3 detik. Foto banner, nama tempat dan tautan provinsi berganti bersama; judul utama tetap. Pengunjung dapat menggeser, memakai panah, atau menjeda. Karusel berhenti saat tidak terlihat, saat tab tidak aktif, dan setelah interaksi manual. Pengaturan reduced motion menonaktifkan putaran otomatis saat halaman dimuat.
+- Banner atas, sorotan 10 provinsi berurutan, dan bacaan campuran memakai karusel 3 detik. Foto banner, nama tempat dan tautan provinsi berganti bersama; judul utama tetap. Pengunjung dapat menggeser melalui sentuhan atau mouse, atau memakai panah keyboard. Tombol play/pause dan panah pada layar dihapus. Putaran tetap berjalan saat kursor berada di atas gambar dan berlanjut setelah gestur pointer selesai. Fokus keyboard menjeda sampai fokus keluar. Saat tidak terlihat, tab tidak aktif, atau reduced motion aktif, karusel tidak berputar otomatis.
 - Daftar dan masuk akun; password di-hash menggunakan scrypt dan sesi memakai cookie HttpOnly.
 - Request, tinjauan pengelola, tanggapan ahli, pemilihan pendamping, pembatalan, penyelesaian, dan pencarian ulang.
 - Riwayat dan notifikasi dalam akun. SQLite menyimpan perubahan setelah server berhenti.

@@ -104,7 +104,6 @@ body {
 .province-row > .icon { width: 28px; height: 28px; padding: 7px; margin-left: 0; border-radius: 50%; background: #f1f5ec; color: #657d57; }
 .province-feature-content h3 { font-size: 37px; }
 .province-feature-content .feature-cta { font-size: 13px; }
-.carousel-control { border-color: #d5dfcd; background: #fffff9e6; box-shadow: 0 3px 8px #29473308; }
 .carousel-count { font-weight: 550; }
 
 /* Photographs sit inside a raised reading surface; the text keeps a clear hierarchy. */
@@ -129,7 +128,7 @@ body {
 .culture-track { padding: 10px 4px 24px; }
 .culture-slide .entry-card { height: 100%; }
 .culture-slide .entry-photo { height: 236px; }
-.culture-carousel .carousel-controls { padding-top: 0; }
+.culture-carousel .carousel-caption { padding-top: 0; }
 
 .request-band { padding: 38px; margin-block: 35px 85px; gap: 30px; border: 1px solid var(--surface-border); border-radius: 34px; background: radial-gradient(ellipse at 10% 70%, #f4e8c666, transparent 45%), var(--surface); box-shadow: var(--shadow-surface); }
 .request-band h2 { font-size: 38px; }

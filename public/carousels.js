@@ -21,15 +21,12 @@ export function mixEntries(entries, provinces, random = Math.random) {
 function mountCarousel(root) {
   const track = root.querySelector('[data-carousel-track]');
   const originals = [...track.children];
-  const previous = root.querySelector('[data-carousel-prev]');
-  const next = root.querySelector('[data-carousel-next]');
-  const toggle = root.querySelector('[data-carousel-toggle]');
   const counter = root.querySelector('[data-carousel-count]');
   const announcer = root.querySelector('[data-carousel-announcement]');
   const motion = matchMedia('(prefers-reduced-motion: reduce)');
   const listeners = [];
   let slides = [], stops = [], origin = 0, cycleWidth = 0, current = 0;
-  let rotation = !motion.matches, visible = false, hovered = false, rebuilding = false;
+  let visible = false, rebuilding = false;
   let timer = 0, settleTimer = 0, resizeTimer = 0, frame = 0, destroyed = false;
   let drag = null, suppressClickUntil = 0;
   const delay = 3000;
@@ -40,17 +37,10 @@ function mountCarousel(root) {
   const clearTimer = () => { clearTimeout(timer); timer = 0; };
   const schedule = () => {
     clearTimer();
-    if (rotation && visible && !hovered && !document.hidden && !destroyed && !rebuilding && originals.length > 1) {
+    const keyboardFocus = root.contains(document.activeElement) && document.activeElement.matches(':focus-visible');
+    if (!motion.matches && visible && !keyboardFocus && !drag && !document.hidden && !destroyed && !rebuilding && originals.length > 1) {
       timer = setTimeout(() => move(1), delay);
     }
-  };
-  const setRotation = value => {
-    rotation = value;
-    toggle.setAttribute('aria-label', value ? 'Jeda pergantian otomatis' : 'Mulai pergantian otomatis');
-    toggle.setAttribute('aria-pressed', String(!value));
-    toggle.querySelector('[data-pause-icon]').hidden = !value;
-    toggle.querySelector('[data-play-icon]').hidden = value;
-    schedule();
   };
   const sync = () => {
     let nearest = 0;
@@ -83,7 +73,6 @@ function mountCarousel(root) {
     schedule();
   };
   const move = (direction, manual = false) => {
-    if (manual) setRotation(false);
     clearTimer();
     const target = slides.find((slide, i) => Number(slide.dataset.carouselIndex) === current && stops[i] >= origin - 1 && stops[i] < origin + cycleWidth - 1);
     const index = slides.indexOf(target);
@@ -121,16 +110,9 @@ function mountCarousel(root) {
     schedule();
   };
 
-  on(previous, 'click', () => move(-1, true));
-  on(next, 'click', () => move(1, true));
-  on(toggle, 'click', () => setRotation(!rotation));
-  on(root, 'mouseenter', () => {
-    if (matchMedia('(hover: hover) and (pointer: fine)').matches) { hovered = true; clearTimer(); }
-  });
-  on(root, 'mouseleave', () => { hovered = false; schedule(); });
-  on(root, 'focusin', event => {
-    if (event.target !== toggle) setRotation(false);
-  });
+  // Pointer hover does not stop rotation. Keyboard focus pauses it until focus leaves.
+  on(root, 'focusin', schedule);
+  on(root, 'focusout', () => queueMicrotask(() => { if (!destroyed) schedule(); }));
   on(track, 'keydown', event => {
     if(event.target !== track) return;
     if (event.key === 'ArrowLeft' || event.key === 'ArrowRight') {
@@ -147,11 +129,11 @@ function mountCarousel(root) {
     settleTimer = setTimeout(settle, 160);
   }, { passive: true });
   on(track, 'wheel', event => {
-    if (Math.abs(event.deltaX) > Math.abs(event.deltaY) || event.shiftKey) setRotation(false);
+    if (Math.abs(event.deltaX) > Math.abs(event.deltaY) || event.shiftKey) schedule();
   }, { passive: true });
   on(track, 'dragstart', event => event.preventDefault());
   on(track, 'pointerdown', event => {
-    if (event.button !== 0 || (event.pointerType === 'mouse' && event.target.closest('button'))) return;
+    if (event.button !== 0) return;
     drag = { id: event.pointerId, x: event.clientX, y: event.clientY, left: track.scrollLeft, type: event.pointerType, moved: false };
     clearTimer();
   });
@@ -161,7 +143,7 @@ function mountCarousel(root) {
     const dy = event.clientY - drag.y;
     if (!drag.moved && Math.abs(dx) > 8 && Math.abs(dx) > Math.abs(dy)) {
       drag.moved = true;
-      setRotation(false);
+      clearTimer();
       if (drag.type === 'mouse') {
         track.classList.add('is-dragging');
         track.setPointerCapture(event.pointerId);
@@ -203,10 +185,9 @@ function mountCarousel(root) {
     clearTimeout(resizeTimer);
     resizeTimer = setTimeout(rebuild, 120);
   }, { passive: true });
-  on(motion, 'change', () => { if (motion.matches) setRotation(false); });
+  on(motion, 'change', schedule);
 
   rebuild();
-  setRotation(rotation);
   const observer = new IntersectionObserver(records => {
     visible = records[0].isIntersecting && records[0].intersectionRatio >= .2;
     schedule();

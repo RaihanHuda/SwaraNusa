@@ -51,3 +51,10 @@ Latar memakai radial gradient hijau, krem dan emas dengan background-attachment 
 Beranda menambahkan pengantar tiga tautan, header daftar provinsi, ikon kategori dan permukaan bacaan dengan border serta bayangan. Halaman Tentang memakai panel cara belajar di kiri dan dua panel koleksi/layanan di kanan; rujukan punya baris panel tersendiri. Judul bagian memakai DM Sans, sedangkan merek dan judul foto utama mempertahankan DM Serif Display. Ilustrasi Sumatra dan ketiga karusel tetap digunakan.
 
 Pemeriksaan browser: lebar 1440, 768, 390 dan 320 piksel, tanpa luapan horizontal pada beranda, Tentang dan koleksi provinsi yang diperiksa. Dropdown memuat 10 daerah, menu ponsel buka/tutup, tautan pengantar menuju bagian bacaan, perpindahan otomatis serta manual pada bacaan dan sorotan provinsi, dan tujuan Sumatera Barat sesuai dengan slide. Tidak ada perubahan konten budaya, backend, atau ketersediaan request publik.
+
+
+## Kontrol karusel dan banner otomatis, 23 Oktober 2026
+
+Permintaan pengguna: hapus tombol play/pause serta panah pada ketiga karusel. Markup tombol, listener tombol, dan gaya yang tidak terpakai dihapus; penghitung dan petunjuk geser tetap ada. Hover tidak lagi menjeda putaran. Gestur pointer menunda timer hingga selesai; fokus keyboard menjeda sampai fokus keluar. Reduced motion, jeda di luar layar/tab tersembunyi, dan pembersihan timer saat berpindah rute tetap berlaku.
+
+Diagnosis browser: tab pengguna memuat app.js revisi 104a84aa6c dengan dua karusel, sehingga banner atas pada tab tersebut masih statis. Pemeriksaan pratinjau baru: banner Aceh ke Sumatera Utara setelah 3,8 detik saat pointer tetap hover dan fokus pointer berada di track; nol tombol di ketiga karusel. Sorotan provinsi serta bacaan berpindah otomatis, panah keyboard menggeser, fokus keyboard mempertahankan slide selama 3,8 detik, lalu putaran berlanjut setelah fokus keluar. Lebar 390 piksel tanpa luapan horizontal.
