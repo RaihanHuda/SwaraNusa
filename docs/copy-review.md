@@ -27,3 +27,10 @@ Tidak ada video, rating, harga, klaim mitra, atau statistik pengunjung rekaan. A
 ## Pratinjau publik, 23 Oktober 2026
 
 Akun dan request menyatakan belum dibuka. Formulir publik tidak menerima data pribadi atau mengklaim request telah dikirim. Halaman Tentang menjelaskan koleksi belum memenuhi lima per kategori. Bahasa pengantar tetap memakai pedoman stop-slop. Skor tinjauan: directness 9, rhythm 8, trust 10, authenticity 8, density 9 (44/50).
+
+
+## Penataan panel, 23 Oktober 2026
+
+Teks pengantar menyebut tindakan nyata: Pilih daerah, Temukan topik, Baca rujukannya. Ikon hanya mendampingi label; tautan tetap memiliki teks. Jumlah 10 provinsi dan 27 materi pada Tentang berasal dari data koleksi. Batas lima per kategori dan belum dibukanya request tetap dinyatakan.
+
+Tiga kasus: pengantar provinsi tetap sesuai koleksi yang ada; panel pendamping menyatakan layanan publik belum dibuka; pesan request berhasil tidak diubah karena perubahan ini tidak menyentuh alur penyimpanan. Tidak ditambahkan statistik pengunjung, klaim ahli, ulasan atau harga. Peninjauan mandiri: directness 9, rhythm 8, trust 10, authenticity 8, density 9, total 44/50.

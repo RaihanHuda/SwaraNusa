@@ -35,6 +35,7 @@ PORT=4300 node server.mjs
 - Request, tinjauan pengelola, tanggapan ahli, pemilihan pendamping, pembatalan, penyelesaian, dan pencarian ulang.
 - Riwayat dan notifikasi dalam akun. SQLite menyimpan perubahan setelah server berhenti.
 - Layout untuk desktop dan ponsel; dukungan keyboard dan reduced motion.
+- Latar gradasi hijau/krem/emas, panel berbayang, ikon kategori dan halaman Tentang dengan panel cara belajar, koleksi, serta pendamping. Aturan tampilannya berada di `public/atmosphere.css`.
 
 Buka **Masuk > Coba alur proyek** untuk mencoba akun pengunjung, pendamping, atau pengelola demo. Pengelola dapat menyetujui request; pendamping demo dapat menanggapi request yang sudah disetujui. Ganti peran dari halaman akun untuk mengikuti seluruh alur.
 

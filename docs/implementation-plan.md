@@ -42,3 +42,12 @@ Pemeriksaan: 40 susunan acak mempertahankan semua 27 entri dan memuat 10 provins
 Banner atas memakai putaran 10 daerah Aceh sampai Lampung dengan mesin karusel yang sama. Satu slide menyimpan foto dan tautan lokasi; judul utama tetap satu. Kontrol jeda, panah dan geser horizontal tersedia. Ilustrasi tanda tanya serta dua lingkaran diganti siluet Sumatra dari garis pantai Natural Earth 1:50m, domain publik, dengan kredit pada halaman sumber. Tidak ada penambahan materi budaya.
 
 Pemeriksaan browser: banner berpindah Aceh ke Sumatera Utara sesudah 3,8 detik, jeda mempertahankan slide selama 3,8 detik, putaran mundur Aceh ke Lampung serta tautan menuju halaman Lampung sesuai. Lebar 1440, 390 dan 320 piksel diperiksa; pada ponsel kontrol, keterangan lokasi dan tombol utama terpisah tanpa luapan horizontal. Banner diberi ruang tambahan pada lebar 360 piksel ke bawah agar tombol tetap terpisah. Panah keyboard pada area geser juga diperiksa.
+
+
+## Gradasi dan panel antarmuka, 23 Oktober 2026
+
+Latar memakai radial gradient hijau, krem dan emas dengan background-attachment fixed, mengikuti prinsip warna menyebar pada referensi SIGAP. Tidak ada kode aplikasi SIGAP yang disalin. Aturan baru dipisahkan di public/atmosphere.css dan diberi versi bersama modul pada build publik.
+
+Beranda menambahkan pengantar tiga tautan, header daftar provinsi, ikon kategori dan permukaan bacaan dengan border serta bayangan. Halaman Tentang memakai panel cara belajar di kiri dan dua panel koleksi/layanan di kanan; rujukan punya baris panel tersendiri. Judul bagian memakai DM Sans, sedangkan merek dan judul foto utama mempertahankan DM Serif Display. Ilustrasi Sumatra dan ketiga karusel tetap digunakan.
+
+Pemeriksaan browser: lebar 1440, 768, 390 dan 320 piksel, tanpa luapan horizontal pada beranda, Tentang dan koleksi provinsi yang diperiksa. Dropdown memuat 10 daerah, menu ponsel buka/tutup, tautan pengantar menuju bagian bacaan, perpindahan otomatis serta manual pada bacaan dan sorotan provinsi, dan tujuan Sumatera Barat sesuai dengan slide. Tidak ada perubahan konten budaya, backend, atau ketersediaan request publik.

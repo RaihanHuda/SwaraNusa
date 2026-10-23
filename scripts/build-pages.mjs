@@ -30,7 +30,7 @@ for (const file of files.filter(file => file.endsWith('.js'))) {
   await writeFile(path.join(output, file), module.replace(/(from\s+['"])(\.[^'"]+\.js)(['"])/g, `$1$2?v=${revision}$3`));
 }
 let index = withBase(await readFile(path.join(publicRoot, 'index.html'), 'utf8'));
-for (const file of ['styles.css', 'polish.css', 'app.js']) {
+for (const file of ['styles.css', 'polish.css', 'atmosphere.css', 'app.js']) {
   index = index.replace(`/${file}"`, `/${file}?v=${revision}"`);
 }
 await writeFile(path.join(output, 'index.html'), index);
