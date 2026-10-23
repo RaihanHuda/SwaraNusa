@@ -10,12 +10,14 @@ Constraints: Province-first, 10 provinces; four activity tabs; six content categ
 Visual contract: warm ivory canvas, forest green and brown, expressive serif display with plain sans UI, large documented regional photography, magazine composition and numbered province rows. Reference SIGAP's action clarity and polish; preserve SwaraNusa's identity. Primary action is choosing a province. Targets 1440x900 and 390x844. Keyboard focus and reduced motion supported.
 
 Tasks:
-- [ ] Backend: durable SQLite authentication, user/admin/expert scopes, request transitions, notifications, tests for authorization and reopen.
-- [ ] Content/assets: 10 province profiles and sourced seed entries; useful empty categories; local photos and attribution.
-- [ ] Frontend: landing, province/category, entry, request form, auth, account/request detail, admin/expert workflows, about/sources.
-- [ ] Review copy with stop-slop; inspect desktop/mobile; fix observed failures.
-- [ ] Sync to requested directory, run there, hand off localhost URL.
+- [x] Backend: durable SQLite authentication, user/admin/expert scopes, request transitions, notifications, tests for authorization and reopen.
+- [x] Content/assets: 10 province profiles and sourced seed entries; useful empty categories; local photos and attribution.
+- [x] Frontend: landing, province/category, entry, request form, auth, account/request detail, admin/expert workflows, about/sources.
+- [x] Review copy with stop-slop; inspect desktop/mobile; fix observed failures.
+- [x] Sync to requested directory, run there, hand off localhost URL.
 
 Review focus: direct deep links and unknown slugs; unauthorized access to other requests; cancellation/reopen while responses exist; empty content and failed images; form state after login and refresh.
 
 Shared interface: public/data.json documented in docs/interfaces.md. Backend entry server.mjs and database in .data/. Frontend files public/index.html, styles.css, app.js, components.js. Backend owns server.mjs and tests/server.test.mjs; content owns public/data.json, public/assets photo files, docs/sources.md. Main owner integrates UI.
+
+Final verification: 10/10 server checks pass from the requested final directory. Browser checked 1440x900 and 390x844, guest province/category navigation, sourced entry, absent content, request/auth/draft, demo approval/response/selection/reopen, invalid login and GitHub Mermaid ERD rendering. All external source files uploaded; operational SQLite files excluded.

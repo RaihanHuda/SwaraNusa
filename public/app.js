@@ -100,7 +100,7 @@ async function submitWithState(form,task){const submit=form.querySelector('[type
 document.addEventListener('click',async event=>{
  const a=event.target.closest('a');
  if(a&&a.origin===location.origin&&!a.hasAttribute('download')&&!event.metaKey&&!event.ctrlKey&&!event.shiftKey&&a.target!=='_blank'&& !a.pathname.match(/\.(html|pdf|jpg|png|md)$/)){
- event.preventDefault();const url=a.pathname+a.search+a.hash;if(a.pathname===location.pathname&&a.search===location.search&&a.hash){history.pushState({},'',url);document.getElementById(a.hash.slice(1))?.scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});document.querySelector('.mobile-nav')?.setAttribute('hidden','');return}route(url);return}
+ event.preventDefault();const url=a.pathname+a.search+a.hash;if(a.pathname===location.pathname&&a.search===location.search&&a.hash){history.pushState({},'',url);document.getElementById(a.hash.slice(1))?.scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});if(a.hash==='#main')document.getElementById('main')?.focus({preventScroll:true});document.querySelector('.mobile-nav')?.setAttribute('hidden','');return}route(url);return}
  const el=event.target.closest('button');if(!el)return;
  if(el.hasAttribute('data-auth'))return openAuth('login',()=>{render()});
  if(el.hasAttribute('data-close-dialog'))return dialog.close();
