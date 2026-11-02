@@ -75,4 +75,3 @@ docs/               Konsep, ERD, flowchart, rujukan, dan pemeriksaan
 .agents/skills/     Pedoman bahasa khusus proyek
 ```
 
-Referensi mutu tampilan dan gaya bahasa: [SIGAP](https://sigap-murex-seven.vercel.app/). Identitas, susunan, dan materi SwaraNusa dikembangkan untuk tema budaya. Foto memiliki lisensi masing-masing; lihat kredit. Logo berasal dari pemilik proyek, haknya mengikuti pemilik logo.
