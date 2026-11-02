@@ -40,6 +40,8 @@ await writeFile(path.join(output, 'credits.html'), withBase(await readFile(path.
 const routes = [
   ...data.provinces.map(p => `provinsi/${p.id}`),
   ...data.entries.map(e => `materi/${e.id}`),
+  'budaya',
+  ...['tari', 'musik', 'kerajinan', 'wisata', 'kuliner', 'permainan'].map(category => `budaya/${category}`),
   'request', 'akun', 'pendamping', 'tentang'
 ];
 for (const route of routes) {

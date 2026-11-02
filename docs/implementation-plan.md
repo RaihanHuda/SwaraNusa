@@ -58,3 +58,19 @@ Pemeriksaan browser: lebar 1440, 768, 390 dan 320 piksel, tanpa luapan horizonta
 Permintaan pengguna: hapus tombol play/pause serta panah pada ketiga karusel. Markup tombol, listener tombol, dan gaya yang tidak terpakai dihapus; penghitung dan petunjuk geser tetap ada. Hover tidak lagi menjeda putaran. Gestur pointer menunda timer hingga selesai; fokus keyboard menjeda sampai fokus keluar. Reduced motion, jeda di luar layar/tab tersembunyi, dan pembersihan timer saat berpindah rute tetap berlaku.
 
 Diagnosis browser: tab pengguna memuat app.js revisi 104a84aa6c dengan dua karusel, sehingga banner atas pada tab tersebut masih statis. Pemeriksaan pratinjau baru: banner Aceh ke Sumatera Utara setelah 3,8 detik saat pointer tetap hover dan fokus pointer berada di track; nol tombol di ketiga karusel. Sorotan provinsi serta bacaan berpindah otomatis, panah keyboard menggeser, fokus keyboard mempertahankan slide selama 3,8 detik, lalu putaran berlanjut setelah fokus keluar. Lebar 390 piksel tanpa luapan horizontal.
+
+
+## Kategori lintas provinsi dan tata letak HP, 26 Oktober 2026
+
+Menu utama Belajar budaya tidak lagi memakai provinsi bawaan Sumatera Barat maupun konteks provinsi halaman. Enam pilihannya membuka /budaya/{kategori}, dengan /budaya sebagai koleksi semua bacaan. Daftar mengambil seluruh entri pada kategori yang dipilih. Label kartu tetap menyebut provinsi asal. Tab kategori di halaman provinsi tetap menyaring daerah tersebut. Build dan sitemap memuat tujuh rute baru agar tautan langsung serta muat ulang berfungsi pada GitHub Pages.
+
+Di HP, kartu rujukan sebelumnya memakai flex dengan space-between sehingga teks bergeser mengikuti panjang kalimat. Tata letak diganti menjadi tiga kolom tetap untuk ikon, teks fleksibel, dan panah. Tombol panel koreksi dibatasi lebar kontainernya.
+
+Pemeriksaan Safari: keenam kategori, jumlah 4 tari, 3 musik, 4 kerajinan, 9 wisata, 3 kuliner dan 4 permainan; tiap kategori menampilkan materi antardaerah. Menu HP dari halaman Aceh menuju empat materi tari seluruh Sumatra, sedangkan halaman seni Aceh tetap satu materi. Muat ulang rute tari berhasil. Pratinjau responsif 411 dan 360 piksel memeriksa kartu rujukan sejajar serta tombol panel bawah tetap muat. Materi tetap 27 entri dan layanan request publik tetap belum dibuka.
+
+
+## Pengisian koleksi, 2 November 2026
+
+Menambahkan 273 entri sehingga 10 provinsi memiliki tepat lima entri di enam kategori (300 total). Isi baru berupa pengenalan dengan sumber, komunitas, lokasi dan catatan singkat. Satu panduan Congkak dipertahankan. Sebelas foto dokumentasi objek ditambahkan; foto pengantar wilayah ditandai pada kartu dan caption. Sumber utama tujuh entri lama diganti dari domain kebudayaan lama ke rujukan yang dapat ditelusuri; atribusi Zapin Penyengat disesuaikan dengan penelitian penggantinya. Tiga perbaikan sumber dari audit utara juga disertakan.
+
+Beranda membatasi bacaan campuran pada 20 item; halaman kategori memuat seluruh 50 item kategori, sementara semua bacaan memuat 300. Permintaan data publik mengikuti versi build agar materi lama tidak tertahan cache. Dokumentasi cakupan dan kredit dihasilkan ulang dari data. Validator memeriksa jumlah, ID, isi, bentuk sumber, keberadaan gambar dan kredit, serta penanda pengenalan/panduan.

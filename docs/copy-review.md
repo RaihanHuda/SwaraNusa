@@ -34,3 +34,15 @@ Akun dan request menyatakan belum dibuka. Formulir publik tidak menerima data pr
 Teks pengantar menyebut tindakan nyata: Pilih daerah, Temukan topik, Baca rujukannya. Ikon hanya mendampingi label; tautan tetap memiliki teks. Jumlah 10 provinsi dan 27 materi pada Tentang berasal dari data koleksi. Batas lima per kategori dan belum dibukanya request tetap dinyatakan.
 
 Tiga kasus: pengantar provinsi tetap sesuai koleksi yang ada; panel pendamping menyatakan layanan publik belum dibuka; pesan request berhasil tidak diubah karena perubahan ini tidak menyentuh alur penyimpanan. Tidak ditambahkan statistik pengunjung, klaim ahli, ulasan atau harga. Peninjauan mandiri: directness 9, rhythm 8, trust 10, authenticity 8, density 9, total 44/50.
+
+
+## Menu seluruh Sumatra, 26 Oktober 2026
+
+Label dropdown menyebut Seluruh Sumatra dan Pilihan materi dari berbagai provinsi di Sumatra. Halaman kategori hanya menjanjikan pengenalan serta panduan yang tersedia. Provinsi asal tetap terlihat di setiap kartu; tidak ada klaim seluruh tradisi sudah lengkap. Pengantar provinsi, kondisi belum ada pendamping, dan pesan request tersimpan tidak berubah. Peninjauan mandiri: directness 9, rhythm 8, trust 10, authenticity 8, density 9, total 44/50.
+
+
+## Pengisian koleksi, 2 November 2026
+
+Koleksi kini berisi 300 materi, lima per kategori pada 10 provinsi. Artikel baru memakai label Pengenalan dan tidak menyatakan tersedia tutorial. Paragraf singkat yang hanya didukung inventaris nama tidak diperpanjang dengan uraian rekaan. Empat uraian tari Bengkulu dipangkas agar nama, wilayah dan konteks yang tercatat lebih jelas. Foto pengantar diberi label Foto daerah pada kartu dan menyebut objek sebenarnya pada alt serta caption artikel. Sebelas foto khusus ditambahkan beserta kredit.
+
+Tiga kasus: pengantar provinsi menyebut ketersediaan yang sesuai data; panel pendamping tetap menjelaskan bahwa layanan belum dibuka; pesan request berhasil pada versi lokal tidak diubah. Peninjauan mandiri untuk antarmuka dan sampel artikel: directness 8, rhythm 8, trust 9, authenticity 8, density 8 (41/50). Beberapa entri bersumber inventaris ringkas; penambahan dokumentasi pelaku dapat memperkaya isi berikutnya.

@@ -6,7 +6,7 @@ Website pengenalan budaya Sumatra untuk proyek pemrograman web. Pengunjung memil
 
 **https://raihanhuda.github.io/SwaraNusa/**
 
-Repo ini publik. GitHub Pages menerbitkan cabang `gh-pages`, folder akar. Situs publik menampilkan bacaan, foto, kategori dan rujukan; akun serta pengiriman request belum dibuka. Versi lokal tetap memiliki alur akun dan request dengan SQLite. Materi masih 27 entri; pengisian lima per kategori ditunda.
+Repo ini publik. GitHub Pages menerbitkan cabang `gh-pages`, folder akar. Situs publik menampilkan bacaan, foto, kategori dan rujukan; akun serta pengiriman request belum dibuka. Versi lokal tetap memiliki alur akun dan request dengan SQLite. Koleksi berisi 300 materi: lima entri pada masing-masing dari enam kategori di setiap provinsi. Sebanyak 299 materi berupa pengenalan dan satu berupa panduan Congkak.
 
 Bangun situs publik dengan `npm run build:pages`. Hasil `_site/` memakai awalan `/SwaraNusa`, menyiapkan halaman langsung untuk setiap provinsi dan artikel, dan hanya memuat berkas publik. Terbitkan isi folder itu ke akar cabang `gh-pages`. Setiap perubahan materi perlu build dan penerbitan ulang. Tidak ada database akun, server, atau kredensial dalam situs publik.
 
@@ -29,7 +29,8 @@ PORT=4300 node server.mjs
 ## Yang sudah berfungsi
 
 - Beranda dan pilihan 10 provinsi; kategori Belajar Seni, Wisata & Ikon, Kuliner, Permainan Tradisional.
-- 27 materi bersumber, 1 panduan permainan, serta kredit foto.
+- Menu Belajar budaya membuka koleksi kategori dari seluruh Sumatra pada `/budaya/tari`, `/budaya/musik`, `/budaya/kerajinan`, `/budaya/wisata`, `/budaya/kuliner`, dan `/budaya/permainan`. `/budaya` menampilkan semua bacaan. Tab di dalam halaman provinsi tetap khusus daerah tersebut.
+- 300 materi bersumber: lima tari, musik, kerajinan, wisata, kuliner, dan permainan pada setiap provinsi. Kredit foto dan keterangan Foto daerah membedakan dokumentasi objek dari foto pengantar wilayah.
 - Banner atas, sorotan 10 provinsi berurutan, dan bacaan campuran memakai karusel 3 detik. Foto banner, nama tempat dan tautan provinsi berganti bersama; judul utama tetap. Pengunjung dapat menggeser melalui sentuhan atau mouse, atau memakai panah keyboard. Tombol play/pause dan panah pada layar dihapus. Putaran tetap berjalan saat kursor berada di atas gambar dan berlanjut setelah gestur pointer selesai. Fokus keyboard menjeda sampai fokus keluar. Saat tidak terlihat, tab tidak aktif, atau reduced motion aktif, karusel tidak berputar otomatis.
 - Daftar dan masuk akun; password di-hash menggunakan scrypt dan sesi memakai cookie HttpOnly.
 - Request, tinjauan pengelola, tanggapan ahli, pemilihan pendamping, pembatalan, penyelesaian, dan pencarian ulang.
@@ -52,6 +53,7 @@ Data akun dan request lokal berada di `.data/` yang masuk `.gitignore`. Jangan m
 - [Konsep dan alur](docs/konsep-dan-alur.md)
 - [ERD dan tabel database](docs/database.md)
 - [Flowchart alur layanan](docs/flowchart.md)
+- [Cakupan koleksi per provinsi](docs/content-coverage.md)
 - [Sumber materi dan kredit foto](docs/sources.md)
 - [Kontrak API](docs/interfaces.md)
 - [Catatan pemeriksaan bahasa](docs/copy-review.md)
@@ -62,6 +64,9 @@ Data akun dan request lokal berada di `.data/` yang masuk `.gitignore`. Jangan m
 node --test tests/*.test.mjs
 node --check server.mjs
 node --check public/app.js
+node scripts/validate-content.mjs --complete
+node scripts/update-content-docs.mjs
+node scripts/build-pages.mjs
 ```
 
 ## Struktur
