@@ -1,4 +1,4 @@
-import {site} from './site-config.js?v=05ed2cab61';
+import {site} from './site-config.js?v=87194d4146';
 export const esc = value => String(value ?? '').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const paths = {
  compass:'<circle cx="12" cy="12" r="9"/><path d="m16 8-2.5 5.5L8 16l2.5-5.5L16 8Z"/>',
@@ -30,7 +30,7 @@ export const statusLabels={pending:'Menunggu tinjauan',open:'Terbuka',responded:
 export const statusBadge=s=>`<span class="status status-${esc(s)}"><i></i>${esc(statusLabels[s]||s)}</span>`;
 export const date=s=>s?new Intl.DateTimeFormat('id-ID',{day:'numeric',month:'short',year:'numeric',timeZone:'Asia/Jakarta'}).format(new Date(s)):'';
 export const photo=(item,cls='',eager=false)=>`<img class="${cls}" src="${esc(item.image||'/assets/hero-sumbar.jpg')}" alt="${esc(item.imageAlt||item.title||item.name)}" ${eager?'fetchpriority="high"':'loading="lazy"'} decoding="async">`;
-export const entryCard=(e,provinces,large=false)=>`<a class="entry-card ${large?'entry-card-large':''}" href="/materi/${esc(e.id)}"><div class="entry-photo">${photo(e)}<span class="photo-tag">${icon(({tari:'book',musik:'music',kerajinan:'leaf',wisata:'pin',kuliner:'bowl',permainan:'game'})[e.category])}${esc(cats[e.category])}</span><span class="entry-arrow">${icon('upRight')}</span></div><div class="entry-card-copy"><div class="entry-meta">${esc(provinces.find(p=>p.id===e.provinceId)?.name)}<span>${esc(e.kind||'Pengenalan')}</span></div><h3>${esc(e.title)}</h3><p>${esc(e.summary)}</p></div></a>`;
+export const entryCard=(e,provinces,large=false)=>`<a class="entry-card ${large?'entry-card-large':''}" href="/materi/${esc(e.id)}"><div class="entry-photo">${photo(e)}<span class="photo-tag">${icon(({tari:'book',musik:'music',kerajinan:'leaf',wisata:'pin',kuliner:'bowl',permainan:'game'})[e.category])}${esc(cats[e.category])}</span>${e.imageContext==='regional'?'<span class="image-context-tag">Foto daerah</span>':''}<span class="entry-arrow">${icon('upRight')}</span></div><div class="entry-card-copy"><div class="entry-meta">${esc(provinces.find(p=>p.id===e.provinceId)?.name)}<span>${esc(e.kind||'Pengenalan')}</span></div><h3>${esc(e.title)}</h3><p>${esc(e.summary)}</p></div></a>`;
 export async function api(path,options={}) {
  if(site.publicPreview)throw new Error('Akun dan request belum dibuka pada situs publik ini.');
  const r=await fetch('/api'+path,{...options,headers:{'Content-Type':'application/json',...options.headers},credentials:'same-origin'});
