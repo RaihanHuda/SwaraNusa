@@ -352,3 +352,52 @@ body {
   .global-category-nav > a > span { min-width: 0; }
   .culture-page .collection-title h2 { font-size: 26px; }
 }
+
+/* Lessons keep the video, practice and context together on narrow screens. */
+.learning-section { margin: 40px 0; padding: clamp(20px, 3vw, 34px); border: 1px solid #cedcc7; border-radius: 28px; background: linear-gradient(135deg,#f9fbf6,#edf3e7); box-shadow: 0 14px 40px #254b3b08; }
+.learning-heading { display: flex; align-items: center; gap: 15px; margin-bottom: 22px; }
+.learning-heading .surface-icon { flex: 0 0 48px; width: 48px; height: 48px; border-radius: 16px; }
+.learning-heading h2 { margin: 6px 0 0; font: 650 clamp(22px, 2.3vw, 30px)/1.2 var(--sans); letter-spacing: -.035em; }
+.learning-heading .eyebrow { font-size: 10px; }
+.learning-details { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 22px 0; }
+.learning-details > div { padding: 15px; border-radius: 16px; background: #ffffffba; min-width: 0; }
+.learning-details dt { font-size: 11px; color: #596e51; font-weight: 650; }
+.learning-details dd { margin: 7px 0 0; font-size: 14px; line-height: 1.65; }
+.learning-video { margin: 24px 0; border: 1px solid #dce5d6; border-radius: 20px; overflow: hidden; background: white; }
+.learning-video iframe { display: block; width: 100%; aspect-ratio: 16 / 9; border: 0; background: #203b2e; }
+.video-caption { padding: 18px 20px; }
+.video-kind { display: inline-block; padding: 4px 9px; border-radius: 7px; background: #edf3e7; color: var(--green); font-size: 10px; font-weight: 650; }
+.video-caption h3 { margin: 12px 0 7px; font: 650 17px/1.45 var(--sans); }
+.article-body .video-caption p { font-size: 12px; margin: 0 0 12px; }
+.video-caption a { display: inline-flex; align-items: center; gap: 7px; font-size: 12px; color: var(--green); font-weight: 650; }
+.video-caption .icon { width: 16px; height: 16px; }
+.learning-steps { list-style: none; margin: 26px 0 0; padding: 0; counter-reset: none; }
+.learning-steps > li { display: grid; grid-template-columns: 32px minmax(0,1fr); gap: 14px; padding: 21px 0; border-top: 1px solid #d4dfce; }
+.step-number { font-size: 12px; font-weight: 650; color: #748365; padding-top: 2px; }
+.learning-steps h3,.learning-rules h3 { margin: 0 0 8px; font: 650 17px/1.45 var(--sans); }
+.article-body .learning-steps p { margin: 0; font-size: 14px; line-height: 1.85; }
+.learning-rules { padding: 20px 0 8px; }
+.learning-rules ul { padding-left: 20px; font-size: 14px; line-height: 1.85; }
+.learning-rules li+li { margin-top: 8px; }
+.learning-notes { display: grid; grid-template-columns: 20px minmax(0,1fr); gap: 10px; padding-top: 18px; border-top: 1px solid #d4dfce; color: #5a6954; }
+.learning-notes .icon { margin-top: 4px; width: 18px; height: 18px; }
+.article-body .learning-notes p { margin: 0; font-size: 12px; line-height: 1.8; }
+.article-body .learning-notes p+p { margin-top: 10px; }
+@media(max-width:480px) { .learning-section { padding: 20px 15px; margin: 30px 0; border-radius: 23px; } .learning-details { grid-template-columns: 1fr; } .learning-heading { gap: 11px; } .learning-heading .surface-icon { flex-basis: 40px; width: 40px; height: 40px; border-radius: 13px; } .video-caption { padding: 16px; } .learning-steps > li { gap: 9px; grid-template-columns: 26px minmax(0,1fr); } }
+
+/* Use a topic illustration when a subject photograph is unavailable. */
+.entry-topic-art { display: flex; align-items: center; justify-content: center; background: #e5eddf; color: #355641; isolation: isolate; }
+.entry-topic-art::before { content: ''; position: absolute; inset: 0; z-index: -1; background-image: repeating-linear-gradient(45deg,transparent,transparent 22px,#ffffff28 22px,#ffffff28 23px); }
+.entry-topic-art .topic-symbol .icon { width: 74px; height: 74px; stroke-width: 1; opacity: .65; }
+.topic-region { position: absolute; left: 20px; bottom: 20px; max-width: 65%; color: inherit; font-size: 11px; }
+.entry-topic-art.topic-tari { background: #efe2d7; color: #825d48; }
+.entry-topic-art.topic-musik { background: #e0e9db; color: #426138; }
+.entry-topic-art.topic-kerajinan { background: #eee5cf; color: #827040; }
+.entry-topic-art.topic-wisata { background: #dce9e4; color: #356953; }
+.entry-topic-art.topic-kuliner { background: #f0dfd3; color: #936545; }
+.entry-topic-art.topic-permainan { background: #e3e4d9; color: #676c43; }
+
+.learning-external-video { margin: 24px 0; padding: 22px; background: #ffffffc9; border: 1px solid #dce5d6; border-radius: 20px; }
+.learning-external-video h3 { font: 650 19px/1.5 var(--sans); margin: 13px 0 6px; }
+.article-body .learning-external-video p { font-size: 13px; margin-bottom: 18px; }
+.learning-external-video .btn { white-space: normal; font-size: 12px; max-width: 100%; }
