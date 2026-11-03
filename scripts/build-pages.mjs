@@ -34,7 +34,9 @@ for (const file of ['styles.css', 'polish.css', 'atmosphere.css', 'app.js']) {
   index = index.replace(`/${file}"`, `/${file}?v=${revision}"`);
 }
 await writeFile(path.join(output, 'index.html'), index);
-await writeFile(path.join(output, 'credits.html'), withBase(await readFile(path.join(publicRoot, 'credits.html'), 'utf8')));
+let credits = withBase(await readFile(path.join(publicRoot, 'credits.html'), 'utf8'));
+for(const file of ['styles.css','polish.css','atmosphere.css']) credits=credits.replace(`/${file}\"`, `/${file}?v=${revision}\"`);
+await writeFile(path.join(output, 'credits.html'), credits);
 
 // Each real route gets an index so links also work when opened or refreshed.
 const routes = [

@@ -74,3 +74,14 @@ Pemeriksaan Safari: keenam kategori, jumlah 4 tari, 3 musik, 4 kerajinan, 9 wisa
 Menambahkan 273 entri sehingga 10 provinsi memiliki tepat lima entri di enam kategori (300 total). Isi baru berupa pengenalan dengan sumber, komunitas, lokasi dan catatan singkat. Satu panduan Congkak dipertahankan. Sebelas foto dokumentasi objek ditambahkan; foto pengantar wilayah ditandai pada kartu dan caption. Sumber utama tujuh entri lama diganti dari domain kebudayaan lama ke rujukan yang dapat ditelusuri; atribusi Zapin Penyengat disesuaikan dengan penelitian penggantinya. Tiga perbaikan sumber dari audit utara juga disertakan.
 
 Beranda membatasi bacaan campuran pada 20 item; halaman kategori memuat seluruh 50 item kategori, sementara semua bacaan memuat 300. Permintaan data publik mengikuti versi build agar materi lama tidak tertahan cache. Dokumentasi cakupan dan kredit dihasilkan ulang dari data. Validator memeriksa jumlah, ID, isi, bentuk sumber, keberadaan gambar dan kredit, serta penanda pengenalan/panduan.
+
+
+## Modul belajar dan foto objek, 3 November 2026
+
+Menambahkan 127 modul pada katalog 300 materi: 29 tari, 5 musik, 5 kerajinan, 50 kunjungan wisata, 4 kuliner, dan 34 permainan. Video dipisahkan sebagai tutorial, demonstrasi, atau pertunjukan. Modul permainan mencantumkan alat, persiapan, langkah, dan batas aturan yang didukung sumber. Video ABC Education dibuka melalui tautan; video YouTube memakai iframe youtube-nocookie dengan tautan alternatif. URL iframe dibatasi ke ID YouTube yang sah dan teks di-escape.
+
+Sebanyak 51 foto objek tambahan melewati pemeriksaan visual dan lisensi, menyusul 11 foto pada rilis katalog. Beberapa foto benda merupakan ilustrasi lintas wilayah dan caption menyebutnya. Foto profil provinsi tidak lagi dipakai sebagai pengganti objek materi: kartu memakai foto objek, cuplikan video yang bersangkutan, atau ilustrasi kategori. Artikel tanpa foto khusus langsung membuka teks dan modul belajar.
+
+Pemeriksaan browser: tutorial Tari Piring menampilkan poster pemutar GNP Music serta tiga langkah; layar 390px memuat video dan langkah Bedana tanpa luapan. Aturan Catur Melayu memuat pemain, papan, 24 kambing, rimau serta empat tahap. Ratoh Duek membuka tautan tutorial ABC tanpa iframe YouTube. Daftar tari menampilkan 50 kartu tanpa foto pengantar kota. Tidak ditemukan pesan galat aplikasi pada halaman yang diperiksa.
+
+Pemeriksaan akhir YouTube oEmbed berhasil pada 39 video unik. Tiga tautan kandidat mengembalikan 404/403; modul Gordang Sambilan, Kadam, dan Padamaran yang bergantung pada tautan itu tidak diterbitkan. Catatan pengenalan dan foto objeknya tetap tersedia. Dua modul memakai satu tutorial ABC Education; total 43 penempatan video pada 127 modul. Judul serta kanal YouTube disesuaikan dengan metadata yang terbaca saat pemeriksaan akhir.

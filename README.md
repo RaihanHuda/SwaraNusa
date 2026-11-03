@@ -6,7 +6,7 @@ Website pengenalan budaya Sumatra untuk proyek pemrograman web. Pengunjung memil
 
 **https://raihanhuda.github.io/SwaraNusa/**
 
-Repo ini publik. GitHub Pages menerbitkan cabang `gh-pages`, folder akar. Situs publik menampilkan bacaan, foto, kategori dan rujukan; akun serta pengiriman request belum dibuka. Versi lokal tetap memiliki alur akun dan request dengan SQLite. Koleksi berisi 300 materi: lima entri pada masing-masing dari enam kategori di setiap provinsi. Sebanyak 299 materi berupa pengenalan dan satu berupa panduan Congkak.
+Repo ini publik. GitHub Pages menerbitkan cabang `gh-pages`, folder akar. Situs publik menampilkan bacaan, foto, kategori dan rujukan; akun serta pengiriman request belum dibuka. Versi lokal tetap memiliki alur akun dan request dengan SQLite. Koleksi berisi 300 materi: lima entri pada masing-masing dari enam kategori di setiap provinsi. Sebanyak 299 materi berupa pengenalan dan satu berupa panduan Congkak. Bagian Ruang Belajar menambahkan 127 modul latihan, pengamatan, atau kunjungan; 43 materi memiliki tautan video dengan jenis tutorial, demonstrasi, atau pertunjukan. Foto objek dan cuplikan video menggantikan foto kota pada kartu materi; topik yang belum memiliki dokumentasi memakai ilustrasi kategori.
 
 Bangun situs publik dengan `npm run build:pages`. Hasil `_site/` memakai awalan `/SwaraNusa`, menyiapkan halaman langsung untuk setiap provinsi dan artikel, dan hanya memuat berkas publik. Terbitkan isi folder itu ke akar cabang `gh-pages`. Setiap perubahan materi perlu build dan penerbitan ulang. Tidak ada database akun, server, atau kredensial dalam situs publik.
 

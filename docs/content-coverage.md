@@ -1,6 +1,6 @@
 # Cakupan koleksi SwaraNusa
 
-Ditinjau 2026-11-02. Target: lima materi per kategori di setiap provinsi.
+Ditinjau 2026-11-03. Target: lima materi per kategori di setiap provinsi.
 
 | Provinsi | Tari | Musik | Kerajinan | Wisata | Kuliner | Permainan |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -16,5 +16,6 @@ Ditinjau 2026-11-02. Target: lima materi per kategori di setiap provinsi.
 | Lampung | 5 | 5 | 5 | 5 | 5 | 5 |
 
 Total: **300 materi**, terdiri atas 299 pengenalan dan 1 panduan.
+Bagian belajar/kunjungan: **127 modul**. Terdapat 43 penempatan video, termasuk 22 tutorial.
 
 Rincian rujukan tersedia pada [Sumber materi dan foto](sources.md).

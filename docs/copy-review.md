@@ -46,3 +46,10 @@ Label dropdown menyebut Seluruh Sumatra dan Pilihan materi dari berbagai provins
 Koleksi kini berisi 300 materi, lima per kategori pada 10 provinsi. Artikel baru memakai label Pengenalan dan tidak menyatakan tersedia tutorial. Paragraf singkat yang hanya didukung inventaris nama tidak diperpanjang dengan uraian rekaan. Empat uraian tari Bengkulu dipangkas agar nama, wilayah dan konteks yang tercatat lebih jelas. Foto pengantar diberi label Foto daerah pada kartu dan menyebut objek sebenarnya pada alt serta caption artikel. Sebelas foto khusus ditambahkan beserta kredit.
 
 Tiga kasus: pengantar provinsi menyebut ketersediaan yang sesuai data; panel pendamping tetap menjelaskan bahwa layanan belum dibuka; pesan request berhasil pada versi lokal tidak diubah. Peninjauan mandiri untuk antarmuka dan sampel artikel: directness 8, rhythm 8, trust 9, authenticity 8, density 8 (41/50). Beberapa entri bersumber inventaris ringkas; penambahan dokumentasi pelaku dapat memperkaya isi berikutnya.
+
+
+## Belajar melalui video dan latihan, 3 November 2026
+
+Label membedakan tutorial, demonstrasi, serta pertunjukan. Latihan pengamatan tidak menjanjikan penguasaan koreografi. Video umum lintas wilayah mencantumkan batas variasinya. Panduan wisata menyebut objek yang bisa dipelajari dan persiapan kunjungan tanpa mengarang tarif atau jam buka. Foto objek, ilustrasi alat dan cuplikan video menyebut konteks yang sesuai; foto kota tidak menjadi pengganti tarian.
+
+Pengantar provinsi mengikuti isi koleksi; keadaan tanpa pendamping masih menyatakan layanan belum dibuka; alur request tersimpan lokal tidak berubah. Tinjauan mandiri untuk antarmuka dan sampel: directness 8, rhythm 8, trust 9, authenticity 8, density 8 (41/50). Belum semua artikel memiliki modul praktik atau foto objek. Kekurangan sumber dan variasi dicatat agar pengisian berikutnya tetap dapat diperiksa.

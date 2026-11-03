@@ -1,6 +1,7 @@
 import { readFile, access } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
+import { youtubeId } from '../public/components.js';
 
 const root = fileURLToPath(new URL('../', import.meta.url));
 const data = JSON.parse(await readFile(path.join(root, 'public/data.json'), 'utf8'));
@@ -36,6 +37,17 @@ for (const entry of data.entries) {
   check(Array.isArray(entry.facts) && entry.facts.length >= 1 && entry.facts.every(f => f.label && f.value), `${id}: catatan singkat belum lengkap`);
   check(['Pengenalan', 'Panduan'].includes(entry.kind), `${id}: jenis materi tidak dikenal`);
   check(Array.isArray(entry.steps) && (entry.kind === 'Panduan' ? entry.steps.length > 0 : entry.steps.length === 0), `${id}: penanda panduan tidak sesuai langkahnya`);
+  if(entry.learning) {
+    const learning=entry.learning;
+    check(typeof learning.overview==='string'&&learning.overview.length>12, `${id}: pengantar belajar kosong`);
+    check(Array.isArray(learning.steps)&&learning.steps.length>0&&learning.steps.every(step=>typeof step.title==='string'&&typeof step.body==='string'&&step.body.length>20), `${id}: langkah belajar belum lengkap`);
+    if(learning.video) {
+      let external=false; try { const url=new URL(learning.video.url); external=url.protocol==='https:'&&['abc.net.au','www.abc.net.au'].includes(url.hostname); } catch {}
+      check(Boolean(youtubeId(learning.video.url))||external, `${id}: tautan video tidak sah`);
+      check(['tutorial','demonstrasi','pertunjukan'].includes(learning.video.type), `${id}: jenis video belum jelas`);
+      check(Boolean(learning.video.title&&learning.video.channel), `${id}: judul atau kanal video kosong`);
+    }
+  }
   checkSource(entry.sourceUrl, entry.sourceLabel, id);
   for (const source of entry.sources || []) checkSource(source.url, source.label, id);
   check(entry.image?.startsWith('/assets/') && !entry.image?.includes('..'), `${id}: jalur gambar tidak sah`);
