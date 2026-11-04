@@ -1,7 +1,7 @@
 import { readFile, access } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
-import { youtubeId } from '../public/components.js';
+import { youtubeId,entryVideo } from '../public/components.js';
 
 const root = fileURLToPath(new URL('../', import.meta.url));
 const data = JSON.parse(await readFile(path.join(root, 'public/data.json'), 'utf8'));
@@ -48,14 +48,21 @@ for (const entry of data.entries) {
       check(Boolean(learning.video.title&&learning.video.channel), `${id}: judul atau kanal video kosong`);
     }
   }
+  if(entry.coverVideo) check(Boolean(youtubeId(entry.coverVideo.url)&&entry.coverVideo.title&&entry.coverVideo.channel), `${id}: sumber gambar dokumentasi tidak sah`);
+  if(entry.video) {
+    check(Boolean(youtubeId(entry.video.url)), `${id}: tautan YouTube pendamping tidak sah`);
+    check(['tutorial','demonstrasi','pertunjukan','pengenalan'].includes(entry.video.type), `${id}: jenis video pendamping tidak dikenal`);
+    check(Boolean(entry.video.title&&entry.video.channel), `${id}: judul/kanal video pendamping kosong`);
+  }
   checkSource(entry.sourceUrl, entry.sourceLabel, id);
   for (const source of entry.sources || []) checkSource(source.url, source.label, id);
-  check(entry.image?.startsWith('/assets/') && !entry.image?.includes('..'), `${id}: jalur gambar tidak sah`);
+  let remoteImage=false; try { const url=new URL(entry.image); remoteImage=url.protocol==='https:'&&['upload.wikimedia.org','thumb.wikimedia.org'].includes(url.hostname); } catch {}
+  check(remoteImage||entry.image?.startsWith('/assets/')&&!entry.image?.includes('..'), `${id}: jalur gambar tidak sah`);
   if (entry.image?.startsWith('/assets/')) {
     try { await access(path.join(root, 'public', entry.image)); }
     catch { errors.push(`${id}: gambar tidak ditemukan`); }
   }
-  if (/\.(jpe?g|png|webp)$/i.test(entry.image || '')) check(licensedPhotos.has(entry.image), `${id}: kredit foto belum tercatat`);
+  if (remoteImage||/\.(jpe?g|png|webp)$/i.test(entry.image || '')) check(licensedPhotos.has(entry.image), `${id}: kredit foto belum tercatat`);
   if (entry.imageContext === 'regional') check(entry.imageAlt?.startsWith('Foto pengantar daerah:'), `${id}: foto pengantar daerah harus diberi keterangan`);
 }
 

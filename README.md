@@ -6,7 +6,9 @@ Website pengenalan budaya Sumatra untuk proyek pemrograman web. Pengunjung memil
 
 **https://raihanhuda.github.io/SwaraNusa/**
 
-Repo ini publik. GitHub Pages menerbitkan cabang `gh-pages`, folder akar. Situs publik menampilkan bacaan, foto, kategori dan rujukan; akun serta pengiriman request belum dibuka. Versi lokal tetap memiliki alur akun dan request dengan SQLite. Koleksi berisi 300 materi: lima entri pada masing-masing dari enam kategori di setiap provinsi. Sebanyak 299 materi berupa pengenalan dan satu berupa panduan Congkak. Bagian Ruang Belajar menambahkan 127 modul latihan, pengamatan, atau kunjungan; 43 materi memiliki tautan video dengan jenis tutorial, demonstrasi, atau pertunjukan. Foto objek dan cuplikan video menggantikan foto kota pada kartu materi; topik yang belum memiliki dokumentasi memakai ilustrasi kategori.
+Repo ini publik. GitHub Pages menerbitkan cabang `gh-pages`, folder akar. Koleksi memuat 300 materi: lima per kategori di setiap provinsi. Seluruh 250 materi nonwisata memiliki panduan tertulis yang dapat dibaca tanpa video; 238 di antaranya memiliki video pendamping. Urutannya deskripsi, video, lalu panduan. Latihan dasar/adaptasi, prototipe, pengenalan bahan, serta panduan permainan menyebut lingkupnya dan tidak mengaku sebagai koreografi, resep, atau teknik adat yang lengkap. Sebanyak 50 halaman wisata menampilkan lokasi dan tautan Google Maps, tanpa pemutar video atau bagian latihan.
+
+Seluruh kartu mempunyai gambar berupa foto, sampul dokumentasi, atau ilustrasi bertanda. Sebanyak 17 ilustrasi tema/perlengkapan dibuat untuk materi yang belum memiliki dokumentasi khusus. Foto dan cuplikan menyertakan sumber. Akun dan pengiriman request publik belum dibuka; versi lokal tetap memiliki alur akun dan request dengan SQLite.
 
 Bangun situs publik dengan `npm run build:pages`. Hasil `_site/` memakai awalan `/SwaraNusa`, menyiapkan halaman langsung untuk setiap provinsi dan artikel, dan hanya memuat berkas publik. Terbitkan isi folder itu ke akar cabang `gh-pages`. Setiap perubahan materi perlu build dan penerbitan ulang. Tidak ada database akun, server, atau kredensial dalam situs publik.
 
@@ -30,7 +32,7 @@ PORT=4300 node server.mjs
 
 - Beranda dan pilihan 10 provinsi; kategori Belajar Seni, Wisata & Ikon, Kuliner, Permainan Tradisional.
 - Menu Belajar budaya membuka koleksi kategori dari seluruh Sumatra pada `/budaya/tari`, `/budaya/musik`, `/budaya/kerajinan`, `/budaya/wisata`, `/budaya/kuliner`, dan `/budaya/permainan`. `/budaya` menampilkan semua bacaan. Tab di dalam halaman provinsi tetap khusus daerah tersebut.
-- 300 materi bersumber: lima tari, musik, kerajinan, wisata, kuliner, dan permainan pada setiap provinsi. Kredit foto dan keterangan Foto daerah membedakan dokumentasi objek dari foto pengantar wilayah.
+- 300 materi bersumber: lima tari, musik, kerajinan, wisata, kuliner, dan permainan pada setiap provinsi. Gambar bertanda cuplikan atau ilustrasi menyebut konteksnya; foto profil provinsi tidak menjadi pengganti objek materi.
 - Banner atas, sorotan 10 provinsi berurutan, dan bacaan campuran memakai karusel 3 detik. Foto banner, nama tempat dan tautan provinsi berganti bersama; judul utama tetap. Pengunjung dapat menggeser melalui sentuhan atau mouse, atau memakai panah keyboard. Tombol play/pause dan panah pada layar dihapus. Putaran tetap berjalan saat kursor berada di atas gambar dan berlanjut setelah gestur pointer selesai. Fokus keyboard menjeda sampai fokus keluar. Saat tidak terlihat, tab tidak aktif, atau reduced motion aktif, karusel tidak berputar otomatis.
 - Daftar dan masuk akun; password di-hash menggunakan scrypt dan sesi memakai cookie HttpOnly.
 - Request, tinjauan pengelola, tanggapan ahli, pemilihan pendamping, pembatalan, penyelesaian, dan pencarian ulang.

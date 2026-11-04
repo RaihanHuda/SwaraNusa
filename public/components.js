@@ -40,12 +40,25 @@ export function youtubeId(value) {
 }
 
 export const photo=(item,cls='',eager=false)=>`<img class="${cls}" src="${esc(item.image||'/assets/hero-sumbar.jpg')}" alt="${esc(item.imageAlt||item.title||item.name)}" ${eager?'fetchpriority="high"':'loading="lazy"'} decoding="async">`;
+export const entryVideo=entry=>entry.video||entry.learning?.video;
+export function entryMedia(entry) {
+ if(entry.imageContext!=='regional')return {src:entry.image,alt:entry.imageAlt||entry.title,kind:entry.imageContext==='illustration'?'illustration':'photo'};
+ const video=entry.coverVideo||entryVideo(entry),id=youtubeId(video?.url);
+ if(id)return {src:`https://i.ytimg.com/vi/${id}/hqdefault.jpg`,alt:`Cuplikan ${video.cover===false?'video rujukan umum':'dokumentasi'} ${video.title} dari kanal ${video.channel||'YouTube'}`,kind:'video',video,contextual:video.cover===false};
+ return null;
+}
+export function entryFigure(entry,photos=[]) {
+ const media=entryMedia(entry);
+ if(!media||media.kind==='video'&&entry.category!=='wisata')return '';
+ const credit=photos.find(p=>p.path===entry.image);
+ return `<figure class="article-figure"><img src="${esc(media.src)}" alt="${esc(media.alt)}" fetchpriority="high" decoding="async"><figcaption>${esc(media.alt)}${media.kind==='video'?`<span>Sampul dokumentasi: <a href="${esc(media.video.url)}" target="_blank" rel="noopener noreferrer">${esc(media.video.channel)}</a></span>`:credit?`<span>Foto: <a href="${esc(credit.sourceUrl)}" target="_blank" rel="noopener noreferrer">${esc(credit.author)}</a> · <a href="${esc(credit.licenseUrl)}" target="_blank" rel="noopener noreferrer">${esc(credit.license)}</a></span>`:''}</figcaption></figure>`;
+}
 export const entryCard=(e,provinces,large=false)=>{
- const videoId=e.imageContext==='regional'?youtubeId(e.learning?.video?.url):null;
- const hasPhoto=e.imageContext!=='regional';
+ const media=entryMedia(e);
  const categoryIcon=({tari:'book',musik:'music',kerajinan:'leaf',wisata:'pin',kuliner:'bowl',permainan:'game'})[e.category];
- const visual=hasPhoto?photo(e):videoId?`<img src="https://i.ytimg.com/vi/${videoId}/hqdefault.jpg" alt="${esc('Cuplikan video '+e.learning.video.title+' dari kanal '+(e.learning.video.channel||'YouTube'))}" loading="lazy" decoding="async">`:`<span class="topic-symbol">${icon(categoryIcon)}</span><span class="topic-region">${esc(provinces.find(p=>p.id===e.provinceId)?.name)}</span>`;
- return `<a class="entry-card ${large?'entry-card-large':''}" href="/materi/${esc(e.id)}"><div class="entry-photo ${!hasPhoto&&!videoId?'entry-topic-art topic-'+esc(e.category):''}">${visual}<span class="photo-tag">${icon(categoryIcon)}${esc(cats[e.category])}</span>${videoId?'<span class="image-context-tag">Cuplikan video</span>':''}<span class="entry-arrow">${icon('upRight')}</span></div><div class="entry-card-copy"><div class="entry-meta">${esc(provinces.find(p=>p.id===e.provinceId)?.name)}<span>${e.learning?.video?'Dengan video':e.learning?.steps?.length?(e.category==='wisata'?'Panduan kunjungan':'Dengan latihan'):esc(e.kind||'Pengenalan')}</span></div><h3>${esc(e.title)}</h3><p>${esc(e.summary)}</p></div></a>`;
+ const visual=media?`<img src="${esc(media.src)}" alt="${esc(media.alt)}" loading="lazy" decoding="async">`:`<span class="topic-symbol">${icon(categoryIcon)}</span><span class="topic-region">${esc(provinces.find(p=>p.id===e.provinceId)?.name)}</span>`;
+ const imageLabel=media?.kind==='video'?(e.category==='wisata'?'Gambar dokumentasi':media.contextual?'Ilustrasi video':'Cuplikan video'):media?.kind==='illustration'?'Ilustrasi':'';
+ return `<a class="entry-card ${large?'entry-card-large':''}" href="/materi/${esc(e.id)}"><div class="entry-photo ${!media?'entry-topic-art topic-'+esc(e.category):''}">${visual}<span class="photo-tag">${icon(categoryIcon)}${esc(cats[e.category])}</span>${imageLabel?`<span class="image-context-tag">${esc(imageLabel)}</span>`:''}<span class="entry-arrow">${icon('upRight')}</span></div><div class="entry-card-copy"><div class="entry-meta">${esc(provinces.find(p=>p.id===e.provinceId)?.name)}<span>${e.category==='wisata'?'Lokasi':entryVideo(e)?'Dengan video':e.learning?.steps?.length?'Dengan latihan':esc(e.kind||'Pengenalan')}</span></div><h3>${esc(e.title)}</h3><p>${esc(e.summary)}</p></div></a>`;
 };
 export async function api(path,options={}) {
  if(site.publicPreview)throw new Error('Akun dan request belum dibuka pada situs publik ini.');

@@ -85,3 +85,14 @@ Sebanyak 51 foto objek tambahan melewati pemeriksaan visual dan lisensi, menyusu
 Pemeriksaan browser: tutorial Tari Piring menampilkan poster pemutar GNP Music serta tiga langkah; layar 390px memuat video dan langkah Bedana tanpa luapan. Aturan Catur Melayu memuat pemain, papan, 24 kambing, rimau serta empat tahap. Ratoh Duek membuka tautan tutorial ABC tanpa iframe YouTube. Daftar tari menampilkan 50 kartu tanpa foto pengantar kota. Tidak ditemukan pesan galat aplikasi pada halaman yang diperiksa.
 
 Pemeriksaan akhir YouTube oEmbed berhasil pada 39 video unik. Tiga tautan kandidat mengembalikan 404/403; modul Gordang Sambilan, Kadam, dan Padamaran yang bergantung pada tautan itu tidak diterbitkan. Catatan pengenalan dan foto objeknya tetap tersedia. Dua modul memakai satu tutorial ABC Education; total 43 penempatan video pada 127 modul. Judul serta kanal YouTube disesuaikan dengan metadata yang terbaca saat pemeriksaan akhir.
+
+
+## Video setelah deskripsi dan panduan tertulis, 4 November 2026
+
+Video dipisahkan dari panel latihan dan diletakkan langsung sesudah paragraf deskripsi. Pemutar tampil satu kali; langkah tertulis menyusul. Terdapat 238 materi nonwisata dengan video pendamping, dari 250 materi. Kandidat diperoleh dari hasil pencarian YouTube nyata, lalu judul/kanal serta ketersediaan diperiksa melalui oEmbed. Contoh teknik atau variasi umum memiliki catatan konteks. Dua belas materi belum memiliki video yang cocok, sehingga tidak dipasangi video budaya lain.
+
+Seluruh 250 materi nonwisata memiliki 3–5 langkah tertulis yang tidak memerlukan menonton atau menjeda video. Lingkupnya mencakup latihan koordinasi yang dibuat untuk pemula, prototipe bahan pengganti, pemahaman bahan/proses, serta aturan permainan yang didukung sumber. Panduan yang terbatas tidak mengaku lengkap. Halaman wisata hanya membuka lokasi dan tombol Google Maps setelah deskripsi; panel latihan, video, dan pendamping dihilangkan untuk wisata.
+
+Cakupan gambar 300/300 kartu. Menambahkan 12 foto Wikimedia berlisensi melalui tautan pratinjau, 12 sampul dokumentasi wisata yang dikreditkan, serta 17 ilustrasi tema/perlengkapan proyek. Foto, cuplikan variasi umum, dan ilustrasi diberi label/caption berbeda. Gambar ilustrasi tidak menjadi ukuran pembuatan, koreografi, atau denah baku.
+
+Pemeriksaan akhir Safari/IAB pada lebar 320 piksel: Tari Piring memiliki urutan paragraf deskripsi → satu pemutar video → panduan teks, tanpa luapan horizontal. Museum Siginjei memuat satu tautan lokasi, nol pemutar, nol panel latihan. Bicau menampilkan ilustrasi berlabel serta empat langkah sumber. Halaman yang diperiksa tidak menghasilkan galat aplikasi. Validator katalog lulus; 250 modul tidak memiliki langkah yang meminta menonton, membuka, memutar, atau menjeda video.

@@ -1,6 +1,6 @@
 # Sumber materi dan foto SwaraNusa
 
-Ditinjau 2026-11-03. Koleksi berisi 300 materi pada 10 provinsi, termasuk 1 panduan, 127 modul belajar/kunjungan, dan 43 penempatan video (22 tutorial). Artikel memakai parafrasa. Pengelompokan provinsi membantu penelusuran dan tidak menyatakan kepemilikan eksklusif suatu tradisi.
+Ditinjau 2026-11-04. Koleksi berisi 300 materi pada 10 provinsi, termasuk 1 panduan, 250 panduan tertulis nonwisata, dan 238 penempatan video (77 tutorial). Artikel memakai parafrasa. Pengelompokan provinsi membantu penelusuran dan tidak menyatakan kepemilikan eksklusif suatu tradisi.
 
 ## Materi budaya
 
@@ -12,32 +12,44 @@ Ditinjau 2026-11-03. Koleksi berisi 300 materi pada 10 provinsi, termasuk 1 pand
   - Pendukung: [UNESCO, dokumen 6.COM tentang nominasi dan pelindungan Saman](https://ich.unesco.org/doc/src/ITH-11-6.COM-CONF.206-8%2BCorr.%2BAdd.-EN.pdf).
   - Pendukung: [UNESCO, Saman dance](https://www.youtube.com/watch?v=E2RZaxW_-A0).
 - **Seudati**: [Indonesia Travel, Kementerian Pariwisata](https://www.indonesia.travel/id/id/travel-ideas/culture/seudati-dance). Jenis: Pengenalan.
+  - Pendukung: [Lembaga Buana Group, TARI SEUDATI ACEH](https://www.youtube.com/watch?v=B5oI-won_ZI).
 - **Likok Pulo**: [Budaya Aceh, Dinas Kebudayaan dan Pariwisata Aceh](https://www.budayaaceh.com/wbtb/likok-pulo/40). Jenis: Pengenalan.
   - Pendukung: [Balai Pelestarian Kebudayaan Sumatera Utara, TARI LIKOK PULO](https://www.youtube.com/watch?v=NOUBfL6cvI8).
 - **Ranup Lampuan**: [Institut Seni Budaya Indonesia Aceh](https://isbiaceh.ac.id/tari-ranup-lampuan/). Jenis: Pengenalan.
   - Pendukung: [Komunitas Saleum, Ranub Lampuan](https://www.youtube.com/watch?v=MlnNuCbI_y4).
 - **Ratoh Duek**: [BPNB Aceh, Antara Tari Saman dan Tari Ratoh Duek](https://repositori.kemendikdasmen.go.id/19236/). Jenis: Pengenalan.
   - Pendukung: [ABC Education · Suara Indonesia Dance, Let’s Sing: Mile-Mile (Ratoh Duek)](https://www.abc.net.au/education/collections/lets-sing/mile-mile-ratoh-duek/106510960).
+  - Pendukung: [Unit Kebudayaan Aceh ITB, Ratoh Duek - Pagelaran Gelar Budaya Aceh 2018](https://www.youtube.com/watch?v=uUu7_m_1fwM).
 
 **Musik Tradisional**
 
 - **Rapa’i**: [Database Koleksi Museum Aceh](https://koleksi.museum.acehprov.go.id/app/collection_etnografika/10). Jenis: Pengenalan.
   - Pendukung: [Budaya Aceh, Dinas Kebudayaan dan Pariwisata Aceh: Serune Kale](https://budayaaceh.com/opk/serune-kale/96).
   - Pendukung: [ABC Education · Suara Indonesia Dance, Let’s Sing: Mile-Mile, pengenalan rapa’i oleh Pak Mur](https://www.abc.net.au/education/collections/lets-sing/mile-mile-ratoh-duek/106510960).
+  - Pendukung: [TVRI ACEH OFFICIAL, Rapa'i Alat Musik Perkusi Yang Diminati \| Berita Aceh Hari Ini](https://www.youtube.com/watch?v=PF7sAJn4Yjs).
 - **Serune Kalee**: [Budaya Aceh, Dinas Kebudayaan dan Pariwisata Aceh](https://budayaaceh.com/opk/serune-kale/96). Jenis: Pengenalan.
+  - Pendukung: [Rahmat Hidayat, SERUNE KALEE, Alat musik tradional Aceh](https://www.youtube.com/watch?v=gTxItyEZjAk).
 - **Canang Kayu Aceh Singkil**: [Budaya Aceh, Dinas Kebudayaan dan Pariwisata Aceh](https://www.budayaaceh.com/wbtb/canang-kayu/86). Jenis: Pengenalan.
+  - Pendukung: [KUTA SIMBOLING, CARA MEMBUAT CANANG KAYU SINGKIL #RAFLIANSYAH #ACEHSINGKIL](https://www.youtube.com/watch?v=OmM3TYgeWqk).
 - **Didong**: [Budaya Aceh, Dinas Kebudayaan dan Pariwisata Aceh](https://www.budayaaceh.com/wbtb/didong/30). Jenis: Pengenalan.
+  - Pendukung: [divisixrimbaraya, DIDONG GAYO - Kemara Bujang vs Lut Tawar ( Part 8 ) Ending](https://www.youtube.com/watch?v=p_AVrxh15yM).
 - **Teganing**: [Budaya Aceh, Dinas Kebudayaan dan Pariwisata Aceh](https://www.budayaaceh.com/wbtb/teganing/57). Jenis: Pengenalan.
+  - Pendukung: [TVRI Nasional, Teganing Musik \| Tradisi Musik Khas Aceh](https://www.youtube.com/watch?v=TqXxIbyPGkA).
 
 **Kerajinan**
 
 - **Kasab Aceh**: [Budaya Aceh, Dinas Kebudayaan dan Pariwisata Aceh](https://www.budayaaceh.com/wbtb/kasab/96). Jenis: Pengenalan.
+  - Pendukung: [TPID Indrajaya, TPID Indrajaya - Capturing kerajinan kasab Aceh](https://www.youtube.com/watch?v=S-y9rCZiCFg).
 - **Kerawang Gayo**: [Budaya Aceh, Dinas Kebudayaan dan Pariwisata Aceh](https://www.budayaaceh.com/wbtb/kerawang-gayo/39). Jenis: Pengenalan.
   - Pendukung: [Rosdiani dan Chalid, penelitian kerawang di Bebesen](https://ojs.unimal.ac.id/AAJ/article/download/6204/pdf/18023).
+  - Pendukung: [MBAH GAYO, Cara Menjahit Motif Kerawang Gayo](https://www.youtube.com/watch?v=Rul2yNTxBl0).
 - **Rencong Aceh**: [Budaya Aceh, Dinas Kebudayaan dan Pariwisata Aceh](https://www.budayaaceh.com/wbtb/rencong/2). Jenis: Pengenalan.
+  - Pendukung: [acehvideo.tv, Kerajinan Rencong Aceh](https://www.youtube.com/watch?v=r8kifiHQ3fc).
 - **Gerabah Ateuk Jawo**: [Jurnal Ilmiah Mahasiswa Pendidikan Sendratasik, penelitian gerabah Ateuk Jawo](https://media.neliti.com/media/publications/187609-ID-kerajinan-gerabah-di-desa-ateuk-jawo-kec.pdf). Jenis: Pengenalan.
+  - Pendukung: [4B1 TV, \[VLOG\] Produk Unggulan Gampong Ateuk Jawo, MANTAP](https://www.youtube.com/watch?v=iX-d49OdgJ8).
 - **Songket Krueng Kalee**: [Karya Kreatif Indonesia, profil Mutiara Songket](https://www.karyakreatifindonesia.co.id/umkm/mutiara-songket/46053). Jenis: Pengenalan.
   - Pendukung: [Dinas PUPR Aceh, kunjungan ke Rumah Tenun Mutiara Songket](https://pupr.acehprov.go.id/berita/kategori/dinas-pupr-aceh/dwp-dinas-pupr-aceh-kunjungi-rumah-tenun-mutiara-songket-di-krueng-kalee).
+  - Pendukung: [Buletin iNews GTV, Kerajinan Kain Songket Aceh Dibuat dengan Cara Tradisional Gunakan Kaki Tangan - BIP 28/11](https://www.youtube.com/watch?v=mx3xtlWSxFg).
 
 **Wisata & Ikon**
 
@@ -51,49 +63,72 @@ Ditinjau 2026-11-03. Koleksi berisi 300 materi pada 10 provinsi, termasuk 1 pand
 **Kuliner**
 
 - **Mie Aceh**: [Indonesia Travel, Kementerian Pariwisata](https://www.indonesia.travel/id/id/travel-ideas/gastronomy/mie-aceh). Jenis: Pengenalan.
+  - Pendukung: [Devina Hermawan, Resep MIE ACEH: Istimewa, Gurih Berempah!](https://www.youtube.com/watch?v=OGtn3u23Yjw).
 - **Timphan**: [Indonesia Travel, Kementerian Pariwisata](https://www.indonesia.travel/id/id/destination/sumatra/aceh). Jenis: Pengenalan.
   - Pendukung: [Pemerintah Aceh, Timphan Makanan Khas Aceh Saat Lebaran](https://www.acehprov.go.id/berita/kategori/jelajah/timphan-makanan-khas-aceh-saat-lebaran).
+  - Pendukung: [Kokiku, Resep Kue Timphan \| ASTRID ENRICKA](https://www.youtube.com/watch?v=zLoTXVHySKw).
 - **Kuah Beulangong**: [Budaya Aceh, Dinas Kebudayaan dan Pariwisata Aceh](https://www.budayaaceh.com/wbtb/kuah-beulangong/59). Jenis: Pengenalan.
+  - Pendukung: [husna idris channel, Ayo Kita Memasak Kuah Beulangong \|\| Masakan Khas Aceh Rayeuk](https://www.youtube.com/watch?v=iDH_NFUGvIY).
 - **Kuah Pliek U**: [Kantor Wilayah Kementerian Agama Provinsi Aceh](https://aceh.kemenag.go.id/baca/pagi-senam-siang-santap-kuah-pliek). Jenis: Pengenalan.
+  - Pendukung: [Dapue Mak Maryam, Resep Kuah Pliek U aceh \| Masakan Tradisional Aceh \| Enak](https://www.youtube.com/watch?v=W8O-nCV07jI).
 - **Keumamah**: [Budaya Aceh, Dinas Kebudayaan dan Pariwisata Aceh](https://www.budayaaceh.com/wbtb/keumamah/80). Jenis: Pengenalan.
+  - Pendukung: [MASAK TEROOS, Peunajoh Aceh‼️ Cara mudah membuat Keumamah Khas Aceh ‖ Resep keumamah asli Aceh ‖ Eungkot Keumamah](https://www.youtube.com/watch?v=TyJOvbb2q3A).
 
 **Permainan Tradisional**
 
 - **Catoe Rimueng**: [Pemerintah Kabupaten Bireuen, PPKD 2023, Tabel 4.10](https://budayaaceh.com/assets/ppkd/68f7545437efd1761039444.pdf). Jenis: Pengenalan.
+  - Pendukung: [Serambi TV, Cato Rimueng, Permainan Lampau Yang Kian Langka](https://www.youtube.com/watch?v=PHOT_R0OSME).
 - **Gaseng Aceh**: [Pemerintah Kabupaten Bireuen, PPKD 2023, Tabel 4.10](https://budayaaceh.com/assets/ppkd/68f7545437efd1761039444.pdf). Jenis: Pengenalan.
+  - Pendukung: [isaldest official, Tradisi aceh \|\| Lomba " Pupoek Gaseng" ( Adu gasing )](https://www.youtube.com/watch?v=ZlaACU7dwtc).
 - **Geulayang**: [BPNB Aceh, Geulayang: Permainan rakyat lintas usia sarat nilai](https://repositori.kemendikdasmen.go.id/19240/). Jenis: Pengenalan.
+  - Pendukung: [KOMPASTV, Geulayang Tunang, Tradisi Perlombaan Layang-layang Usai para Petani Panen Raya](https://www.youtube.com/watch?v=UvM_H1aA85o).
 - **Geudeu-geudeu**: [Budaya Aceh, Dinas Kebudayaan dan Pariwisata Aceh](https://www.budayaaceh.com/wbtb/gedeu-gedeu/113). Jenis: Pengenalan.
   - Pendukung: [ANTARA Aceh, Pidie kenalkan permainan tradisional Geudeu-geudeu](https://aceh.antaranews.com/berita/411163/pidie-kenalkan-permainan-tradisional-geudeu-geudeu).
+  - Pendukung: [TRANS7 OFFICIAL, Geudeu-Geudeu Permainan Khas Rakyat  Aceh](https://www.youtube.com/watch?v=qr82GBk68mo).
 - **Meuen Tarek Situek**: [Budaya Aceh, Dinas Kebudayaan dan Pariwisata Aceh](https://www.budayaaceh.com/opk/meuen-tarek-situek/131). Jenis: Pengenalan.
+  - Pendukung: [SDN 10 DEWANTARA, Permainan TAREK SITUEK_SDN10DEWANTARA](https://www.youtube.com/watch?v=zfeZP7bUUC4).
 
 ### Sumatera Utara
 
 **Tari**
 
 - **Tor-tor Padang Lawas Utara**: [Jadesta, Kementerian Pariwisata](https://jadesta.kemenpar.go.id/atraksi/tortor_padang_lawas_utara). Jenis: Pengenalan.
+  - Pendukung: [Rasyid Studio, 👉 “Tor-Tor Mora di Pernikahan Adat Padang Lawas Utara 🔥 Tradisi Margondang Asli!”](https://www.youtube.com/watch?v=qYNlhR_L4r8).
 - **Landek dalam Erdemu Bayu**: [Gesture, E-Jurnal Seni Tari Universitas Negeri Medan](https://download.garuda.kemdikbud.go.id/article.php?article=2725000&title=LANDEK+DALAM+UPACARA+ERDEMU+BAYU+KAJIAN+TERHADAP+BENTUK+DALAM+SISTEM+SOSIAL+PADA+MASYARAKAT+KARO&val=24778). Jenis: Pengenalan.
+  - Pendukung: [KZ CHANEL, TOSA & MAYA // KERJA TUMBUK ERDEMU BAYU// ADU LANDEK PENGANTIN](https://www.youtube.com/watch?v=9oEUjlFOhOA).
 - **Serampang Duabelas**: [SPKT, Kementerian Kebudayaan](https://spkt.kemenbud.go.id/urun-daya/ebe5285e-dae0-4eef-b579-27b9fe942a38). Jenis: Pengenalan.
   - Pendukung: [GNP Music, Petunjuk Tari Serampang 12 (Dance Instruction)](https://www.youtube.com/watch?v=ewn5gVsMpnI).
 - **Maena**: [Kemendikbud, Serenade untuk Sebuah Kisah, bagian Maena](https://repositori.kemendikdasmen.go.id/24145/1/Ebook_Serenade%20untuk%20Sebuah%20Kisah.pdf). Jenis: Pengenalan.
+  - Pendukung: [Yohana Siallagan, MAENA MANGONA \| TARI MAENA \| TARI TRADISIONAL SUKU NIAS](https://www.youtube.com/watch?v=JuUeOdQIPHI).
 - **Tari Perang Nias Selatan**: [BPNB Aceh, Buletin Haba 83, bagian tari Nias](https://repositori.kemendikdasmen.go.id/14897/1/HABA%20%23%2083.pdf). Jenis: Pengenalan.
   - Pendukung: [Akademis Tv, tari perang nias](https://www.youtube.com/watch?v=zDEslLXT0zU).
 
 **Musik Tradisional**
 
 - **Gondang Sabangunan**: [Universitas Negeri Yogyakarta, penelitian teknik instrumen Gondang Hasapi](https://eprints.uny.ac.id/26958/1/Awal%20Ahmad%20Syahputra%20Dalimunthe%2006208241025.pdf). Jenis: Pengenalan.
+  - Pendukung: [VERDY CERULLO, GONDANG BOLON 2026 - Gondang Sabangunan Vol.1](https://www.youtube.com/watch?v=-HPQWt9LzIM).
 - **Gondang Hasapi**: [ISI Yogyakarta, Perubahan Gondang Hasapi: Studi Kasus pada Masyarakat Batak Toba di Jakarta](https://rama.kemdiktisaintek.go.id/document/detail/oai:digilib.isi.ac.id:15349-15). Jenis: Pengenalan.
+  - Pendukung: [Bertua Sitanggang Official, GONDANG HASAPI BERTUA SITANGGANG SULIM TONGOSAN](https://www.youtube.com/watch?v=CHEbVEVQ424).
 - **Gordang Sambilan**: [Jadesta, Kementerian Pariwisata](https://jadesta.kemenpar.go.id/atraksi/gordang_sambilan). Jenis: Pengenalan.
+  - Pendukung: [DISKOMINFO MADINA, GORDANG SAMBILAN GEMPARKAN ASIAN GAMES ke 18 PALEMBANG](https://www.youtube.com/watch?v=lI6OZ-MBGSM).
 - **Kulcapi Karo**: [Universitas Negeri Medan, buku musik Karo dan turin-turin](https://digilib.unimed.ac.id/id/eprint/51567/2/book.pdf). Jenis: Pengenalan.
+  - Pendukung: [dinan 366, Master kulcapi dan CaraTeknik dasar bermain Kulcapi](https://www.youtube.com/watch?v=Z-N3L46wkFc).
 - **Keteng-keteng**: [Mastri Dihita Sagala, Universitas Pendidikan Indonesia](https://repository.upi.edu/32991/2/S_SMS_1304375_Abstract.pdf). Jenis: Pengenalan.
   - Pendukung: [ISI Yogyakarta, kajian instrumen Karo](https://digilib.isi.ac.id/1775/6/JURNAL%20-%20Lopiga%20El%20Roy%20Sitepu.pdf).
+  - Pendukung: [Simpei Sinulingga, Belajar Keteng Keteng Alat Musik Tradisional Karo](https://www.youtube.com/watch?v=oh2WjYUGwY8).
 
 **Kerajinan**
 
 - **Ulos**: [Indonesia Travel, Kementerian Pariwisata](https://www.indonesia.travel/id/id/travel-ideas/heritage/tak-hanya-memesona-5-kain-ulos-khas-danau-toba-ini-juga-sarat-makna). Jenis: Pengenalan.
+  - Pendukung: [EDUTAINMENT TRANS7 OFFICIAL, Belajar Cara Membuat Tenun Ulos \| SI BOLANG (02/11/22)](https://www.youtube.com/watch?v=ffjC1eyTYjc).
 - **Uis Karo**: [Pemerintah Kecamatan Pangururan, dokumentasi perajin Uis Karo](https://pangururankec.samosirkab.go.id/kkn-ppm-ugm-dorong-digitalisasi-umkm-arfin-sinergi-uis-karo-melalui-website-katalog-produk). Jenis: Pengenalan.
+  - Pendukung: [Krisnando Tambun, Proses Pembuatan Uis Karo](https://www.youtube.com/watch?v=SC0QTRcY88A).
 - **Gorga Batak Toba**: [BPNB Aceh, Gorga: Motif dan Seni Ukir Batak Toba](https://repositori.kemendikdasmen.go.id/24509/). Jenis: Pengenalan.
+  - Pendukung: [Jo El manalu, Cara mudah Membuat Gorga/Ukiran Tradisional Batak Toba:Gorga Gaja Dompak (Sumatera Utara,](https://www.youtube.com/watch?v=rBRWZrZu1Gs).
 - **Anyaman Pandan Serdang Bedagai**: [Media Center Pemerintah Kabupaten Serdang Bedagai](https://mediacenter.serdangbedagaikab.go.id/2021/07/05/ketua-dekranasda-sergai-buka-bimtek-penumbuhan-wub-anyaman-pandan/). Jenis: Pengenalan.
+  - Pendukung: [INI SERGAI LOH, Anyaman Pandan MENDAI Sergai](https://www.youtube.com/watch?v=FstjyVudkag).
 - **Osa-osa Ni’oböhö dari Kayu**: [Museum Pusaka Nias, koleksi Osa-osa Ni’oböhö](https://museum-nias.org/?artwork=ukiran-kayu-osa-osa-nioboho). Jenis: Pengenalan.
+  - Pendukung: [BeaverCraft, How to Carve Animal Figures: A Simple Guide for Beginners](https://www.youtube.com/watch?v=YiNC9csk3v8).
 
 **Wisata & Ikon**
 
@@ -107,22 +142,31 @@ Ditinjau 2026-11-03. Koleksi berisi 300 materi pada 10 provinsi, termasuk 1 pand
 **Kuliner**
 
 - **Dekke Naniura**: [KPKNL Medan, pengenalan Dekke Naniura](https://www.djkn.kemenkeu.go.id/kpknl-medan/baca-artikel/15480/Dekke-Naniura-Menu-Kuliner-Khas-Batak-yang-Pernah-Menjadi-Hidangan-Para-Raja.html). Jenis: Pengenalan.
+  - Pendukung: [Emily Napit, Resep Asli Mertua  cara membuat ikan mas naniura khas batak modern](https://www.youtube.com/watch?v=iYXoZPBKZww).
 - **Ikan Mas Arsik**: [Indonesia Travel, Kementerian Pariwisata](https://www.indonesia.travel/id/id/travel-ideas/gastronomy/ikan-arsik). Jenis: Pengenalan.
   - Pendukung: [Jurnal Basataka, pengenalan kuliner Batak Toba](https://jurnal.pbsi.uniba-bpn.ac.id/index.php/BASATAKA/article/download/537/288/2067).
+  - Pendukung: [Artonis Channel, Masak Arsik Ikan Mas Khas Batak \|\| Resep Ikan Mas Arsik Bumbu Lengkap yang Sederhana](https://www.youtube.com/watch?v=AyQwzVwPhog).
 - **Dayok Binatur**: [BPNB Aceh, Seri Informasi Budaya Dayok Binatur](https://repositori.kemendikdasmen.go.id/19191/1/2015%20-%20dayok%20binatur.pdf). Jenis: Pengenalan.
+  - Pendukung: [Seksi Kebudayaan PD Bhayangkari Sumut, RESEP DAYOK NABINATUR KHAS SIMALUNGUN PC BHAYANGKARI SIMALUNGUN](https://www.youtube.com/watch?v=GnG8M9ivHcU).
 - **Lappet Dairi**: [Portal Pariwisata Pemerintah Kabupaten Dairi](https://visit.dairikab.go.id/destination/40-lappet-makanan-khas-yang-nikmat-makanan-tradisional-khas-sidikalang-bercita-rasa-manis). Jenis: Pengenalan.
+  - Pendukung: [Libra Masak Masak, Cara Membuat Lapet khas Batak / Medan Sumatera Utara \| Isi Gula Merah Dengan Beras Biasa](https://www.youtube.com/watch?v=auPZk5o1DZc).
 - **Bika Ambon Medan**: [Indonesia Travel, Kementerian Pariwisata](https://www.indonesia.travel/id/id/travel-ideas/gastronomy/bika-ambonn). Jenis: Pengenalan.
+  - Pendukung: [CR COOK, RESEP BIKA AMBON FULL BERSARANG LEMBUT DAN KENYAL](https://www.youtube.com/watch?v=zlLxkTXcTRs).
 
 **Permainan Tradisional**
 
 - **Margala**: [Siregar, Gultom, dan Baiduri, penelitian pelestarian Margala di Toba Samosir](https://digilib.unimed.ac.id/id/eprint/52923/1/Article.pdf). Jenis: Pengenalan.
+  - Pendukung: [Roma Idoiani Saragih, cara bermain permainan tradisional margala](https://www.youtube.com/watch?v=FLJoxZ8hudI).
 - **Marsitekka**: [Museum Sonobudoyo, Bermain Engklek di Museum](https://sonobudoyo.jogjaprov.go.id/id/tulisan/read/bermain-engklek-di-museum). Jenis: Pengenalan.
   - Pendukung: [Simamora & Sibarani, giliran Marsitekka, hlm. 79](https://journal.formosapublisher.org/index.php/jldl/article/download/1248/1150/3941).
+  - Pendukung: [Sekolah Kita SANTO YOSEPH, Bermain Marsitekka (Permainan tradisional dari Sumatera Utara)](https://www.youtube.com/watch?v=6_--CsvYlSk).
 - **Marsukkil**: [Simamora dan Sibarani, Tradisi Permainan Rakyat pada Etnik Batak Toba](https://journal.formosapublisher.org/index.php/jldl/article/download/1248/1150/3941). Jenis: Pengenalan.
+  - Pendukung: [EDUTAINMENT TRANS7 OFFICIAL, Bermain Marsukil \| SI BOLANG (27/05/24)](https://www.youtube.com/watch?v=xPAYSdSaFn0).
 - **Marsir**: [Simamora dan Sibarani, Tradisi Permainan Rakyat pada Etnik Batak Toba](https://journal.formosapublisher.org/index.php/jldl/article/download/1248/1150/3941). Jenis: Pengenalan.
 - **Marjalengkat**: [Komunitas Budaya Indonesia, catatan Marjalengkat](https://versilama.budaya-indonesia.org/Marjalengkat). Jenis: Pengenalan.
   - Pendukung: [Rambe dan Saragi, penelitian Marjalengkat di Tebing Tinggi](https://journal.insyaka.ac.id/index.php/ALFIHRIS/article/view/580).
   - Pendukung: [Pemerintah Kabupaten Dairi, festival Njuah-Njuah](https://info.dairikab.go.id/camat-silima-pungga-pungga-edwin-g-nababan-sp-menyerahkan-piala-dan-uang-pembinaan-kepada-pemenang-lomba-pada-pesta-budaya-njuah-njuah/).
+  - Pendukung: [Rusmauli Purba, PERMAINAN TRADISIONAL MARJALENGKAT](https://www.youtube.com/watch?v=hYNtaUmj2CE).
 
 ### Sumatera Barat
 
@@ -131,21 +175,27 @@ Ditinjau 2026-11-03. Koleksi berisi 300 materi pada 10 provinsi, termasuk 1 pand
 - **Tari Piring**: [Indonesia Travel, Kementerian Pariwisata](https://www.indonesia.travel/id/id/travel-ideas/culture/tari-piring). Jenis: Pengenalan.
   - Pendukung: [GNP Music, Petunjuk Tari Piring (Dance Instruction)](https://www.youtube.com/watch?v=evLoth-6p9o).
 - **Indang Piaman**: [BPSNT Padang, Indang dan Struktur Budaya Minangkabau](https://repositori.kemendikdasmen.go.id/29751/1/INDANG%20DAN%20STRUKTUR%20BUDAYA%20MINANGKABAU.pdf). Jenis: Pengenalan.
+  - Pendukung: [Ajho EfferaiL, INDANG PARIAMAN \|\| Taroroh - Asam Ketek - Juwo \|\|  INDANG TIGO SANDIANG](https://www.youtube.com/watch?v=prS8hu63hwo).
 - **Tari Payung**: [Indonesia Travel, Kementerian Pariwisata](https://www.indonesia.travel/id/id/travel-ideas/culture/tari-payung). Jenis: Pengenalan.
   - Pendukung: [GNP Music, Belajar Tari Payung Minang: Panduan Lengkap Dance Instruction Kosentra Group](https://www.youtube.com/watch?v=3dzvZD0thqg).
 - **Tari Pasambahan Teluk Buo**: [Jadesta, Kementerian Pariwisata](https://jadesta.kemenpar.go.id/atraksi/tari_pasambahan_5). Jenis: Pengenalan.
+  - Pendukung: [HAMKA PADANG OFFICIAL, TARI PASAMBAHAN - MTsN 3 KOTA PADANG - HAMKA EKSPOS COMPETITION (HECO) 2022](https://www.youtube.com/watch?v=smpSsVsPws4).
 - **Tari Rantak**: [Universitas Negeri Padang, kajian keberadaan Tari Rantak](https://download.garuda.kemdikbud.go.id/article.php?article=1970513&title=Keberadaan+Tari+Rantak+Dalam+Masyarakat+Pencinta+Seni+Di+Sumatera+Barat+Antara+Mentradisi+Dan+Anggapan+Sebagai+Tari+Tradisional&val=1538). Jenis: Pengenalan.
+  - Pendukung: [KBRI Ottawa, Tari Rantak  - ISI Yogyakarta](https://www.youtube.com/watch?v=LWSbKIXQT40).
 
 **Musik Tradisional**
 
 - **Saluang**: [Inspektorat Jenderal Kemendikbudristek, penetapan WBTb 2021](https://itjen.kemendikdasmen.go.id/web/?p=2418). Jenis: Pengenalan.
   - Pendukung: [OLia Efendi, CARA MEMBUAT SALUANG (alat tiup minangkabau) \|\| Kerajinan Bambu](https://www.youtube.com/watch?v=dtXStWqoC40).
 - **Talempong Pacik Jawi-jawi**: [Jadesta, Kementerian Pariwisata](https://jadesta.kemenpar.go.id/atraksi/talempong_pacik_1). Jenis: Pengenalan.
+  - Pendukung: [MALF, Talempong Pacik - MINANG](https://www.youtube.com/watch?v=g33m1vg7GWk).
 - **Rabab Pasisia**: [Pemerintah Kabupaten Pesisir Selatan, Kenapa Rabab Pasisie?](https://berita.pesisirselatankab.go.id/berita/detail/kenapa-rabab-pasisie-). Jenis: Pengenalan.
+  - Pendukung: [Kaliliang Pasisia, Rabab Pak Eri Jambang, Enak Didengar Menjelang Tidur \|\| RABAB PASISIA](https://www.youtube.com/watch?v=sjFeMJovySk).
 - **Bansi Minangkabau**: [Yulfita dan Asril, kajian musik Buana Lestari Sawahlunto](https://jurnal.unimed.ac.id/2012/index.php/grenek/article/download/49389/22879). Jenis: Pengenalan.
   - Pendukung: [OLia Efendi, BANSI MINANG - Nada Dasar G \|\| Alat Tiup Tradisional](https://www.youtube.com/watch?v=4DB2gmZzWI0).
 - **Gandang Tasa Pariaman**: [Universitas Negeri Padang, penelitian Gandang Tambua Cubadak Aia](https://download.garuda.kemdikbud.go.id/article.php?article=1375772&title=STRUKTUR+GARAPAN+GANDANG+TAMBUA+SEBAGAI+PERWUJUDAN+KEARIFAN+LOKAL+MASYARAKAT+DESA+CUBADAK+AIA+KECAMATAN+PARIAMAN+UTARA+KOTA+PARIAMAN&val=1543). Jenis: Pengenalan.
   - Pendukung: [Jadesta, Gandang Tasa Kampung Kandang](https://jadesta.kemenpar.go.id/atraksi/gandang_tasa).
+  - Pendukung: [EfferaiL YT, Hoyak Gandang/Tambua Tasa Palak Jua Barangan (Pdg Pariaman)](https://www.youtube.com/watch?v=mL5FyzbDyXo).
 
 **Kerajinan**
 
@@ -153,9 +203,13 @@ Ditinjau 2026-11-03. Koleksi berisi 300 materi pada 10 provinsi, termasuk 1 pand
   - Pendukung: [KONCO UMKM, Kerajinan Tenun dan Songket Pandai Sikek \|\| SEBUAH KADO EKSLUSIVE dari Ratunya Kain Tenun Nusantara](https://www.youtube.com/watch?v=azffgTBCfko).
 - **Songket Silungkang**: [Indonesia Travel, Kementerian Pariwisata](https://www.indonesia.travel/id/id/destination/sumatra/west-sumatra/silungkang-art-centre). Jenis: Pengenalan.
   - Pendukung: [Indonesia Travel, Songket Silungkang](https://www.indonesia.travel/id/en/travel-ideas/culture/songket-silungkang).
+  - Pendukung: [TRANS TV Official, Begini cara pembuatan kain songket khas Silungkang \| SISI LAIN](https://www.youtube.com/watch?v=9BaWKnBmLBw).
 - **Batik Tanah Liek**: [Universitas Negeri Padang, penelitian Batik Tanah Liek Citra Monalisa](https://download.garuda.kemdikbud.go.id/article.php?article=1373691&title=STUDI+TENTANG+DESAIN+MOTIF+DAN+TEKNIK+BATIK+TANAH+LIEK+DI+SANGGAR+CITRA+MONALISA+SAWAHAN+PADANG&val=1540). Jenis: Pengenalan.
+  - Pendukung: [KDK TV, KUDAK KDK \| Mengintip Proses Pembuatan Batik Tanah Liek di Rumah Batik Salingka Tabek](https://www.youtube.com/watch?v=yCb9ToPm8Xw).
 - **Sulam Bayang Barung Barung Balantai**: [Kementerian Perindustrian, GEMA edisi 86, Sulam Bayang Kagasa](https://ikm.kemenperin.go.id/storage/publication/gema/gema-edisi-86.pdf). Jenis: Pengenalan.
+  - Pendukung: [Disperindag Sumbar, Ep.11 Podcast Batandang On The Spot : Sulaman Bayangan Budaya Barung-Barung Balantai yg diakui Dunia](https://www.youtube.com/watch?v=7X6mF5eU6L0).
 - **Kerajinan Perak Koto Gadang**: [Pemerintah Kabupaten Agam, Profil Daerah 2023, halaman 46](https://ppid.agamkab.go.id/public/statistik/publikasi/file/buku_profil_daerah_kabupaten_agam_2023_1702520616.pdf). Jenis: Pengenalan.
+  - Pendukung: [TRANS7 OFFICIAL, Kerajinan Perak Koto Gadang \| RAGAM INDONESIA (22/12/21)](https://www.youtube.com/watch?v=GrJIaeyx58I).
 
 **Wisata & Ikon**
 
@@ -169,21 +223,31 @@ Ditinjau 2026-11-03. Koleksi berisi 300 materi pada 10 provinsi, termasuk 1 pand
 
 - **Randang**: [BPNB Padang, Inventarisasi Perlindungan Karya Budaya Randang Minangkabau](https://repositori.kemendikdasmen.go.id/29502/). Jenis: Pengenalan.
   - Pendukung: [Indonesia Travel: proses dan ragam rendang](https://www.indonesia.travel/id/id/travel-ideas/gastronomy/lezatnya-rendang-minangkabau-yang-mendunia).
+  - Pendukung: [Devina Hermawan, Empuk, Meresap, Tahan Lama! Resep Rendang Daging Khas Padang](https://www.youtube.com/watch?v=GNfRXKsvG04).
 - **Sate Padang**: [Indonesia Travel, Kementerian Pariwisata](https://www.indonesia.travel/id/id/travel-ideas/gastronomy/fakta-menarik-di-balik-nikmatnya-sate-padang). Jenis: Pengenalan.
+  - Pendukung: [Devina Hermawan, Gurih Berempah! Resep SATE PADANG \[Menu Idul Adha\]](https://www.youtube.com/watch?v=LWRIBEBRwuM).
 - **Dendeng Balado**: [RRI Bukittinggi, pengenalan Dendeng Balado](https://rri.co.id/bukittinggi/kuliner/2518867/dendeng-balado-yang-nikmat-gurih-dan-renyah). Jenis: Pengenalan.
+  - Pendukung: [CR COOK, RESEP DENDENG  BALADO](https://www.youtube.com/watch?v=M1-M0_5W2qE).
 - **Galamai Takiak**: [Distanhorbun Kabupaten Lima Puluh Kota, Katalog UP3HP 2022, halaman 10](https://distanhortbun.limapuluhkotakab.go.id/download/UP3HP_Kab__Lima_Puluh_Kota_3.pdf). Jenis: Pengenalan.
+  - Pendukung: [Lintas iNews MNCTV, Galamai Bercita Rasa Manis, Cemilan Khas Payakumbuh - LIM 17/11](https://www.youtube.com/watch?v=9jlfMzdAJE4).
 - **Lamang Tapai**: [Pemerintah Kota Padang, pengenalan Lamang Tapai](https://padang.go.id/berita/takjil-ramadan-buka-puasa-selesai-berkat-lamang-tapai). Jenis: Pengenalan.
+  - Pendukung: [Bidang Kebudayaan Dikbud Kab Tanah Datar, Lamang Tapai Lima Kaum    Proses Pembuatan dari Awal Sampai Jadi](https://www.youtube.com/watch?v=6OQS9Uo6B2E).
 
 **Permainan Tradisional**
 
 - **Main Dore**: [Basis Data Warisan Budaya, Cak Ingkling](https://referensi.data.kemendikdasmen.go.id/budayakita/wbtb/objek/AA000890). Jenis: Pengenalan.
+  - Pendukung: [Betti Wardani, Permainan Tradisional Engklek \|\| Main Dore](https://www.youtube.com/watch?v=2jzpVdyLUl0).
 - **Sipak Rago**: [Jadesta, Kementerian Pariwisata](https://jadesta.kemenpar.go.id/atraksi/sipak_rago). Jenis: Pengenalan.
   - Pendukung: [Indonesiana edisi 3, sipak rago dalam lingkaran tanpa net](https://repositori.kemendikdasmen.go.id/14684/1/Indonesiana%203.pdf).
+  - Pendukung: [TVRI Nasional, Kesenian Sepak Rago \| Amazing Indonesia Sumatra Barat](https://www.youtube.com/watch?v=2LsiImjhFZE).
 - **Sipak Tekong**: [RRI Bukittinggi, pengenalan Sipak Tekong](https://rri.co.id/bukittinggi/regional/1537724/sipak-tekong-permainan-tradisional-minangkabau-yang-penuh-strategi). Jenis: Pengenalan.
   - Pendukung: [Migel David dkk., Sipak Tekong di Kabupaten Agam (2025)](https://jurnal.iainambon.ac.id/index.php/JTI/article/download/11350/2542/28049).
+  - Pendukung: [KAJIAN RUTIN IKLP, Permainan Tradisional Anak Nagari (Sipak Tekong)](https://www.youtube.com/watch?v=noF2QAlvLEg).
 - **Pacu Jawi**: [Jadesta, Kementerian Pariwisata](https://jadesta.kemenpar.go.id/atraksi/pacu_jawi_3). Jenis: Pengenalan.
+  - Pendukung: [TRANS7 OFFICIAL, PACU JAWI, Balapan Sapi Khas Minang \| JEJAK ANAK NEGERI](https://www.youtube.com/watch?v=r5KdP6bG8YE).
 - **Main Galah Minangkabau**: [Kamoes Bahasa Minangkabau–Bahasa Melajoe-Riau, lema galah](https://min.wikisource.org/wiki/Kamoes_Bahasa_Minangkabau-Bahasa_Melajoe-Riau). Jenis: Pengenalan.
   - Pendukung: [Universitas Lampung, kajian permainan gobag sodor](https://digilib.unila.ac.id/26431/14/SKRIPSI%20TANPA%20BAB%20PEMBAHASAN.pdf).
+  - Pendukung: [Studycle Kids, Keseruan Bermain Gobak Sodor \| Permainan Tradisional Anak Indonesia \| Video Belajar Anak](https://www.youtube.com/watch?v=o0tPTGtCbq4).
 
 ### Riau
 
@@ -194,7 +258,9 @@ Ditinjau 2026-11-03. Koleksi berisi 300 materi pada 10 provinsi, termasuk 1 pand
 - **Zapin Meskom**: [Dinas Kebudayaan Riau, Warisan Budaya Takbenda](https://repositori.kemendikdasmen.go.id/17250/1/WBTB%20final%20COVER.pdf). Jenis: Pengenalan.
   - Pendukung: [mysenibudaya JKKN, JOM BELAJAR : ASAS TARI GERAK ZAPIN](https://www.youtube.com/watch?v=juQOrIFBw2w).
 - **Joget Sonde**: [Dinas Kebudayaan Riau, Warisan Budaya Takbenda](https://repositori.kemendikdasmen.go.id/17250/1/WBTB%20final%20COVER.pdf). Jenis: Pengenalan.
+  - Pendukung: [fahmi abdulhamid, Joget Sonde Riau](https://www.youtube.com/watch?v=6aNvm6ABeU0).
 - **Zapin Api Rupat Utara**: [Dinas Pariwisata Bengkalis](https://disparbudpora.bengkaliskab.go.id/berita/120/sajikan-tari-zapin-api-menambahkan-kemeriahan-festival-rupat-culture-paradise-). Jenis: Pengenalan.
+  - Pendukung: [Prodi Seni Tari ISI Padangpanjang, Tari Zapin Api Rupat Utara Bengkalis Riau   FBM 2017](https://www.youtube.com/watch?v=Q6DUBC1Fr8M).
 - **Tari Persembahan Melayu Riau**: [Nazlen dan Darmawati, Jurnal Sendratasik](https://download.garuda.kemdikbud.go.id/article.php?article=2610000&title=Perubahan+Tari+Makan+Sirih+Ke+Tari+Persembahan+Melayu+Riau+Di+Kota+Pekanbaru+Provinsi+Riau&val=1538). Jenis: Pengenalan.
   - Pendukung: [SENI BUDAYA, Tutorial gerak tari persembahan melayu Riau](https://www.youtube.com/watch?v=nM8_sFdQm3I).
 
@@ -202,19 +268,27 @@ Ditinjau 2026-11-03. Koleksi berisi 300 materi pada 10 provinsi, termasuk 1 pand
 
 - **Gambus dalam Musik Zapin Riau**: [Pokok Pikiran Kebudayaan Daerah Indragiri Hilir](https://disbud.riau.go.id/storage/file/ppkd/1768281077-6965d3f57ef8f.pdf). Jenis: Pengenalan.
   - Pendukung: [Dokumentasi pertunjukan Serai Serumpun Riau](https://mediacenter.riau.go.id/index.php/read/serai-serumpun-riau-pentaskan-musik-zapin-pada-festival-budaya-di-malaysia).
+  - Pendukung: [hafiz zapin, cara main gambus lagu selamat datang di negri melayu](https://www.youtube.com/watch?v=wcT2s26yuqE).
 - **Marwas dalam Zapin Riau**: [Media Center Pemerintah Provinsi Riau](https://mediacenter.riau.go.id/index.php/read/serai-serumpun-riau-pentaskan-musik-zapin-pada-festival-budaya-di-malaysia). Jenis: Pengenalan.
+  - Pendukung: [Jumadi, Penotasian pukulan marwas zapin siak](https://www.youtube.com/watch?v=_lMw8vd_aCo).
 - **Kompang Indragiri Hilir**: [Pokok Pikiran Kebudayaan Daerah Indragiri Hilir](https://disbud.riau.go.id/storage/file/ppkd/1768281077-6965d3f57ef8f.pdf). Jenis: Pengenalan.
+  - Pendukung: [Hairizal RIManagement, Pukulan Kompang Desa Igal, Kec Mandah warisan Kompang Melayu Indragiri](https://www.youtube.com/watch?v=tfMPT5BidyA).
 - **Gebano Indragiri Hilir**: [Pokok Pikiran Kebudayaan Daerah Indragiri Hilir](https://disbud.riau.go.id/storage/file/ppkd/1768281077-6965d3f57ef8f.pdf). Jenis: Pengenalan.
+  - Pendukung: [DIDING ZAENUDIN, TUTORIAL PUKULAN  REBANA QASIDAH KLASIK](https://www.youtube.com/watch?v=-KVlr4N7acU).
 - **Calempong Oguong Ate Piyau**: [Jadesta, Desa Wisata Tanjung Beringin](https://jadesta.kemenpar.go.id/atraksi/calempong_oguong_ate_piyau). Jenis: Pengenalan.
+  - Pendukung: [YAPEKA, Pertunjukan Calempong & Silat Bungo Sanggar Linayungan Tanjung Beringin](https://www.youtube.com/watch?v=XPtNjfbcYs8).
 
 **Kerajinan**
 
 - **Tenun Siak**: [Jadesta, Desa Wisata Sungai Mempura](https://jadesta.kemenpar.go.id/paket/tenun_siak). Jenis: Pengenalan.
+  - Pendukung: [ayu Irma, video proses produksi Tenun Wan Fitri](https://www.youtube.com/watch?v=tLakEre5o24).
 - **Anyaman Rotan Sungai Mempura**: [Jadesta, Desa Wisata Sungai Mempura](https://jadesta.kemenpar.go.id/paket/paket_eduwisata_kerajinan_rotan). Jenis: Pengenalan.
+  - Pendukung: [sutris ino, tehnik dasar menganyam rotan untuk pemula - kerajinan](https://www.youtube.com/watch?v=5bHv3g4UIzg).
 - **Anyaman Pandan Riau**: [Indonesia.travel, Kementerian Pariwisata](https://www.indonesia.travel/id/id/travel-ideas/culture/anyaman-pandan). Jenis: Pengenalan.
   - Pendukung: [Kerajinan Sungai Mempura](https://jadesta.kemenpar.go.id/desa/sungai_mempura).
   - Pendukung: [Rumah Kerajinan Tangan, Tutorial anyaman dari daun pandan](https://www.youtube.com/watch?v=8RmkKURPrRo).
 - **Tekat Melayu Riau**: [ANTARA Riau, wawancara perajin Tekat Tiga Dara](https://riau.antaranews.com/berita/83259/tekat-sulaman-khas-melayu-hadir-di-festival-industri-kreatif-riau). Jenis: Pengenalan.
+  - Pendukung: [Fitri Wirdiyani, Kerajinan Tekat Melayu Riau: Proses Pembuatan Bungkus Kotak Tisu \| Tugas BMR](https://www.youtube.com/watch?v=0E_5yr19K2Q).
 - **Tanjak Sungai Mempura**: [Jadesta, Desa Wisata Sungai Mempura](https://jadesta.kemenpar.go.id/paket/tanjak_melayu). Jenis: Pengenalan.
   - Pendukung: [Kina Kano, Cara Membuat Tanjak \|\| Dendam tak sudah \|\| Tanjak Melayu \|\| by kina kano](https://www.youtube.com/watch?v=W5S6qUVLWX0).
 
@@ -229,22 +303,30 @@ Ditinjau 2026-11-03. Koleksi berisi 300 materi pada 10 provinsi, termasuk 1 pand
 **Kuliner**
 
 - **Bolu Kemojo**: [RRI Pekanbaru](https://rri.co.id/pekanbaru/kuliner/855829/about.html). Jenis: Pengenalan.
-  - Pendukung: [Dapoer Mom's Galang, OLEH OLEH KHAS PEKANBARU \|\| RESEP BOLU KEMOJO \|\| DAPOER MINCEU](https://www.youtube.com/watch?v=IhYvdLXQxsQ).
+  - Pendukung: [OLEH OLEH KHAS PEKANBARU \|\| RESEP BOLU KEMOJO \|\| DAPOER MINCEU](https://www.youtube.com/watch?v=IhYvdLXQxsQ).
 - **Mi Sagu Selatpanjang**: [Indonesia.travel, Kementerian Pariwisata](https://www.indonesia.travel/id/id/travel-ideas/gastronomy/mie-sagu). Jenis: Pengenalan.
+  - Pendukung: [Mie Sagu Kuah Selatpanjang](https://www.youtube.com/watch?v=U7dScAdnHq4).
 - **Lopek Bugi Kampar**: [RRI Pekanbaru](https://rri.co.id/pekanbaru/kuliner/651366/lopek-bugi-jajanan-khas-kabupaten-kampar). Jenis: Pengenalan.
-  - Pendukung: [KOMPASTV, Jajanan Lopek Bugi Khas Kampar Dijual dengan Harga Murah, Hanya Rp 1.000 per Biji](https://www.youtube.com/watch?v=PB6nc2d6L40).
+  - Pendukung: [Jajanan Lopek Bugi Khas Kampar Dijual dengan Harga Murah, Hanya Rp 1.000 per Biji](https://www.youtube.com/watch?v=PB6nc2d6L40).
 - **Asam Pedas Patin Kuala Terusan**: [Jadesta, Desa Wisata Kuala Terusan](https://jadesta.kemenpar.go.id/paket/asam_pedas_patin). Jenis: Pengenalan.
+  - Pendukung: [Resep Asam Pedas Ikan Patin khas Melayu Riau](https://www.youtube.com/watch?v=lvOBf-ZZSeQ).
 - **Gulai Salai Patin Kampar**: [Media Center Pemerintah Kabupaten Kampar](https://mediacenter.kamparkab.go.id/artikel-detail/4240/pemda-kampar-pecahkan-rekor-muri-1-373-sajian-gulai-ikan-salai-patin). Jenis: Pengenalan.
+  - Pendukung: [RESEP GULAI SALAI IKAN PATIN DAUN UBI \|\| Masakan Khas Melayu Riau !!!](https://www.youtube.com/watch?v=4pOkpW4vLS4).
 
 **Permainan Tradisional**
 
 - **Congkak**: [Budaya Melayu Riau, dokumentasi permainan](https://budayamelayuriau.org/lingkup-materi/permainan-tradisional/permainan-congkak/). Jenis: Panduan.
   - Pendukung: [Inventaris permainan rakyat Riau](https://www.pustaka-bpkxii.org/slims/index.php?id=1364&keywords=&p=show_detail).
   - Pendukung: [Aturan pengumpulan biji dan hasil akhir congklak](https://kebudayaan.kemdikbud.go.id/ditwdb/congklak-betawi/).
+  - Pendukung: [Traditional Games Returns, Cara Bermain Congklak: Permainan Tertua di Dunia! \| TGR Tutorial](https://www.youtube.com/watch?v=sBTOsfLH-i8).
 - **Gasing Melayu Riau**: [Budaya Melayu Riau, dokumentasi permainan](https://budayamelayuriau.org/lingkup-materi/permainan-tradisional/permainan-gasing/). Jenis: Pengenalan.
+  - Pendukung: [Caghi Tau Laaah, 🔴 SEJARAH SINGKAT‼️ PERMAINAN GASING MELAYU RIAU \| CARA BERMAIN DAN JENIS-JENIS GASING](https://www.youtube.com/watch?v=psjSpD1Z3n0).
 - **Setatak**: [BPSDM Riau, Jurnal Karya Aparatur](https://bpsdm.riau.go.id/bpsdm/wp-content/uploads/2021/02/5.-Strategi-Pembelajaran-Inkuiri-Melalui-Permainan-Setatak.pdf). Jenis: Pengenalan.
+  - Pendukung: [Qurata Ayun, Permainan Melayu Riau Setatak](https://www.youtube.com/watch?v=qbqg7GEYMP0).
 - **Catur Melayu atau Main Rimau**: [Budaya Melayu Riau, dokumentasi permainan](https://budayamelayuriau.org/lingkup-materi/permainan-tradisional/permainan-rakyat-catur-melayu/). Jenis: Pengenalan.
+  - Pendukung: [keluarga tercinta ♥︎★, Permainan Masyarakat Melayu Riau "Main Rimau"](https://www.youtube.com/watch?v=uX4HI7YQd5w).
 - **Layang-layang Bengkalis**: [Norma Dewi dkk., Layang-layang Permainan Rakyat Bengkalis](https://repositori.kemenbud.go.id/id/eprint/4219/). Jenis: Pengenalan.
+  - Pendukung: [YON OFFICIAL, Vlog \|\| Pembuat LAYANG WAU BULAN bengkalis. pelestari budaya. #senimanbandultv](https://www.youtube.com/watch?v=kujO95iqchk).
 
 ### Kepulauan Riau
 
@@ -263,21 +345,28 @@ Ditinjau 2026-11-03. Koleksi berisi 300 materi pada 10 provinsi, termasuk 1 pand
 **Musik Tradisional**
 
 - **Gazal Penyengat**: [BPNB, Kesenian Tradisional Masyarakat Kepulauan Riau](https://repositori.kemendikdasmen.go.id/27362/2/Kesenian%20Tradisional%20Masyarakat%20Kepulauan%20Riau.pdf). Jenis: Pengenalan.
+  - Pendukung: [PESONA TANJUNGPINANG_OFFICIAL, DOCUMENTARY OF GHAZAL (PULAU PENYENGAT)](https://www.youtube.com/watch?v=BSnc5tqNZ90).
 - **Kompang Karimun**: [BPNB, Kesenian Tradisional Masyarakat Kepulauan Riau](https://repositori.kemendikdasmen.go.id/27362/2/Kesenian%20Tradisional%20Masyarakat%20Kepulauan%20Riau.pdf). Jenis: Pengenalan.
   - Pendukung: [kompang 5 beradik official, Episod 2 - Pukulan Kompang Kahwin](https://www.youtube.com/watch?v=4K8PilCBfF8).
 - **Gambus Melayu Kepulauan Riau**: [BPNB Tanjungpinang, Deskripsi Seni Kepulauan Riau](https://repositori.kemendikdasmen.go.id/27158/2/Deskripsi%20Seni%20Kepulauan%20Riau.pdf). Jenis: Pengenalan.
+  - Pendukung: [hafiz zapin, cara main gambus lagu selamat datang di negri melayu](https://www.youtube.com/watch?v=wcT2s26yuqE).
 - **Gendang Siantan**: [Kemendikbud, Buku Panduan Penetapan WBTB 2014](https://repositori.kemendikdasmen.go.id/12378/1/Buku%20Panduan%20Penetapan%20Warisan%20Budaya%20Takbenda%20Indonesia%20Tahun%202014.pdf). Jenis: Pengenalan.
+  - Pendukung: [Ruby Collections, Gendang Siantan, Budaya Tradisional Kabupaten Kepulauan Anambas ](https://www.youtube.com/watch?v=4BTR6m5TCgY).
 - **Gubang Jemaja**: [Kemendikbud, Buku Panduan Penetapan WBTB 2014](https://repositori.kemendikdasmen.go.id/12378/1/Buku%20Panduan%20Penetapan%20Warisan%20Budaya%20Takbenda%20Indonesia%20Tahun%202014.pdf). Jenis: Pengenalan.
+  - Pendukung: [Mukhtar gazalMelayu, Gubang Tradisi Pulau Jemaja](https://www.youtube.com/watch?v=nLN5DwZuZ-I).
 
 **Kerajinan**
 
 - **Tudung Manto Lingga**: [Dekranasda Provinsi Kepulauan Riau](https://dekranasda.kepriprov.go.id/berita/produk-dan-kriya-unggulan/tudung-manto-warisan-budaya-dan-kriya-melayu-kepulauan-riau). Jenis: Pengenalan.
+  - Pendukung: [RaziQ SholeH ChaneL, Pelatihan Pembuatan Tudung Manto Kabupaten Lingga Kepulauan Riau](https://www.youtube.com/watch?v=rMZN-Tq_n80).
 - **Batik Gonggong**: [Indonesia.travel, Kementerian Pariwisata](https://www.indonesia.travel/id/id/travel-ideas/culture/batik-gong-gong). Jenis: Pengenalan.
+  - Pendukung: [iNews Batam , INEWSTV BATAM_20170628_KERAJINAN BATIK GONGGONG KHAS KEPRI](https://www.youtube.com/watch?v=6SoPDcTHzSs).
 - **Tanjak Melayu di Batam**: [Dinas Kebudayaan dan Pariwisata Kota Batam](https://disbudpar.batam.go.id/2019/03/27/disbudpar-gelar-pelatihan-adat-istiadat-perkawinan-melayu-dan-pembuatan-tanjak-melayu/). Jenis: Pengenalan.
   - Pendukung: [Kina Kano, Cara Membuat Tanjak \|\| Dendam tak sudah \|\| Tanjak Melayu \|\| by kina kano](https://www.youtube.com/watch?v=W5S6qUVLWX0).
 - **Kintau Daik Lingga**: [BPNB, Teknologi Tradisional Mata Pencaharian di Daik Lingga](https://repositori.kemendikdasmen.go.id/10641/1/teknologi%20tradisional%20mata%20pencarian%20daik%20lingga.pdf). Jenis: Pengenalan.
 - **Kerajinan Cangkang Gonggong**: [Pemerintah Kota Tanjungpinang](https://www.tanjungpinangkota.go.id/publikasi/berita/268-lis-ajak-masyarakat-promosikan-potensi-tanjungpinang-lewat-media-sosial). Jenis: Pengenalan.
   - Pendukung: [Katalog Bros Gonggong, Dekranasda Kepri](https://dekranasda.kepriprov.go.id/produk/kerajinan-tangan/bros-gonggong).
+  - Pendukung: [TRANS7 Lifestyle, Olah Limbah Kerajinan Gonggong \| RAGAM INDONESIA (05/01/22)](https://www.youtube.com/watch?v=HitDNFXYddY).
 
 **Wisata & Ikon**
 
@@ -290,19 +379,28 @@ Ditinjau 2026-11-03. Koleksi berisi 300 materi pada 10 provinsi, termasuk 1 pand
 **Kuliner**
 
 - **Gonggong Bintan**: [Bintanku Indonesia, Pemerintah Kabupaten Bintan](https://bintankuindonesia.bintankab.go.id/page/view/gonggong). Jenis: Pengenalan.
+  - Pendukung: [Cicipi Kuliner Gonggong Khas Pulau Bintan yang Penuh Rempah-Rempah \| Fokus](https://www.youtube.com/watch?v=9GzNtAtqktk).
 - **Otak-otak Bintan**: [Bintanku Indonesia, Pemerintah Kabupaten Bintan](https://bintankuindonesia.bintankab.go.id/page/view/otak-otak). Jenis: Pengenalan.
+  - Pendukung: [Pembuatan Otak Otak Khas Bintan](https://www.youtube.com/watch?v=YxeihP5oNt8).
 - **Lakse Kuah Natuna**: [RRI Ranai](https://rri.co.id/ranai/kuliner/1269953/nikmatnya-lakse-kuah-khas-melayu-natuna). Jenis: Pengenalan.
+  - Pendukung: [TRADITIONAL FOOD \| DIJAMIN MUDAH ANTI GAGAL ! CARA  MEMBUAT LAKSE KHAS MELAYU NATUNA, KEPULAUAN RIAU](https://www.youtube.com/watch?v=QgHkACcu1h4).
 - **Luti Gendang Anambas**: [RRI Tanjungpinang](https://rri.co.id/tanjungpinang/kuliner/845351/luti-gendang-empuk-di-dalam-renyah-di-luar). Jenis: Pengenalan.
-  - Pendukung: [Bunda Kiana Khansa, ENAK BANGETT ‼️Resep LUTI GENDANG oleh - oleh khas kota BATAM](https://www.youtube.com/watch?v=vbBwKz1JVVI).
+  - Pendukung: [ENAK BANGETT ‼️Resep LUTI GENDANG oleh - oleh khas kota BATAM](https://www.youtube.com/watch?v=vbBwKz1JVVI).
 - **Mi Lendir**: [Indonesia.travel, Kementerian Pariwisata](https://www.indonesia.travel/in/en/travel-ideas/gastronomy/mie-lendir). Jenis: Pengenalan.
+  - Pendukung: [Resep Cara Membuat Mie Lendir Khas Kepulauan Riau \| Ide Bisnis Sarapan Pagi](https://www.youtube.com/watch?v=KXo40dIeCgk).
 
 **Permainan Tradisional**
 
 - **Galah Panjang**: [Rosa dan Retnaningsih, Journal of Childhood Education 2022](https://journalfai.unisla.ac.id/index.php/jce/article/download/1151/617). Jenis: Pengenalan.
+  - Pendukung: [Guligeng Event Planner, Kaedah Permainan Galah Panjang](https://www.youtube.com/watch?v=N4H2Tdlt__8).
 - **Jong di Pesisir Batam**: [Media Center Pemerintah Kota Batam](https://mediacenter.batam.go.id/2020/11/02/perkuat-aspek-budaya-lewat-lomba-jong/). Jenis: Pengenalan.
+  - Pendukung: [Demank Marsono Soeryatmodjo, SERU.. Lomba Perahu JONG Khas Melayu di Batu Besar • Balapan Miniatur Perahu Tanpa Awak • JONG BATAM](https://www.youtube.com/watch?v=NnP1vgKLLjc).
 - **Gasing Mepar**: [Jadesta, Desa Wisata Mepar](https://jadesta.kemenpar.go.id/atraksi/permainan_gasing_1). Jenis: Pengenalan.
+  - Pendukung: [James Travel Experience, Kompetisi Gasing Tahunan di Pulau Lingga - Wisata Kepulauan Riau](https://www.youtube.com/watch?v=xf4mhUtR2xc).
 - **Goli Tanjungpinang**: [BPNB, Dinamika Permainan Anak-anak di Kota Tanjungpinang](https://repositori.kemendikdasmen.go.id/28730/1/DINAMIKA%20PERMAINAN%20ANAK-ANAK%20DI%20KOTA%20TANJUNG%20PINANG.pdf). Jenis: Pengenalan.
+  - Pendukung: [INTHERA, Cara Bermain Kelereng](https://www.youtube.com/watch?v=qQi31iphvsw).
 - **Layang-layang Dengung Tanjungpinang**: [BPNB, Dinamika Permainan Anak-anak di Kota Tanjungpinang](https://repositori.kemendikdasmen.go.id/28730/1/DINAMIKA%20PERMAINAN%20ANAK-ANAK%20DI%20KOTA%20TANJUNG%20PINANG.pdf). Jenis: Pengenalan.
+  - Pendukung: [JUNA MADU, Menggelegar Bunyinya\|\| Layang Dengung\|\|Layangan asli Padang Pariaman](https://www.youtube.com/watch?v=K-xBp8xudOM).
 
 ### Jambi
 
@@ -313,25 +411,36 @@ Ditinjau 2026-11-03. Koleksi berisi 300 materi pada 10 provinsi, termasuk 1 pand
 - **Tari Rangguk Kerinci**: [Fitri, Riswani, dan Handayani, Jurnal Prabung Seni](https://online-journal.unja.ac.id/jmpps/article/download/29112/19739/121087). Jenis: Pengenalan.
   - Pendukung: [Ovien Valerie, Tari Rangguk Kerinci \|\| Oleh Siswa - Siswi SMPN 5 Kerinci](https://www.youtube.com/watch?v=QzKspeaMFdA).
 - **Tauh Rantau Pandan**: [Padillah Ayu, penelitian bentuk Tari Tauh, ISI Padangpanjang](https://repository.isi-padangpanjang.ac.id/848/). Jenis: Pengenalan.
+  - Pendukung: [Devi Riani, Tari Tauh. Tari tradisional desa Rantau Pandan, Kab bungo-Jambi](https://www.youtube.com/watch?v=eL6vVIG1usk).
 - **Rentak Kudo Hamparan Rawang**: [Pratama dan Najmi, Jurnal Kronologi](https://kronologi.ppj.unp.ac.id/index.php/jk/article/view/197). Jenis: Pengenalan.
+  - Pendukung: [K S R studio, RENTAK KUDO TERBARU " CEMPAKA MUSIC " Desa Paling Serumpun ,Kec,Hamparan Rawang.](https://www.youtube.com/watch?v=DNoAPgWxbuY).
 - **Tari Kadam Muaro Madras**: [Kemendikbud, Penetapan WBTB Indonesia 2017](https://repositori.kemendikdasmen.go.id/5010/1/Penetapan_WBTB_Indonesia_2017.pdf). Jenis: Pengenalan.
+  - Pendukung: [uwo Zali, Festival Jangkat \|\| Silat Kadam dari Desa Muara Madras Jangkat.](https://www.youtube.com/watch?v=bit1D7v8Smk).
 
 **Musik Tradisional**
 
 - **Gambang Dano Lamo**: [Kemendikbud, Penetapan WBTB Indonesia 2017](https://repositori.kemendikdasmen.go.id/5010/1/Penetapan_WBTB_Indonesia_2017.pdf). Jenis: Pengenalan.
+  - Pendukung: [Mahligai Danau Lamo, Begambang Danau Lamo](https://www.youtube.com/watch?v=8-g0MR5Wc1w).
 - **Kelintang Kayu Kerinci**: [Depdikbud, Peralatan Hiburan dan Kesenian Tradisional Daerah Jambi](https://repositori.kemendikdasmen.go.id/13043/1/PERALATAN%20HIBURAN%20DAN%20KESENIAN%20TRADISIONAL%20DAERAH%20JAMBI.pdf). Jenis: Pengenalan.
 - **Suling Buluh Kerinci**: [Depdikbud, Peralatan Hiburan dan Kesenian Tradisional Daerah Jambi](https://repositori.kemendikdasmen.go.id/13043/1/PERALATAN%20HIBURAN%20DAN%20KESENIAN%20TRADISIONAL%20DAERAH%20JAMBI.pdf). Jenis: Pengenalan.
+  - Pendukung: [NAILA Studio, SERULING BAMBU - MUSIK TRADISIONAL KERINCI \| Liputan Festival Kebudayaan Masyarakat Kerinci 2020](https://www.youtube.com/watch?v=SVXRsOkWxDw).
 - **Krinok Rantau Pandan**: [Intan Septi Campina, penelitian penyajian Krinok, Universitas Negeri Padang](https://repository.unp.ac.id/id/eprint/21443/?template=default). Jenis: Pengenalan.
+  - Pendukung: [BUDAYA & ALAM NUSANTARA, KRINOK \|\|  SENI SASTRA TUTUR RANTAU PANDAN  \|\| MUARO BUNGO JAMBI  \|\|](https://www.youtube.com/watch?v=lM0EUnchkFo).
 - **Gong Buleuh Kerinci**: [RRI Sungai Penuh](https://rri.co.id/sungaipenuh/features/1292863/mengenal-gong-buluh-alat-musik-khas-sungai-penuh-kerinci). Jenis: Pengenalan.
+  - Pendukung: [GONG BULEUH, GONG BULEUH PROFILE](https://www.youtube.com/watch?v=5QIZDpCnVoI).
 
 **Kerajinan**
 
 - **Batik Jambi**: [Jurnal Renjis Vol. 5 No. 2, 2020](https://repositori.kemendikdasmen.go.id/17239/1/Renjis%20vol%205%20no%202%202020%2C%202.pdf). Jenis: Pengenalan.
   - Pendukung: [Artland Indonesia, Tutorial Membatik Teknik Canting Tulis - PART 1](https://www.youtube.com/watch?v=oNDCQvqFtM4).
 - **Ambung Orang Rimbo**: [Kemendikbud, Penetapan WBTB Indonesia 2017](https://repositori.kemendikdasmen.go.id/5010/1/Penetapan_WBTB_Indonesia_2017.pdf). Jenis: Pengenalan.
+  - Pendukung: [AGUNG CHANNEL1218, Proses Pembuatan Keranjang Motor dari Rotan](https://www.youtube.com/watch?v=x0ii3cqX808).
 - **Songket Jambi**: [BPNB, Songket Tradisional Jambi](https://repositori.kemendikdasmen.go.id/27622/1/SONGKET%20TRADISIONAL%20JAMBI.pdf). Jenis: Pengenalan.
+  - Pendukung: [Bank Indonesia Jambi, CIK MIA SONGKET JAMBI](https://www.youtube.com/watch?v=o1WQRwZTEqE).
 - **Lacak Jambi**: [BPK Perwakilan Jambi, Buletin Tempoyac](https://jambi.bpk.go.id/wp-content/uploads/2021/11/Buletin-Tempoyac_TW-III_2020.pdf). Jenis: Pengenalan.
+  - Pendukung: [BAMEGO kreatif, Cara menjahit lacak atau tutup kepala adat Melayu Jambi,](https://www.youtube.com/watch?v=vyP3ILzVs4U).
 - **Kreasi Kuluk Kerinci dari Pandan**: [Linda, Akmal, dan Munaf, Gorga: Jurnal Seni Rupa](https://jurnal.unimed.ac.id/2012/index.php/gorga/article/view/27454). Jenis: Pengenalan.
+  - Pendukung: [KKN Desa Sungai Pampang, Anyaman Warisan Desa \| Proses Pembuatan Tikar Daun Pandan Khas Sungai Pampang](https://www.youtube.com/watch?v=AsfZCel7g7g).
 
 **Wisata & Ikon**
 
@@ -344,48 +453,69 @@ Ditinjau 2026-11-03. Koleksi berisi 300 materi pada 10 provinsi, termasuk 1 pand
 **Kuliner**
 
 - **Tempoyak dalam Masakan Jambi**: [BPS Jambi, pengenalan kuliner Konreg Sumatra](https://konreg2024.bpsjambi.id/hiburan/kuliner). Jenis: Pengenalan.
+  - Pendukung: [Tempoyak Ikan Patin, Makanan Khas Jambi Cocok Untuk Menu Buka Puasa](https://www.youtube.com/watch?v=GYpfJjRDna4).
 - **Gulai Tepek Ikan**: [BPNB, Makanan Tradisional Masyarakat Jambi](https://repositori.kemendikdasmen.go.id/27384/1/Makanan%20Tradisional%20Masyarakat%20Jambi.pdf). Jenis: Pengenalan.
-  - Pendukung: [DAPUR IKA, Gulai Ikan Tepek @DAPURIKA](https://www.youtube.com/watch?v=SH03Fog0ZHg).
+  - Pendukung: [Gulai Ikan Tepek @DAPURIKA](https://www.youtube.com/watch?v=SH03Fog0ZHg).
 - **Gulai Terjun Tabir**: [Wicaksono dkk., penelitian Gulai Terjun Tabir](https://garuda.kemdiktisaintek.go.id/documents/detail/5991712). Jenis: Pengenalan.
   - Pendukung: [Bahan dan penyajian, BPS Jambi](https://konreg2024.bpsjambi.id/hiburan/kuliner).
+  - Pendukung: [TVRI JAMBI, GULAI TERJUN DENGAN BERBAHAN REMPAH TANAMAN](https://www.youtube.com/watch?v=2AIjfplCTX0).
 - **Kue Padamaran**: [BPNB, Makanan Tradisional Masyarakat Jambi](https://repositori.kemendikdasmen.go.id/27384/1/Makanan%20Tradisional%20Masyarakat%20Jambi.pdf). Jenis: Pengenalan.
+  - Pendukung: [LEMBUT, LEGIT, ENAK BANGET \|\| PEDAMARAN KHAS JAMBI, IDE JUALAN BULAN PUASA‼️](https://www.youtube.com/watch?v=4s69QKvpGY0).
 - **Nasi Gemuk Jambi**: [RRI, pengenalan kuliner Nasi Gemuk Jambi](https://rri.co.id/bengkalis/kuliner/2717640/nasi-gemuk-sarapan-khas-jambi-yang-gurih-dan-menggugah-selera). Jenis: Pengenalan.
+  - Pendukung: [Resep Nasi Gemuk Jambi / Nasi Uduk terLezat](https://www.youtube.com/watch?v=oq-WYc-hna4).
 
 **Permainan Tradisional**
 
 - **Adang-adangan Jambi**: [Depdikbud, Pembinaan Nilai melalui Permainan Rakyat di Jambi](https://repositori.kemendikdasmen.go.id/28960/2/PEMBINAAN%20NILAI%20NLAI%20MELALUI%20PERMAINAN%20RAKYAT%20DI%20DAERAH%20JAMBI.pdf). Jenis: Pengenalan.
+  - Pendukung: [Zahrofa Miftakhul Amalia, PERMAINAN ADANG ADANGAN](https://www.youtube.com/watch?v=YmemskjVOSA).
 - **Tejek-tejekan**: [Depdikbud, Pembinaan Nilai melalui Permainan Rakyat di Jambi](https://repositori.kemendikdasmen.go.id/28960/2/PEMBINAAN%20NILAI%20NLAI%20MELALUI%20PERMAINAN%20RAKYAT%20DI%20DAERAH%20JAMBI.pdf). Jenis: Pengenalan.
+  - Pendukung: [Muhammad Haydar Qothrunnada Al Qudsi, Permainan tradisional Jambi Tejek-tejekan/Engklek](https://www.youtube.com/watch?v=JWsfjzVBcDE).
 - **Main Gunung Jambi**: [Depdikbud, Pembinaan Nilai melalui Permainan Rakyat di Jambi](https://repositori.kemendikdasmen.go.id/28960/2/PEMBINAAN%20NILAI%20NLAI%20MELALUI%20PERMAINAN%20RAKYAT%20DI%20DAERAH%20JAMBI.pdf). Jenis: Pengenalan.
+  - Pendukung: [Desriani, Permainan Tradisional Congkak \|\| PIAUD UIN SUTHA JAMBI](https://www.youtube.com/watch?v=kt7-jetLLk0).
 - **Daro Sarolangun dan Merangin**: [Depdikbud, Permainan Rakyat Daerah Jambi](https://repositori.kemendikdasmen.go.id/27915/2/PERMAINAN%20RAKYAT%20DAERAH%20JAMBI.pdf). Jenis: Pengenalan.
 - **Ye-ye Kota Jambi**: [Depdikbud, Permainan Rakyat Daerah Jambi](https://repositori.kemendikdasmen.go.id/27915/2/PERMAINAN%20RAKYAT%20DAERAH%20JAMBI.pdf). Jenis: Pengenalan.
+  - Pendukung: [Kurnia25, Permainan Tradisional Yeye \|\| Oleh: Kurnia \|\| PIAUD UIN STS Jambi](https://www.youtube.com/watch?v=SJlzSwZ-n6Q).
 
 ### Bengkulu
 
 **Tari**
 
 - **Tari Bimbang Andun**: [Pemerintah Provinsi Bengkulu, lampiran Perda tentang kepariwisataan](https://peraturan.bpk.go.id/Download/259550/Perda%20Provinsi%202019-8.pdf). Jenis: Pengenalan.
+  - Pendukung: [Danx Idan, Tari Andun, Bimbang Bebalai Kesenian Tradisional Masyarakat Bengkulu Selatan.](https://www.youtube.com/watch?v=mg8uFqaIiqw).
 - **Tari Kain Panjang Bengkulu**: [Pemerintah Provinsi Bengkulu, lampiran Perda tentang kepariwisataan](https://peraturan.bpk.go.id/Download/259550/Perda%20Provinsi%202019-8.pdf). Jenis: Pengenalan.
+  - Pendukung: [FAUZAN SEMANES, TARI KAIN PANJANG - KOTA BENGKULU](https://www.youtube.com/watch?v=SZFv1YB2yUw).
 - **Tari Bidadari Menimang Anak**: [Pemerintah Provinsi Bengkulu, lampiran Perda tentang kepariwisataan](https://peraturan.bpk.go.id/Download/259550/Perda%20Provinsi%202019-8.pdf). Jenis: Pengenalan.
 - **Tari Gereguak Bengkulu**: [Pemerintah Provinsi Bengkulu, lampiran Perda tentang kepariwisataan](https://peraturan.bpk.go.id/Download/259550/Perda%20Provinsi%202019-8.pdf). Jenis: Pengenalan.
 - **Gandai Klasik Pekal Ketahun**: [Jurnal Ilmiah KORPUS, Universitas Bengkulu, melalui Garuda](https://garuda.kemdiktisaintek.go.id/documents/detail/4187270). Jenis: Pengenalan.
+  - Pendukung: [Ina Yha Pekal, GANDAI PENGANTIN KETAHUN BERSAMA PENARI SANGGAR PSB PAGARDIN \|\| TARI TRADISIONAL PEKAL](https://www.youtube.com/watch?v=nb--vvIKBAI).
 
 **Musik Tradisional**
 
 - **Dol Bengkulu**: [Indonesia Travel, Kementerian Pariwisata](https://www.indonesia.travel/id/id/travel-ideas/culture/dol). Jenis: Pengenalan.
   - Pendukung: [Penelitian perkembangan musik dol](https://garuda.kemdiktisaintek.go.id/documents/detail/781201).
+  - Pendukung: [KOMPASTV BENGKULU, Musik Dol Bengkulu Meriahkan HUT Kemerdekaan Indonesia di Istana Negara, Sukses Buat Didit Sumringah](https://www.youtube.com/watch?v=EFcnelnjLv8).
 - **Gamat Bengkulu**: [Balai Pelestarian Nilai Budaya, Peran Lembaga Adat](https://repositori.kemendikdasmen.go.id/10904/1/Peran%20Lembaga%20Adat.pdf). Jenis: Pengenalan.
+  - Pendukung: [jamal ambo dai, Musik Gamat Bengkulu 2017](https://www.youtube.com/watch?v=TnZD1q89IAA).
 - **Sarafal Anam Bengkulu**: [Balai Pelestarian Nilai Budaya, Peran Lembaga Adat](https://repositori.kemendikdasmen.go.id/10904/1/Peran%20Lembaga%20Adat.pdf). Jenis: Pengenalan.
   - Pendukung: [Pemerintah Kabupaten Bengkulu Tengah, lomba Sarafal Anam](https://www.bengkulutengahkab.go.id/postingan/detail_postingan/LOMBA-SARAFAL-ANAM-ANTAR-KECAMATAN-MERIAHKAN-HUT-KE-17-BENGKULU-TENGAH).
+  - Pendukung: [Anggi Syaputra, Penampilan sarafal anam ANSER hut Kabupaten Bengkulu Tengah 🔥🔥🔥 #kesenian #keseniantradisional](https://www.youtube.com/watch?v=_EmRFwFzeJs).
 - **Edap dalam Gandai Pekal**: [Jurnal Ilmiah KORPUS, Universitas Bengkulu, melalui Garuda](https://garuda.kemdiktisaintek.go.id/documents/detail/4187270). Jenis: Pengenalan.
+  - Pendukung: [Ina Yha Pekal, VIRAL GANDAI MASSAL ~Festival gandai se-kabupaten Bengkulu Utara\| Kesenian adat pekal](https://www.youtube.com/watch?v=Fmlyt9paVmo).
 - **Serunai Bengkulu Selatan**: [Repositori Universitas Pendidikan Indonesia](https://repository.upi.edu/95646/). Jenis: Pengenalan.
+  - Pendukung: [E a g l e ² FR, ALUNAN SERUNAI TRADISIONAL SELUMA BENGKULU INDONESIA](https://www.youtube.com/watch?v=UeC7mNdI5u8).
 
 **Kerajinan**
 
 - **Kain Besurek Bengkulu**: [Pemerintah Provinsi Bengkulu, lampiran Perda tentang kepariwisataan](https://peraturan.bpk.go.id/Download/259550/Perda%20Provinsi%202019-8.pdf). Jenis: Pengenalan.
+  - Pendukung: [Afri_JDS🇮🇩, Proses awal pembuatan Batik Kain Besurek Khas #bengkulu \|\| asli Bengkulu](https://www.youtube.com/watch?v=8wL98P3t3dc).
 - **Kriya Kulit Lantung Bengkulu**: [Pemerintah Provinsi Bengkulu, lampiran Perda tentang kepariwisataan](https://peraturan.bpk.go.id/Download/259550/Perda%20Provinsi%202019-8.pdf). Jenis: Pengenalan.
+  - Pendukung: [Bengkulu News, Kerajinan Kulit Lantung Bengkulu Dijual Hingga ke Iran](https://www.youtube.com/watch?v=XAzSeafarZQ).
 - **Belanga Tanah Pandan Tais**: [Departemen Pendidikan dan Kebudayaan, Perajin Tradisional Daerah Bengkulu](https://repositori.kemendikdasmen.go.id/12852/1/Pengrajin%20tradisional%20di%20daerah%20bengkulu.pdf). Jenis: Pengenalan.
+  - Pendukung: [EDUTAINMENT TRANS7 OFFICIAL, Begini Cara Membuat BELANGA Dari Tanah Liat \| BOCAH PETUALANG](https://www.youtube.com/watch?v=lFYzHuGa3v8).
 - **Batu Giling Taba Penanjung**: [Departemen Pendidikan dan Kebudayaan, Peranan Pasar pada Masyarakat Pedesaan Daerah Bengkulu](https://repositori.kemendikdasmen.go.id/12707/1/PERANAN%20PASAR%20PADA%20MASYARAKAT%20PEDESAAN%20DAERHA%20BENGKULU.pdf). Jenis: Pengenalan.
+  - Pendukung: [Desti Cantika, Proses Pembuatan Batu Giling Desa Tanjung Heran. Taba Penanjung, Bengkulu Tengah.](https://www.youtube.com/watch?v=ah5pCLd2UsQ).
 - **Anyaman Mensiang Bentangur**: [Departemen Pendidikan dan Kebudayaan, Perajin Tradisional Daerah Bengkulu](https://repositori.kemendikdasmen.go.id/12852/1/Pengrajin%20tradisional%20di%20daerah%20bengkulu.pdf). Jenis: Pengenalan.
+  - Pendukung: [Kulu Kilir, MEMBUAT ANYAMAN DARI TANAMAN MANSIANG](https://www.youtube.com/watch?v=AJ571xTHjNk).
 
 **Wisata & Ikon**
 
@@ -398,17 +528,25 @@ Ditinjau 2026-11-03. Koleksi berisi 300 materi pada 10 provinsi, termasuk 1 pand
 **Kuliner**
 
 - **Pendap Bengkulu**: [Indonesia Travel, Kementerian Pariwisata](https://www.indonesia.travel/id/id/destination/sumatra/bengkulu). Jenis: Pengenalan.
+  - Pendukung: [Gloreni Efendy, RESEP PENDAP KULINER KHAS BENGKULU](https://www.youtube.com/watch?v=-E1TlLsLaOM).
 - **Lema Rejang**: [Indonesia Travel, Kementerian Pariwisata](https://www.indonesia.travel/id/id/destination/sumatra/bengkulu). Jenis: Pengenalan.
+  - Pendukung: [Eva Husni, RESEP GULAI LEMA KHAS CURUP REJANG LEBONG BENGKULU \|\| CARA MEMBUAT LEMA](https://www.youtube.com/watch?v=Y1X0bUa8Bxs).
 - **Gelamai Bengkulu**: [Pemerintah Provinsi Bengkulu, lampiran Perda tentang kepariwisataan](https://peraturan.bpk.go.id/Download/259550/Perda%20Provinsi%202019-8.pdf). Jenis: Pengenalan.
+  - Pendukung: [Irwan Official Tv, PROSES MEMBUAT GELAMAI ATAU DODOL KHAS KOTA BENGKULU](https://www.youtube.com/watch?v=BdtnZAiORmo).
 - **Perut Punai Bengkulu**: [Pemerintah Provinsi Bengkulu, lampiran Perda tentang kepariwisataan](https://peraturan.bpk.go.id/Download/259550/Perda%20Provinsi%202019-8.pdf). Jenis: Pengenalan.
+  - Pendukung: [adela tri Alexa, CARA MEMBUAT KUE PERUT PUNAI (KUE KHAS BENGKULU)](https://www.youtube.com/watch?v=W737XOYKhPM).
 - **Kue Tat Bengkulu**: [RRI Bengkulu, wawancara pembuat kue tat](https://rri.co.id/bengkulu/kuliner/2272083/kue-tat-ibu-sinar-40-tahun-pertahankan-konsistensi-dan-rasa). Jenis: Pengenalan.
+  - Pendukung: [Keila Keisa, Resep Kue Bay Tat Khas Bengkulu Enak Manis Dan Legit](https://www.youtube.com/watch?v=NvCugbzya_E).
 
 **Permainan Tradisional**
 
 - **Bicau Bengkulu**: [Departemen Pendidikan dan Kebudayaan, Permainan Rakyat Daerah Bengkulu](https://repositori.kemendikdasmen.go.id/13343/1/Permainan%20rakyat%20daerah%20bengkulu.pdf). Jenis: Pengenalan.
 - **Cipak Bengkulu**: [Departemen Pendidikan dan Kebudayaan, Permainan Rakyat Daerah Bengkulu](https://repositori.kemendikdasmen.go.id/13343/1/Permainan%20rakyat%20daerah%20bengkulu.pdf). Jenis: Pengenalan.
+  - Pendukung: [Olahraga Tradisional Bengkulu, PERMAINAN TRADISIONAL CIPAK ATAU SEPAK RAGA](https://www.youtube.com/watch?v=PB8GcX2_kHg).
 - **Ingkau Bengkulu**: [Departemen Pendidikan dan Kebudayaan, Permainan Rakyat Daerah Bengkulu](https://repositori.kemendikdasmen.go.id/13343/1/Permainan%20rakyat%20daerah%20bengkulu.pdf). Jenis: Pengenalan.
+  - Pendukung: [Olahraga Tradisional Bengkulu, PERMAINAN TRADISIONAL INGKAU](https://www.youtube.com/watch?v=bkSU8SB7U0E).
 - **Congkak Bengkulu**: [Departemen Pendidikan dan Kebudayaan, Permainan Rakyat Daerah Bengkulu](https://repositori.kemendikdasmen.go.id/13343/1/Permainan%20rakyat%20daerah%20bengkulu.pdf). Jenis: Pengenalan.
+  - Pendukung: [Mommy Feli Jo, Tutorial Cara Bermain Congklak](https://www.youtube.com/watch?v=Pz60t3dsCe8).
 - **Lompek Kodok Bengkulu**: [Departemen Pendidikan dan Kebudayaan, Permainan Rakyat Daerah Bengkulu](https://repositori.kemendikdasmen.go.id/13343/1/Permainan%20rakyat%20daerah%20bengkulu.pdf). Jenis: Pengenalan.
 
 ### Sumatera Selatan
@@ -420,6 +558,7 @@ Ditinjau 2026-11-03. Koleksi berisi 300 materi pada 10 provinsi, termasuk 1 pand
 - **Tari Tanggai Palembang**: [Greget, Institut Seni Indonesia Surakarta](https://jurnal.isi-ska.ac.id/index.php/greget/article/download/2644/2388). Jenis: Pengenalan.
   - Pendukung: [MUSI ITB, Tutorial Tari Tanggai](https://www.youtube.com/watch?v=61yT1nv2nrA).
 - **Tari Silampari Kahyangan Tinggi**: [Repositori Universitas Negeri Yogyakarta](https://eprints.uny.ac.id/19471/). Jenis: Pengenalan.
+  - Pendukung: [bpkebudayaansumbar, TARI SILAMPARI KAYANGAN TINGGI-Sanggar Seni Putri Azhar Lubuklinggau (Video Fasilitasi BPNB Sumbar)](https://www.youtube.com/watch?v=XVUvnrbCEGg).
 - **Tari Kebagh Besemah**: [Universitas Sriwijaya, Teks Bacaan Berbasis Budaya Lokal](https://repository.unsri.ac.id/64201/1/BUKU%20TEKS%20BACAAN.pdf). Jenis: Pengenalan.
   - Pendukung: [Jejak AYANA, TARI KEBAGH \| Festival Besemah XVI \| Pagar Alam](https://www.youtube.com/watch?v=pa3Vgl8i98w).
 - **Tari Siwar Besemah**: [Balai Pelestarian Nilai Budaya, Bunga Rampai Budaya Sumatera Selatan](https://repositori.kemendikdasmen.go.id/10882/1/bunga%20rampai%20budaya%20sumatera%20selatan.pdf). Jenis: Pengenalan.
@@ -428,18 +567,28 @@ Ditinjau 2026-11-03. Koleksi berisi 300 materi pada 10 provinsi, termasuk 1 pand
 **Musik Tradisional**
 
 - **Tembang Batanghari Sembilan**: [Kementerian Pendidikan dan Kebudayaan, buku penetapan WBTb](https://repositori.kemendikdasmen.go.id/12378/1/Buku%20Panduan%20Penetapan%20Warisan%20Budaya%20Takbenda%20Indonesia%20Tahun%202014.pdf). Jenis: Pengenalan.
+  - Pendukung: [REJUNG KISAM, gitar tunggal batang hari sembilan "NASIB MALANG" by. Diki Pranata feat Ningsih](https://www.youtube.com/watch?v=jdIKZYxZyTk).
 - **Ginggong Pagar Alam**: [Balai Pelestarian Nilai Budaya, Maestro Seni Provinsi Sumatera Selatan](https://repositori.kemendikdasmen.go.id/12260/1/sumatera%20selatan%201.pdf). Jenis: Pengenalan.
+  - Pendukung: [SripokuTV, Genggong Alat Musik Pengusir Sepi Petani di Pagaralam 3.000 Tahun Lalu](https://www.youtube.com/watch?v=fvy-PN-Hq70).
 - **Kenong Besemah**: [Balai Pelestarian Nilai Budaya, Bunga Rampai Budaya Sumatera Selatan](https://repositori.kemendikdasmen.go.id/10882/1/bunga%20rampai%20budaya%20sumatera%20selatan.pdf). Jenis: Pengenalan.
+  - Pendukung: [Story26 Channel, \|\| KINANTAN CREATOR \|\| KENONG BESEMAH Instrumen etnik nusantara khas Besemah, Kota Pagaralam, Sumsel](https://www.youtube.com/watch?v=iqThldHDLS8).
 - **Burdah atau Gendang OKU**: [Buku Keberagaman Budaya dan Tradisi Indonesia, repositori UIN Antasari](https://idr.uin-antasari.ac.id/28840/1/B%20139.%20Siap%20Revisi%20Express.%20Noor%20Hidayati%2C%20S.Pd.%2C%20M.Pd.%20-Keberagaman%20Budaya%20dan%20Tradisi%20Indonesia.pdf). Jenis: Pengenalan.
+  - Pendukung: [Dina Puspita, Sholawat Burdah SSBI OKU](https://www.youtube.com/watch?v=NeDh4k9Z69s).
 - **Senjang Musi Banyuasin**: [Repositori Universitas Multimedia Nusantara](https://kc.umn.ac.id/id/eprint/44256/2/BAB_I.pdf). Jenis: Pengenalan.
+  - Pendukung: [Rafa Photo, SENJANG DAERAH RISKI FEAT FITRIA SEKAYU SUMSEL #musibanyuasin](https://www.youtube.com/watch?v=zkFOV-ZtXS0).
 
 **Kerajinan**
 
 - **Songket Palembang**: [Kementerian Perindustrian, Gema Industri Kecil Menengah](https://ikm.kemenperin.go.id/storage/publication/gm-69.pdf). Jenis: Pengenalan.
+  - Pendukung: [Sriwijaya TV, Beginilah Proses Pembuatan Songket Khas Palembang Secara Tradisional](https://www.youtube.com/watch?v=AXOFstRZT44).
 - **Jumputan Tuan Kentang**: [Direktorat Jenderal Kekayaan Negara, Kementerian Keuangan](https://www.djkn.kemenkeu.go.id/artikel/baca/16156/JUMPUTAN-PALEMBANG.html). Jenis: Pengenalan.
+  - Pendukung: [Palembang Tourism Channel, Industri Pembuatan Kain Jumputan Tuan Kentang Palembang](https://www.youtube.com/watch?v=R47fRufEcKM).
 - **Tenun Tajung Palembang**: [Sekretariat Wakil Presiden Republik Indonesia](https://wapresri.go.id/kunjungi-kampung-songket-di-palembang-ibu-selvi-gibran-dukung-regenerasi-perajin-muda-untuk-wujudkan-wastra-sebagai-kekuatan-ekonomi-kreatif/). Jenis: Pengenalan.
+  - Pendukung: [KOMPASTV LAMPUNG, Kisah Udin Abdillah Menjaga Tenun Tajung Palembang Sejak 1984](https://www.youtube.com/watch?v=0Hi3giojbc8).
 - **Lak Palembang**: [Kementerian Pendidikan dan Kebudayaan, buku penetapan WBTb](https://upload.wikimedia.org/wikipedia/commons/d/dc/Penetapan_warisan_budaya_takbenda_Indonesia_tahun_2017.pdf). Jenis: Pengenalan.
+  - Pendukung: [Ganesha Art Group, PKM LAKUER CRAFT PALEMBANG](https://www.youtube.com/watch?v=t6rhioC5ZTo).
 - **Tikar Purun Pedamaran**: [Kementerian Pendidikan dan Kebudayaan, Katalog WBTb](https://upload.wikimedia.org/wikipedia/commons/f/f2/Katalog_Warisan_Budaya_Takbenda_Indonesia_2018_%28Buku_2%29.pdf). Jenis: Pengenalan.
+  - Pendukung: [Fasya Ramdani, PEMBUATAN TIKAR PURUN DESA PESAMARAN 6 Kec. Pedamaran Kab. Ogan komering ilir](https://www.youtube.com/watch?v=vthTtkErV0M).
 
 **Wisata & Ikon**
 
@@ -452,18 +601,28 @@ Ditinjau 2026-11-03. Koleksi berisi 300 materi pada 10 provinsi, termasuk 1 pand
 **Kuliner**
 
 - **Pempek**: [Indonesia Travel, Kementerian Pariwisata](https://www.indonesia.travel/id/id/travel-ideas/gastronomy/pempek). Jenis: Pengenalan.
+  - Pendukung: [Eddy Siswanto, RESEP PEMPEK YANG ENAAAAKKKKK](https://www.youtube.com/watch?v=paueSLNWFEA).
 - **Tekwan Palembang**: [RRI Palembang](https://rri.co.id/palembang/kuliner/1763933/tekwan-hidangan-khas-palembang-yang-kaya-tradisi). Jenis: Pengenalan.
+  - Pendukung: [Ceceromed Kitchen, Tekwan Khas Pelambang. Komplit dengan Kuah Kaldu Udang.](https://www.youtube.com/watch?v=t5lrV4s4dKA).
 - **Model Ikan Palembang**: [RRI, pengenalan model ikan Palembang](https://rri.co.id/sungailiat/kuliner/695402/model-ikan-olahan-ikan-dengan-kuah-udang). Jenis: Pengenalan.
+  - Pendukung: [pawoen cek intan, RESEP MODEL IKAN ASLI PALEMBANG,,!! BY. PAWOEN CEK INTAN](https://www.youtube.com/watch?v=KuipP38-v0A).
 - **Mie Celor Palembang**: [Indonesia Travel, Kementerian Pariwisata](https://www.indonesia.travel/sa/en/travel-ideas/gastronomy/mie-celor). Jenis: Pengenalan.
+  - Pendukung: [Domo Bramantyo, Resep Mie Celor Palembang, Kuahnya Gurih Mantul](https://www.youtube.com/watch?v=k--7w2-MBjg).
 - **Pindang Palembang**: [Indonesia Travel, Kementerian Pariwisata](https://www.indonesia.travel/gb/en/travel-ideas/gastronomy/pindang). Jenis: Pengenalan.
+  - Pendukung: [Eddy Siswanto, PINDANG IKAN PATIN RESEP ASLI DARI PALEMBANG](https://www.youtube.com/watch?v=N3IvgvtYCWM).
 
 **Permainan Tradisional**
 
 - **Cak Ingkling**: [Basis Data Warisan Budaya, Cak Ingkling](https://referensi.data.kemendikdasmen.go.id/budayakita/wbtb/objek/AA000890). Jenis: Pengenalan.
+  - Pendukung: [Dini Safitri, Permainan tradisional Sumatera Selatan, Cak Ingking Gerpak](https://www.youtube.com/watch?v=OQb4X-M6wWU).
 - **Adang-adangan Sumatera Selatan**: [Departemen Pendidikan dan Kebudayaan, Permainan Rakyat Daerah Sumatra Selatan](https://repositori.kemendikdasmen.go.id/27926/2/PERMAINAN%20RAKYAT%20DAERAH%20SUMATRA%20SELATAN.pdf). Jenis: Pengenalan.
+  - Pendukung: [Zahrofa Miftakhul Amalia, PERMAINAN ADANG ADANGAN](https://www.youtube.com/watch?v=YmemskjVOSA).
 - **Pantak Lele Sumatera Selatan**: [Departemen Pendidikan dan Kebudayaan, Permainan Rakyat Daerah Sumatra Selatan](https://repositori.kemendikdasmen.go.id/27926/2/PERMAINAN%20RAKYAT%20DAERAH%20SUMATRA%20SELATAN.pdf). Jenis: Pengenalan.
+  - Pendukung: [Riau Magz, Permainan Tradisional Patok Lele](https://www.youtube.com/watch?v=El4Z-Ad2o8c).
 - **Gotri Alo Gotri Lahat**: [Departemen Pendidikan dan Kebudayaan, Permainan Anak-anak Daerah Sumatera Selatan](https://repositori.kemendikdasmen.go.id/13341/1/Permainan%20anak%20anak%20daerah%20sumatera%20selatan.pdf). Jenis: Pengenalan.
+  - Pendukung: [SD NEGERI 2 MADIREDO, Cara bermain Gotri Ala Gotri - Permainan Tradisional](https://www.youtube.com/watch?v=KhfShc6Oc4U).
 - **Sambung Kaki Selangit**: [Departemen Pendidikan dan Kebudayaan, Permainan Anak-anak Daerah Sumatera Selatan](https://repositori.kemendikdasmen.go.id/13341/1/Permainan%20anak%20anak%20daerah%20sumatera%20selatan.pdf). Jenis: Pengenalan.
+  - Pendukung: [Andiyana, Permainan Sambung Kaki](https://www.youtube.com/watch?v=JdEuu-ES51g).
 
 ### Kepulauan Bangka Belitung
 
@@ -483,20 +642,30 @@ Ditinjau 2026-11-03. Koleksi berisi 300 materi pada 10 provinsi, termasuk 1 pand
 **Musik Tradisional**
 
 - **Dambus Bangka**: [Kemdikbud, Warisan Budaya Takbenda Indonesia 2013, buku satu](https://repositori.kemendikdasmen.go.id/24068/1/Warisan%20budaya%20takbenda%20indonesia%20penetapan%20tahun%202013%20buku%20satu.pdf). Jenis: Pengenalan.
+  - Pendukung: [Laskar Ramadhan, dambus bangka original](https://www.youtube.com/watch?v=LIpFtyA6A1Q).
 - **Keruncong Stambul Fajar Mendanau**: [Data Warisan Budaya, Kementerian Pendidikan dan Kebudayaan](https://budaya.data.kemdikbud.go.id/wbtb/objek/AA001232). Jenis: Pengenalan.
   - Pendukung: [Dinas Pariwisata Belitung, pelaku Stambul Fajar](https://dispar.belitung.go.id/harmoni-tradisi-dan-potensi-ekonomi-kreatif-kesenian-keruncong-stambul-fajar-di-belitung/).
+  - Pendukung: [Pos Belitung, Dari Hajatan ke Panggung Budaya, Keroncong Stambul Fadjar di Pulau Mendanau I Ngayau De Belitong](https://www.youtube.com/watch?v=vg5FHI51DF8).
 - **Gambangan Limbongan**: [Pengelola Desa Wisata Limbongan melalui Jadesta Kementerian Pariwisata](https://jadesta.kemenpar.go.id/desa/limbongan). Jenis: Pengenalan.
+  - Pendukung: [Rangkanada, Dokumenter Gambangan \| Alat Musik Tradisional Limbongan ( Belitung Timur)](https://www.youtube.com/watch?v=SEv5ju2VByE).
 - **Lesong Ketintong Limbongan**: [Pengelola Desa Wisata Limbongan melalui Jadesta Kementerian Pariwisata](https://jadesta.kemenpar.go.id/desa/limbongan). Jenis: Pengenalan.
+  - Pendukung: [Novita Freshka Uktolseja, Atraksi Lesong Ketintong di Gunong Lumut Desa Limbongan Kabupaten Bellitung Timur](https://www.youtube.com/watch?v=oLb5qKiEqhs).
 - **Terumpet Daun Kelapak Belitung**: [Data Warisan Budaya, Kementerian Pendidikan dan Kebudayaan](https://budaya.data.kemdikbud.go.id/wbtb/objek/AA001238). Jenis: Pengenalan.
+  - Pendukung: [Beni Tubagus Rohman , Tutorial bikin Terompet Jadul dari Daun Kelapa yang Viral Tembus 49 Juta Viewers💥](https://www.youtube.com/watch?v=-n-c2vOY0Yk).
 
 **Kerajinan**
 
 - **Kain Cual Bangka**: [Kementerian Pendidikan dan Kebudayaan, Katalog WBTb](https://upload.wikimedia.org/wikipedia/commons/f/f2/Katalog_Warisan_Budaya_Takbenda_Indonesia_2018_%28Buku_2%29.pdf). Jenis: Pengenalan.
   - Pendukung: [Kementerian Keuangan, profil perajin cual](https://djpb.kemenkeu.go.id/portal/publikasi/data/mti/mti_4_2023.pdf).
+  - Pendukung: [seindah senja, pembuatan kain cual Bangka Belitung](https://www.youtube.com/watch?v=xNp9dgS1zks).
 - **Kopiah Resam Bangka Barat**: [Kementerian Pendidikan dan Kebudayaan, buku pengenalan WBTb](https://repositori.kemendikdasmen.go.id/19663/1/BUKU%20PANDUAN%20PERAYAAN%20DAN%20PENYERAHAN%20SERTIFIKAT.pdf). Jenis: Pengenalan.
+  - Pendukung: [Pablo Vanka, Proses Pembuatan Peci "Sungko Resam" Khas Bangka \| Simbol Budaya Melayu Bangka](https://www.youtube.com/watch?v=FzckNJDSNYQ).
 - **Tudung Saji Belitung**: [Pemerintah Provinsi Kepulauan Bangka Belitung](https://serumpun.babelprov.go.id/ketua-dekranasda-melati-erzaldi-kunjungi-sentra-kerajinan-tudung-saji-khas-belitung). Jenis: Pengenalan.
+  - Pendukung: [Ayu Qodariah, Tutorial Pembuatan Tudung Saji Khas Belitung \| PGSD \| Universitas Sarjanawiyata Tamansiswa](https://www.youtube.com/watch?v=5D8E6VczmfA).
 - **Kriya Pewter Bangka**: [Pemerintah Provinsi Kepulauan Bangka Belitung, Profil Provinsi](https://serumpun.babelprov.go.id/sites/default/files/dokumen/bank_data/Profil%20Provinsi%20Kepulauan%20Bangka%20Belitung%20tahun%202020.pdf). Jenis: Pengenalan.
+  - Pendukung: [Bagus Darmadi Channel, Kerajinan Pewter Timah Dari Daerah Bangka Belitung](https://www.youtube.com/watch?v=O9RqnXT3FDg).
 - **Kriya Cangkang Kerang Belitung**: [Pemerintah Provinsi Kepulauan Bangka Belitung, Profil Provinsi](https://serumpun.babelprov.go.id/sites/default/files/dokumen/bank_data/Profil%20Provinsi%20Kepulauan%20Bangka%20Belitung%20tahun%202020.pdf). Jenis: Pengenalan.
+  - Pendukung: [Multi Media Belitung, KERAJINAN KULIT KERANG  (Pemanfaatan Limbah Cangkang Kerang)  dan Kapal Aquarium](https://www.youtube.com/watch?v=YSXEfciV11I).
 
 **Wisata & Ikon**
 
@@ -511,19 +680,29 @@ Ditinjau 2026-11-03. Koleksi berisi 300 materi pada 10 provinsi, termasuk 1 pand
 
 - **Gangan Ikan Belitung**: [Pengelola desa wisata melalui Jadesta Kementerian Pariwisata](https://jadesta.kemenpar.go.id/paket/makan_bedulang_3). Jenis: Pengenalan.
   - Pendukung: [Dinas Pariwisata Belitung, pengenalan gangan](https://dispar.belitung.go.id/kuliner-khas-belitung-cita-rasa-autentik-dari-negeri-laskar-pelangi/).
+  - Pendukung: [Dewi Triyani , Membuat Gangan Ikan Masakan Khas Belitung #dewitriyani #ganganbelitung #gangan #masakankhasbelitung](https://www.youtube.com/watch?v=cBeHlxKQUL0).
 - **Lempah Kuning Bangka**: [Kementerian Pendidikan dan Kebudayaan, buku pengenalan WBTb](https://repositori.kemendikdasmen.go.id/19663/1/BUKU%20PANDUAN%20PERAYAAN%20DAN%20PENYERAHAN%20SERTIFIKAT.pdf). Jenis: Pengenalan.
+  - Pendukung: [Ceceromed Kitchen, LEMPAH KUNING KHAS BANGKA. NANASNYA PENTING.](https://www.youtube.com/watch?v=qDiBdwU0O-0).
 - **Mi Belitung**: [Dinas Pariwisata Kabupaten Belitung](https://dispar.belitung.go.id/kuliner-khas-belitung-cita-rasa-autentik-dari-negeri-laskar-pelangi/). Jenis: Pengenalan.
+  - Pendukung: [ria zi, Resep MIE REBUS BELITUNG Lezat ‼️masakan khas belitung](https://www.youtube.com/watch?v=PWi3lQpiQIY).
 - **Berego Belitung**: [Dinas Pariwisata Kabupaten Belitung](https://dispar.belitung.go.id/kuliner-khas-belitung-cita-rasa-autentik-dari-negeri-laskar-pelangi/). Jenis: Pengenalan.
+  - Pendukung: [YummyIDN, Cara Memasak Berego](https://www.youtube.com/watch?v=-mi1CqHKlvM).
 - **Kue Rintak Bangka Belitung**: [Indonesia Travel, Kementerian Pariwisata](https://www.indonesia.travel/id/id/travel-ideas/gastronomy/rintak-cookie). Jenis: Pengenalan.
+  - Pendukung: [Dapur Nana's, RENYAH TAPI LUMER DIMULUT KUE RINTAK / KUE BANGKIT KHAS BANGKA](https://www.youtube.com/watch?v=UWsH8-d3DNU).
 
 **Permainan Tradisional**
 
 - **Begura Belitung Timur**: [Pemerintah Kabupaten Belitung Timur](https://www.beltim.go.id/news/2025-permainan-tradisional-begura-dan-ZNIOI). Jenis: Pengenalan.
+  - Pendukung: [Vicori Setiawan, KESERUAN BERMAIN "BEGURA" DI RUMAH BUDAYA KUBOK TUK LAYANG \| PERMAINAN TRADISIONAL ANAK BELITONG](https://www.youtube.com/watch?v=yS-GlK6mbwo).
 - **Milut Belitung Timur**: [Pemerintah Kabupaten Belitung Timur](https://www.beltim.go.id/news/2025-permainan-tradisional-begura-dan-ZNIOI). Jenis: Pengenalan.
+  - Pendukung: [Vicori Setiawan, BERMAIN MILUT DI TEPIAN PANTAI YANG INDAH \| PERMAINAN TRADISIONAL ANAK BELITONG YANG SERU](https://www.youtube.com/watch?v=jHDaNAso5Tw).
 - **Begasing Terenang Belitung Timur**: [Data Warisan Budaya, Kementerian Pendidikan dan Kebudayaan](https://budaya.data.kemdikbud.go.id/wbtb/objek/AA001234). Jenis: Pengenalan.
   - Pendukung: [Majalah resmi Pemerintah Belitung Timur, uraian Begasing Terenang](https://timoer.beltim.go.id/?page=3).
+  - Pendukung: [sulai, gasing terenang belitung](https://www.youtube.com/watch?v=YUpRQi5rUVY).
 - **Bintang Beralih Bangka**: [Departemen Pendidikan dan Kebudayaan, dokumentasi permainan Pulau Bangka](https://repositori.kemendikdasmen.go.id/13341/1/Permainan%20anak%20anak%20daerah%20sumatera%20selatan.pdf). Jenis: Pengenalan.
+  - Pendukung: [Agus Setiawan PJOK, Permainan Bintang Beralih - Permainan Penjas - Permainan Tradisional](https://www.youtube.com/watch?v=VdJ6iMaPqds).
 - **Adu Kerito Surong Bangka**: [Kementerian Pendidikan dan Kebudayaan, buku pengenalan WBTb](https://repositori.kemendikdasmen.go.id/19663/1/BUKU%20PANDUAN%20PERAYAAN%20DAN%20PENYERAHAN%20SERTIFIKAT.pdf). Jenis: Pengenalan.
+  - Pendukung: [Indra Zain, Permainan Tradisional Adu Kerito Surong Bangka Tengah](https://www.youtube.com/watch?v=6f0pxy0Bfpo).
 
 ### Lampung
 
@@ -539,14 +718,19 @@ Ditinjau 2026-11-03. Koleksi berisi 300 materi pada 10 provinsi, termasuk 1 pand
 - **Tari Bedana Lampung**: [Pengantar Seni Pertunjukan Lampung — Universitas Lampung](https://repository.lppm.unila.ac.id/39843/1/aproval-SENI%20PERTUNJUKAN%20LAMPUNG%20%28edit%29.pdf). Jenis: Pengenalan.
   - Pendukung: [SMPN 3 JATI AGUNG, Tutorial Ragam Gerak Tari Bedana Lampung](https://www.youtube.com/watch?v=uNk31NfOoQY).
 - **Tari Nyambai**: [Jadesta Kementerian Pariwisata — Tari Nyambai](https://jadesta.kemenpar.go.id/atraksi/tari_nyambai). Jenis: Pengenalan.
+  - Pendukung: [SENANG BELAJAR SENANG BERBAGI, Tari Nyambai SMAN 1 Belalau Lampung Barat](https://www.youtube.com/watch?v=whxwt0CRlN4).
 
 **Musik Tradisional**
 
 - **Gamolan Pekhing Lampung**: [Riyan Hidayatullah — Tradisi Musik Orang Lampung, Penerbit BRIN](https://penerbit.brin.go.id/press/catalog/download/604/563/12258?inline=1). Jenis: Pengenalan.
+  - Pendukung: [Tri Hanafi, Tabuh Alau-alau - Tabuh Dasar Cetik/Gamolan Pekhing \| Tutorial](https://www.youtube.com/watch?v=jRtbLCkc1EQ).
 - **Talo Balak Lampung**: [Tradisi Musik Orang Lampung — Penerbit BRIN](https://penerbit.brin.go.id/press/catalog/download/604/563/12258?inline=1). Jenis: Pengenalan.
+  - Pendukung: [Wisnu nugroho, TALO BALAK LAMPUNG - TABUH SANAK MIWANG DI IJAN ( SUNGKAY LAMPUNG UTARA )](https://www.youtube.com/watch?v=67Br4TuD9qI).
 - **Serdam Lampung Barat**: [Uswatul Hakim — Kajian Organologi Serdam Lampung Barat](https://download.garuda.kemdikbud.go.id/article.php?article=3000986&title=Serdam+Sebagai+Alat+Musik+Tiup+Bambu+Lampung+Barat+Kajian+Organologi&val=1538). Jenis: Pengenalan.
+  - Pendukung: [kebudayaandisdikbudlampungbarat, Sekhaddam, Serdam atau, Sekhdam Lampung Barat](https://www.youtube.com/watch?v=eu7kiZgsqho).
 - **Gambus Lunik Lampung**: [Tradisi Musik Orang Lampung — Penerbit BRIN](https://penerbit.brin.go.id/press/catalog/download/604/563/12258?inline=1). Jenis: Pengenalan.
   - Pendukung: [Selonding — Gambus Tunggal Edi Pulampas di Pekon Banjar Negeri](https://journal.isi.ac.id/index.php/selonding/article/view/5050).
+  - Pendukung: [Mamak LiL Rajo Gamolan, Gambus Lunik Anak Buha](https://www.youtube.com/watch?v=YWUooXs18ig).
 - **Gitar Tunggal Lampung Pesisir**: [JMEPA Universitas Lampung — Lirik Gitar Tunggal Lampung Pesisir](https://jurnal.fkip.unila.ac.id/index.php/JMEPA/article/view/23292). Jenis: Pengenalan.
   - Pendukung: [BRIN — Gitar Tunggal Lampung Pesisir](https://penerbit.brin.go.id/press/catalog/book/739).
   - Pendukung: [Novri Rahman, 10 menit Langsung Jago Gitar Tunggal Lampung ( Tutorial Gitar Tunggal Lampung )](https://www.youtube.com/watch?v=ErOFTUb64M4).
@@ -554,11 +738,16 @@ Ditinjau 2026-11-03. Koleksi berisi 300 materi pada 10 provinsi, termasuk 1 pand
 **Kerajinan**
 
 - **Tapis Lampung**: [SPKT Kementerian Kebudayaan, Tapis](https://spkt.kemenbud.go.id/urun-daya/ae9b968d-752f-47c8-b352-48e7818c2469). Jenis: Pengenalan.
+  - Pendukung: [BJL Art & Garten, Cara membuat Tapis Lampung (sulam tapis lampung)](https://www.youtube.com/watch?v=iEA-SmmBp9E).
 - **Sulam Usus Lampung**: [Dinas Pariwisata dan Ekonomi Kreatif Lampung — Sulam Usus](https://disparekraf.lampungprov.go.id/pages/sulam-usus). Jenis: Pengenalan.
+  - Pendukung: [PKBM KOFANA MANDIRI, seri 3. Proses pembuatan sulam usus bagi pemula](https://www.youtube.com/watch?v=GEh5bSKoGEs).
 - **Tenun Inuh Lampung**: [Biro Administrasi Pimpinan Lampung — Tenun Inuh](https://biroadpim.lampungprov.go.id/detail-post/tenun-inuh-lampung-tampil-di-jakarta-fashion-week-2027-dekranasda-perkuat-promosi-wastra-khas-pesisir). Jenis: Pengenalan.
+  - Pendukung: [Risty Tagor, Sejarah Panjang Tenun Inuh, Warisan Leluhur Lampung Selatan (Episode #2)](https://www.youtube.com/watch?v=C0g0UBCygWs).
 - **Topeng Sekura Lampung Barat**: [Specta ISI Yogyakarta — Dokumentasi Sekura Lampung Barat](https://journal.isi.ac.id/index.php/specta/article/download/7649/2916). Jenis: Pengenalan.
+  - Pendukung: [EkaFendiaspara_Alliwa, Film dokumenter Pembuat sekura \| topeng sekala brak \| Lampung Barat](https://www.youtube.com/watch?v=qhpzW2VP3p4).
 - **Kain Celugam Lampung Barat**: [Dokumenter BRIN — Celugam Lampung Barat](https://penerbit.brin.go.id/audiovisual/brin/article/view/228). Jenis: Pengenalan.
   - Pendukung: [Kamus Budaya Lampung–Indonesia — Balai Bahasa Lampung](https://balaibahasalampung.kemendikdasmen.go.id/wp-content/uploads/2025/11/Kamus-Budaya-Lampung-Indoneis-A-2023-.pdf).
+  - Pendukung: [Dinas Kominfo Lampung Barat, CELUGAM LAMPUNG BARAT](https://www.youtube.com/watch?v=XNtaLedAu6M).
 
 **Wisata & Ikon**
 
@@ -572,22 +761,30 @@ Ditinjau 2026-11-03. Koleksi berisi 300 materi pada 10 provinsi, termasuk 1 pand
 **Kuliner**
 
 - **Seruit**: [Dinas Pariwisata dan Ekonomi Kreatif Lampung](https://disparekraf.lampungprov.go.id/pages/seruit). Jenis: Pengenalan.
+  - Pendukung: [Dapur Dusunku, RESEP SERUIT IKAN NILA MASAKAN KHAS LAMPUNG](https://www.youtube.com/watch?v=c8Gfb0ChAtk).
 - **Gulai Taboh Lampung**: [Indonesia Travel — Kuliner Lampung](https://www.indonesia.travel/id/id/destination/sumatra/lampung). Jenis: Pengenalan.
+  - Pendukung: [hani Fajriani, GULAI TABOH IWA (IKAN) NILA KHAS LAMPUNG](https://www.youtube.com/watch?v=uyklwivbpGA).
 - **Geguduh Lampung**: [Indonesia Travel — Geguduh](https://www.indonesia.travel/us/en/travel-ideas/gastronomy/geguduh). Jenis: Pengenalan.
+  - Pendukung: [BISMA UAD, Resep Geguduh Khas Lampung](https://www.youtube.com/watch?v=bl5hAh7HYHU).
 - **Sekubal Lampung**: [Badan Pengembangan dan Pembinaan Bahasa — Menyeruit, Yuk!](https://repositori.kemendikdasmen.go.id/5475/1/53.%20Isi%20dan%20Sampul%20Menyeruit%20Yuk.pdf). Jenis: Pengenalan.
+  - Pendukung: [Dapur Bunda Keysha, RESEP SEKUBAL KHAS LAMPUNG , CUMA 3 BAHAN SAJA](https://www.youtube.com/watch?v=j3Teu0AsZwI).
 - **Engkak Ketan Lampung**: [Badan Pengembangan dan Pembinaan Bahasa — Menyeruit, Yuk!](https://repositori.kemendikdasmen.go.id/5475/1/53.%20Isi%20dan%20Sampul%20Menyeruit%20Yuk.pdf). Jenis: Pengenalan.
+  - Pendukung: [Dapur Bunda Erli, Resep engkak ketan khas Lampung pakai kekep](https://www.youtube.com/watch?v=mrc3dWjwzQY).
 
 **Permainan Tradisional**
 
 - **Patok Lelek Lampung**: [Departemen Pendidikan dan Kebudayaan — Permainan Anak-Anak Daerah Lampung](https://repositori.kemendikdasmen.go.id/29258/1/PERMAINAN%20ANAK-ANAK%20DAERAH%20LAMPUNG.pdf). Jenis: Pengenalan.
+  - Pendukung: [MAK ODAH JAYA, Penjelasan Terlengkap Permainan Patok Lele \|\| Menjaga Kelestarian Tradisi dan  Kearifan Lokal](https://www.youtube.com/watch?v=7Wilqjjzees).
 - **Ketekhan Lampung**: [Pika Merliza — Studi Etnomatematika Permainan Tradisional Provinsi Lampung](https://ejournal.uin-suska.ac.id/index.php/SJME/article/download/12537/6377). Jenis: Pengenalan.
+  - Pendukung: [Gini Gitu channel, Mainan jadul unik, baling baling dari biji karet. DIY](https://www.youtube.com/watch?v=k858Bf544Yw).
 - **Sundung Khulah Lampung Pesisir**: [Suska Journal of Mathematics Education — Permainan Tradisional Lampung](https://ejournal.uin-suska.ac.id/index.php/SJME/article/download/12537/6377). Jenis: Pengenalan.
 - **Setayakhan Sinjang**: [Permainan Anak-Anak Daerah Lampung — Departemen Pendidikan dan Kebudayaan](https://repositori.kemendikdasmen.go.id/29258/1/PERMAINAN%20ANAK-ANAK%20DAERAH%20LAMPUNG.pdf). Jenis: Pengenalan.
 - **Sepatu Batok Lampung**: [Permainan Anak-Anak Daerah Lampung — Departemen Pendidikan dan Kebudayaan](https://repositori.kemendikdasmen.go.id/29258/1/PERMAINAN%20ANAK-ANAK%20DAERAH%20LAMPUNG.pdf). Jenis: Pengenalan.
+  - Pendukung: [SDN BARENG 2 (BARERA 25), Permainan Tradisional Egrang Batok](https://www.youtube.com/watch?v=UDk7QLI7eac).
 
 ## Pemakaian gambar
 
-Foto materi menunjukkan objek yang dijelaskan pada caption. Dua foto alat permainan merupakan ilustrasi lintas wilayah dan diberi keterangan asal foto. Jika foto objek belum tersedia, kartu menggunakan cuplikan video yang ditautkan atau ilustrasi kategori; foto kota tidak menjadi pengganti objek budaya.
+Foto materi menunjukkan objek yang dijelaskan pada caption. Dua foto alat permainan merupakan ilustrasi lintas wilayah dan diberi keterangan asal foto. Jika foto objek belum tersedia, kartu menggunakan cuplikan dokumentasi yang ditautkan atau ilustrasi tema/perlengkapan dengan label. Cuplikan variasi umum menyebut batas konteksnya; foto kota tidak menjadi pengganti objek budaya.
 
 Foto bersumber dari Wikimedia Commons. Ukuran diperkecil untuk web; tampilan dapat memotong bidang foto. Hak dan lisensi tetap mengikuti pemilik foto.
 
@@ -677,13 +874,26 @@ Foto bersumber dari Wikimedia Commons. Ukuran diperkecil untuk web; tampilan dap
 - **topic-topeng-sekura-lampung-barat.jpg**: [File:Budaya Sekura asal Lampung.jpg](https://commons.wikimedia.org/wiki/File:Budaya_Sekura_asal_Lampung.jpg) oleh **Delta Lampung**. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
 - **topic-engkak-ketan-lampung.jpg**: [File:Engkak lampung.jpg](https://commons.wikimedia.org/wiki/File:Engkak_lampung.jpg) oleh **Ryanadh1597**. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
 - **topic-congkak-bengkulu.jpg**: [File:YosriCongkak1.jpg](https://commons.wikimedia.org/wiki/File:YosriCongkak1.jpg) oleh **Yosri**. [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0).
+- **Aceh Museum.jpg**: [File:Aceh Museum.jpg](https://commons.wikimedia.org/wiki/File:Aceh_Museum.jpg) oleh **Tinta Emas Historia Network**. [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
+- **Meuseujid Indra Puri.JPG**: [File:Meuseujid Indra Puri.JPG](https://commons.wikimedia.org/wiki/File:Meuseujid_Indra_Puri.JPG) oleh **Si Gam**. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0).
+- **OMO Nifolasara.jpg**: [File:OMO Nifolasara.jpg](https://commons.wikimedia.org/wiki/File:OMO_Nifolasara.jpg) oleh **Derius Manao**. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Rumah Gadang Sungai Beringin.jpg**: [File:Rumah Gadang Sungai Beringin.jpg](https://commons.wikimedia.org/wiki/File:Rumah_Gadang_Sungai_Beringin.jpg) oleh **Hanisa Prana Bella**. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Pariangan.jpg**: [File:Pariangan.jpg](https://commons.wikimedia.org/wiki/File:Pariangan.jpg) oleh **MichaelJLowe**. [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5).
+- **2 Mushaf-Kerejaan-Riau-Lingga-dengan-iluminasi-gata-Pantai-Timur-Semenanjun-koleksi-Museum-Linggam-Cahaya-Daik-Lingga.jpg**: [File:2 Mushaf-Kerejaan-Riau-Lingga-dengan-iluminasi-gata-Pantai-Timur-Semenanjun-koleksi-Museum-Linggam-Cahaya-Daik-Lingga.jpg](https://commons.wikimedia.org/wiki/File:2_Mushaf-Kerejaan-Riau-Lingga-dengan-iluminasi-gata-Pantai-Timur-Semenanjun-koleksi-Museum-Linggam-Cahaya-Daik-Lingga.jpg) oleh **Unknown authorUnknown author**. [Public domain](https://commons.wikimedia.org/wiki/File:2_Mushaf-Kerejaan-Riau-Lingga-dengan-iluminasi-gata-Pantai-Timur-Semenanjun-koleksi-Museum-Linggam-Cahaya-Daik-Lingga.jpg).
+- **Bukit Siguntang.jpg**: [File:Bukit Siguntang.jpg](https://commons.wikimedia.org/wiki/File:Bukit_Siguntang.jpg) oleh **The Bangsawan**. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Museum Timah Pangkalpinang Bangka Island.jpg**: [File:Museum Timah Pangkalpinang Bangka Island.jpg](https://commons.wikimedia.org/wiki/File:Museum_Timah_Pangkalpinang_Bangka_Island.jpg) oleh **Cun Cun**. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Rumah Adat Belitung Negeri Laskar Pelangi.jpg**: [File:Rumah Adat Belitung Negeri Laskar Pelangi.jpg](https://commons.wikimedia.org/wiki/File:Rumah_Adat_Belitung_Negeri_Laskar_Pelangi.jpg) oleh **Virandy Putra**. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Pugung Raharjo Pyramid 2.jpg**: [File:Pugung Raharjo Pyramid 2.jpg](https://commons.wikimedia.org/wiki/File:Pugung_Raharjo_Pyramid_2.jpg) oleh **BPCB Banten**. [Public domain](https://commons.wikimedia.org/wiki/File:Pugung_Raharjo_Pyramid_2.jpg).
+- **Menara Siger.jpg**: [File:Menara Siger.jpg](https://commons.wikimedia.org/wiki/File:Menara_Siger.jpg) oleh **DOLAN YOK**. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+- **Pose Gajah di Way Kambas.jpg**: [File:Pose Gajah di Way Kambas.jpg](https://commons.wikimedia.org/wiki/File:Pose_Gajah_di_Way_Kambas.jpg) oleh **Muredja**. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
 
 ## Diagram dan identitas
 
+17 ilustrasi tema/perlengkapan berkas illustration-*.svg dibuat untuk proyek. Label dan caption menjelaskan bahwa gambar bukan dokumentasi foto, denah baku, atau rekonstruksi koreografi.
 `main-dore.svg`, `cak-ingkling.svg`, dan `galah-panjang.svg` merupakan diagram pengenalan proyek, bukan rekonstruksi lapangan baku.
 Siluet Sumatra diadaptasi dari [Natural Earth 1:50m](https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_50m_admin_0_countries.geojson), [domain publik](https://www.naturalearthdata.com/about/terms-of-use/).
 `logo.jpg` berasal dari lampiran pemilik proyek. Lisensi foto Wikimedia tidak berlaku untuk logo tersebut.
 
 ## Batas materi
 
-Bagian Ruang Belajar memisahkan video tutorial, demonstrasi, dan pertunjukan. Langkah latihan dan aturan permainan mengikuti lingkup sumber; batas putaran atau aturan yang belum lengkap dicantumkan pada catatan. Materi pengamatan video tidak mengaku sebagai pelajaran koreografi. Panduan Congkak memakai satu variasi latihan. Cuplikan dan pemutar video berasal dari YouTube, dengan tautan serta nama kanal; hak video mengikuti pembuatnya. Tutorial ABC Education dibuka melalui tautan sumber aslinya.
+Video diletakkan setelah deskripsi dan diberi label tutorial, demonstrasi, pertunjukan, atau pengenalan. Panduan tertulis berikutnya dapat dibaca tanpa menonton video. Halaman wisata hanya menampilkan lokasi dan tautan peta setelah deskripsi. Langkah latihan dan aturan permainan mengikuti lingkup sumber; batas putaran atau aturan yang belum lengkap dicantumkan pada catatan. Latihan koordinasi buatan proyek, model kertas, dan pengenalan bahan diberi catatan lingkup; isinya tidak mengaku sebagai koreografi baku, produksi kriya adat, atau resep lengkap. Panduan Congkak memakai satu variasi latihan. Cuplikan dan pemutar video berasal dari YouTube, dengan tautan serta nama kanal; hak video mengikuti pembuatnya. Tutorial ABC Education dibuka melalui tautan sumber aslinya.

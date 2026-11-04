@@ -53,3 +53,10 @@ Tiga kasus: pengantar provinsi menyebut ketersediaan yang sesuai data; panel pen
 Label membedakan tutorial, demonstrasi, serta pertunjukan. Latihan pengamatan tidak menjanjikan penguasaan koreografi. Video umum lintas wilayah mencantumkan batas variasinya. Panduan wisata menyebut objek yang bisa dipelajari dan persiapan kunjungan tanpa mengarang tarif atau jam buka. Foto objek, ilustrasi alat dan cuplikan video menyebut konteks yang sesuai; foto kota tidak menjadi pengganti tarian.
 
 Pengantar provinsi mengikuti isi koleksi; keadaan tanpa pendamping masih menyatakan layanan belum dibuka; alur request tersimpan lokal tidak berubah. Tinjauan mandiri untuk antarmuka dan sampel: directness 8, rhythm 8, trust 9, authenticity 8, density 8 (41/50). Belum semua artikel memiliki modul praktik atau foto objek. Kekurangan sumber dan variasi dicatat agar pengisian berikutnya tetap dapat diperiksa.
+
+
+## Video, panduan teks, dan lokasi, 4 November 2026
+
+Penjelasan langkah dapat dibaca tanpa menonton video. Label tutorial, demonstrasi, pertunjukan, dan pengenalan mengikuti peran video. Latihan koordinasi buatan, model kertas, serta pengenalan bahan diberi batas lingkup yang jelas. Judul tidak menjanjikan kursus lengkap atau resep lengkap. Wisata menyebut lokasi dan tindakan Buka lokasi di Google Maps. Caption membedakan foto objek, sampul dokumentasi, dan ilustrasi tema.
+
+Tiga kasus: pengantar provinsi sesuai 30 materi daerah; panel pendamping tetap menyebut layanan belum dibuka; pesan request lokal tersimpan tidak berubah. Peninjauan antarmuka dan sampel modul: directness 9, rhythm 8, trust 9, authenticity 8, density 8 (42/50).
