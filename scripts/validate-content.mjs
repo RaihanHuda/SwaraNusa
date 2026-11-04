@@ -41,6 +41,8 @@ for (const entry of data.entries) {
     const learning=entry.learning;
     check(typeof learning.overview==='string'&&learning.overview.length>12, `${id}: pengantar belajar kosong`);
     check(Array.isArray(learning.steps)&&learning.steps.length>0&&learning.steps.every(step=>typeof step.title==='string'&&typeof step.body==='string'&&step.body.length>20), `${id}: langkah belajar belum lengkap`);
+    if(learning.checks!==undefined) check(Array.isArray(learning.checks)&&learning.checks.every(item=>typeof item==='string'&&item.trim().length>12), `${id}: pemeriksaan hasil belum jelas`);
+    if(learning.troubleshooting!==undefined) check(Array.isArray(learning.troubleshooting)&&learning.troubleshooting.every(item=>item&&typeof item.problem==='string'&&typeof item.solution==='string'&&item.solution.length>20), `${id}: petunjuk perbaikan belum lengkap`);
     if(learning.video) {
       let external=false; try { const url=new URL(learning.video.url); external=url.protocol==='https:'&&['abc.net.au','www.abc.net.au'].includes(url.hostname); } catch {}
       check(Boolean(youtubeId(learning.video.url))||external, `${id}: tautan video tidak sah`);

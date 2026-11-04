@@ -96,3 +96,12 @@ Seluruh 250 materi nonwisata memiliki 3–5 langkah tertulis yang tidak memerluk
 Cakupan gambar 300/300 kartu. Menambahkan 12 foto Wikimedia berlisensi melalui tautan pratinjau, 12 sampul dokumentasi wisata yang dikreditkan, serta 17 ilustrasi tema/perlengkapan proyek. Foto, cuplikan variasi umum, dan ilustrasi diberi label/caption berbeda. Gambar ilustrasi tidak menjadi ukuran pembuatan, koreografi, atau denah baku.
 
 Pemeriksaan akhir Safari/IAB pada lebar 320 piksel: Tari Piring memiliki urutan paragraf deskripsi → satu pemutar video → panduan teks, tanpa luapan horizontal. Museum Siginjei memuat satu tautan lokasi, nol pemutar, nol panel latihan. Bicau menampilkan ilustrasi berlabel serta empat langkah sumber. Halaman yang diperiksa tidak menghasilkan galat aplikasi. Validator katalog lulus; 250 modul tidak memiliki langkah yang meminta menonton, membuka, memutar, atau menjeda video.
+
+
+## Pendalaman tata cara, 4 November 2026
+
+Menulis ulang atau memperluas 250 panduan nonwisata: 1.692 tahap, dengan distribusi 5 tahap pada 8 materi, 6 pada 86, 7 pada 118, 8 pada 32, dan 9 pada 6 materi. Penambahan mengikuti alat, bahan, konteks, dan proses masing-masing. Tidak mengubah 50 halaman wisata atau 238 video yang sudah ada. Panduan Congkak digabung ke panel belajar agar langkah tampil sebelum pemeriksaan hasil dan tidak berulang.
+
+Menambahkan daftar pemeriksaan hasil pada 151 materi dan petunjuk perbaikan pada 38 materi. Perlengkapan diselaraskan dengan instruksi baru; formula bahan Sate Padang dilengkapi dari keterangan penerbit video. Klaim lama belum ada video/panduan dihapus atau diperjelas lingkupnya. Materi yang sumbernya belum mendukung panduan tradisi lengkap tetap diberi label analisis/persiapan/model.
+
+Validasi: 300 panel berhasil dirender; hitungan langkah sesuai data; panel wisata hanya lokasi; isi masukan di-escape; video tidak masuk ulang ke bagian panduan. Pada lebar 320–360 piksel, Saman dan Congkak tidak meluap horizontal; Congkak menampilkan delapan tahap satu kali serta pemeriksaan hasil setelahnya.

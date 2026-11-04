@@ -12,6 +12,8 @@ const videos = data.entries.filter(e => e.category!=='wisata'&&entryVideo(e)).le
 const tutorials = data.entries.filter(e => e.category!=='wisata'&&entryVideo(e)?.type === 'tutorial').length;
 const illustrated = data.entries.filter(e=>e.imageOrigin==='SwaraNusa').length;
 const mediaCount = data.entries.filter(e=>entryMedia(e)).length;
+const learningLengths=data.entries.filter(e=>e.category!=='wisata'&&e.learning).map(e=>(e.steps?.length?e.steps:e.learning.steps).length);
+const stepDistribution=Object.entries(learningLengths.reduce((counts,length)=>{counts[length]=(counts[length]||0)+1;return counts;},{})).map(([length,count])=>`${length} langkah: ${count} materi`).join('; ');
 const remainingVideos=data.entries.filter(e=>e.category!=='wisata'&&!entryVideo(e));
 const md = value => String(value).replace(/[\[\]|]/g, '\\$&');
 const mdUrl = value => String(value).replaceAll(' ', '%20');
@@ -63,7 +65,7 @@ for (const province of data.provinces) {
 coverage.push('', `Total: **${data.entries.length} materi**, terdiri atas ${data.entries.length - guides} pengenalan dan ${guides} panduan.`, `Panduan tertulis nonwisata: **${modules} modul**. Sebanyak 50 halaman wisata menampilkan lokasi dan tautan peta. Terdapat ${videos} penempatan video, termasuk ${tutorials} tutorial.`, '',
   `Gambar pada kartu: **${mediaCount}/${data.entries.length}**. Termasuk ${illustrated} ilustrasi tema/perlengkapan dengan label; sisanya foto atau cuplikan dokumentasi.`, '',
   'Rincian rujukan tersedia pada [Sumber materi dan foto](sources.md).', '');
-coverage.push('## Materi yang belum memiliki video sesuai', '');
+coverage.push('## Rincian panduan tertulis', '', `Jumlah tahap mengikuti kebutuhan materi (${Math.min(...learningLengths)}–${Math.max(...learningLengths)} tahap). ${stepDistribution}.`, '', 'Langkah menjelaskan persiapan, urutan tindakan, pemeriksaan hasil, dan koreksi yang sesuai topik. Beberapa halaman menambahkan pemeriksaan hasil serta pemecahan masalah. Materi yang sumbernya belum mendukung praktik tradisi penuh tetap memberi label latihan persiapan, analisis, atau model bahan pengganti.', '', '## Materi yang belum memiliki video sesuai', '');
 for(const entry of remainingVideos) coverage.push(`- ${entry.title} (${data.provinces.find(p=>p.id===entry.provinceId)?.name})`);
 coverage.push('', 'Panduan tertulis dan gambar tetap tersedia pada materi tersebut.', '');
 await writeFile(path.join(root, 'docs/content-coverage.md'), coverage.join('\n'));

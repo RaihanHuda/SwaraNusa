@@ -414,3 +414,20 @@ body {
 .material-location p { color: var(--muted); }
 .material-location .btn { max-width: 100%; white-space: normal; }
 @media(max-width:480px) { .material-location { padding: 20px 16px; gap: 12px; grid-template-columns: 36px minmax(0,1fr); } .material-location .surface-icon { width: 36px; height: 36px; border-radius: 12px; } .material-location h2 { font-size: 21px; } .material-location .btn { font-size: 11px; gap: 7px; padding: 12px 15px; } }
+
+/* Written lessons include feedback beside the sequence, without hiding it in a video. */
+.learning-checks,
+.learning-troubleshooting { margin-top: 28px; padding: 24px; border-radius: 22px; background: #ffffffb8; border: 1px solid #dce5d6; }
+.learning-checks h3,
+.learning-troubleshooting h3 { margin: 0 0 16px; font: 650 18px/1.4 var(--sans); letter-spacing: -.02em; }
+.learning-checks ul { margin: 0; padding-left: 21px; }
+.learning-checks li { margin-block: 10px; padding-left: 4px; color: var(--muted); line-height: 1.8; }
+.learning-checks li::marker { color: var(--green); }
+.learning-troubleshooting dl { margin: 0; }
+.learning-troubleshooting dl > div + div { margin-top: 18px; padding-top: 18px; border-top: 1px solid #e3e9de; }
+.learning-troubleshooting dt { font-weight: 650; color: var(--green); line-height: 1.6; }
+.learning-troubleshooting dd { margin: 6px 0 0; color: var(--muted); line-height: 1.8; }
+@media (max-width: 600px) {
+ .learning-checks, .learning-troubleshooting { padding: 19px; border-radius: 18px; }
+ .learning-checks h3, .learning-troubleshooting h3 { font-size: 17px; }
+}

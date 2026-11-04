@@ -22,6 +22,12 @@ Gambar pada kartu: **300/300**. Termasuk 17 ilustrasi tema/perlengkapan dengan l
 
 Rincian rujukan tersedia pada [Sumber materi dan foto](sources.md).
 
+## Rincian panduan tertulis
+
+Jumlah tahap mengikuti kebutuhan materi (5–9 tahap). 5 langkah: 8 materi; 6 langkah: 86 materi; 7 langkah: 118 materi; 8 langkah: 32 materi; 9 langkah: 6 materi.
+
+Langkah menjelaskan persiapan, urutan tindakan, pemeriksaan hasil, dan koreksi yang sesuai topik. Beberapa halaman menambahkan pemeriksaan hasil serta pemecahan masalah. Materi yang sumbernya belum mendukung praktik tradisi penuh tetap memberi label latihan persiapan, analisis, atau model bahan pengganti.
+
 ## Materi yang belum memiliki video sesuai
 
 - Marsir (Sumatera Utara)

@@ -10,6 +10,8 @@ Repo ini publik. GitHub Pages menerbitkan cabang `gh-pages`, folder akar. Koleks
 
 Seluruh kartu mempunyai gambar berupa foto, sampul dokumentasi, atau ilustrasi bertanda. Sebanyak 17 ilustrasi tema/perlengkapan dibuat untuk materi yang belum memiliki dokumentasi khusus. Foto dan cuplikan menyertakan sumber. Akun dan pengiriman request publik belum dibuka; versi lokal tetap memiliki alur akun dan request dengan SQLite.
 
+Panduan nonwisata kini memuat 5–9 tahap sesuai prosesnya, seluruhnya 1.692 tahap. Rincian meliputi persiapan, tindakan bertahap, dan penilaian hasil; 151 materi menambahkan daftar pemeriksaan hasil dan 38 materi mempunyai petunjuk perbaikan. Contoh: Saman 7 tahap, Congkak 8, dan Tekwan 9. Banyaknya tahap mengikuti kebutuhan materi.
+
 Bangun situs publik dengan `npm run build:pages`. Hasil `_site/` memakai awalan `/SwaraNusa`, menyiapkan halaman langsung untuk setiap provinsi dan artikel, dan hanya memuat berkas publik. Terbitkan isi folder itu ke akar cabang `gh-pages`. Setiap perubahan materi perlu build dan penerbitan ulang. Tidak ada database akun, server, atau kredensial dalam situs publik.
 
 ## Menjalankan
@@ -46,7 +48,7 @@ Buka **Masuk > Coba alur proyek** untuk mencoba akun pengunjung, pendamping, ata
 
 Server hanya membuka loopback pada komputer lokal. Akun demo sengaja mempermudah pengujian peran; endpoint demo **tidak cocok untuk deployment publik**. Sebelum merilis layanan, nonaktifkan demo, tambahkan pemulihan dan verifikasi akun, siapkan HTTPS serta pengaturan cookie produksi, dan periksa kembali izin serta isi materi.
 
-SwaraNusa belum memiliki mitra pendamping nyata. Profil demo tidak menyediakan kontak, pembayaran, atau reservasi. Materi pengenalan tari tidak mengaku sebagai tutorial praktik. Notifikasi tersedia dalam akun dan diperbarui saat membuka/memuat ulang halaman. Terjemahan Inggris belum tersedia.
+SwaraNusa belum memiliki mitra pendamping nyata. Profil demo tidak menyediakan kontak, pembayaran, atau reservasi. Latihan tari membahas koordinasi dasar dan konteks; ragam, syair, serta koreografi tradisi dipelajari bersama pelakunya. Notifikasi tersedia dalam akun dan diperbarui saat membuka/memuat ulang halaman. Terjemahan Inggris belum tersedia.
 
 Data akun dan request lokal berada di `.data/` yang masuk `.gitignore`. Jangan mengunggah database ini ke GitHub. Materi budaya saat ini berada di `public/data.json`, terpisah dari database operasional SQLite.
 

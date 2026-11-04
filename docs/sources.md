@@ -775,9 +775,9 @@ Ditinjau 2026-11-04. Koleksi berisi 300 materi pada 10 provinsi, termasuk 1 pand
 
 - **Patok Lelek Lampung**: [Departemen Pendidikan dan Kebudayaan — Permainan Anak-Anak Daerah Lampung](https://repositori.kemendikdasmen.go.id/29258/1/PERMAINAN%20ANAK-ANAK%20DAERAH%20LAMPUNG.pdf). Jenis: Pengenalan.
   - Pendukung: [MAK ODAH JAYA, Penjelasan Terlengkap Permainan Patok Lele \|\| Menjaga Kelestarian Tradisi dan  Kearifan Lokal](https://www.youtube.com/watch?v=7Wilqjjzees).
-- **Ketekhan Lampung**: [Pika Merliza — Studi Etnomatematika Permainan Tradisional Provinsi Lampung](https://ejournal.uin-suska.ac.id/index.php/SJME/article/download/12537/6377). Jenis: Pengenalan.
+- **Ketekhan Lampung**: [Departemen Pendidikan dan Kebudayaan, Permainan Anak-anak Daerah Lampung](https://repositori.kemendikdasmen.go.id/29258/1/PERMAINAN%20ANAK-ANAK%20DAERAH%20LAMPUNG.pdf). Jenis: Pengenalan.
   - Pendukung: [Gini Gitu channel, Mainan jadul unik, baling baling dari biji karet. DIY](https://www.youtube.com/watch?v=k858Bf544Yw).
-- **Sundung Khulah Lampung Pesisir**: [Suska Journal of Mathematics Education — Permainan Tradisional Lampung](https://ejournal.uin-suska.ac.id/index.php/SJME/article/download/12537/6377). Jenis: Pengenalan.
+- **Sundung Khulah Lampung Pesisir**: [Departemen Pendidikan dan Kebudayaan, Permainan Anak-anak Daerah Lampung](https://repositori.kemendikdasmen.go.id/29258/1/PERMAINAN%20ANAK-ANAK%20DAERAH%20LAMPUNG.pdf). Jenis: Pengenalan.
 - **Setayakhan Sinjang**: [Permainan Anak-Anak Daerah Lampung — Departemen Pendidikan dan Kebudayaan](https://repositori.kemendikdasmen.go.id/29258/1/PERMAINAN%20ANAK-ANAK%20DAERAH%20LAMPUNG.pdf). Jenis: Pengenalan.
 - **Sepatu Batok Lampung**: [Permainan Anak-Anak Daerah Lampung — Departemen Pendidikan dan Kebudayaan](https://repositori.kemendikdasmen.go.id/29258/1/PERMAINAN%20ANAK-ANAK%20DAERAH%20LAMPUNG.pdf). Jenis: Pengenalan.
   - Pendukung: [SDN BARENG 2 (BARERA 25), Permainan Tradisional Egrang Batok](https://www.youtube.com/watch?v=UDk7QLI7eac).
