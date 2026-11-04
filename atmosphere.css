@@ -401,3 +401,16 @@ body {
 .learning-external-video h3 { font: 650 19px/1.5 var(--sans); margin: 13px 0 6px; }
 .article-body .learning-external-video p { font-size: 13px; margin-bottom: 18px; }
 .learning-external-video .btn { white-space: normal; font-size: 12px; max-width: 100%; }
+
+.material-video-section { margin: 34px 0 40px; padding-top: 26px; border-top: 1px solid #d4dfce; }
+.material-video-section > h2 { margin: 10px 0 20px; font: 650 clamp(23px,2.5vw,30px)/1.25 var(--sans); letter-spacing: -.035em; }
+.material-video-section .learning-video { margin: 0; }
+.article-body .video-context { margin: 14px 0 0; color: var(--muted); font-size: 12px; line-height: 1.8; }
+@media(max-width:480px) { .material-video-section { margin: 28px 0; padding-top: 22px; } }
+
+.material-location { display: grid; grid-template-columns: 48px minmax(0,1fr); gap: 18px; margin: 34px 0; padding: 28px; border: 1px solid #cbdac2; border-radius: 24px; background: #f6faf1; }
+.material-location .surface-icon { width: 48px; height: 48px; border-radius: 15px; }
+.material-location h2 { margin: 8px 0 10px; font: 650 24px/1.3 var(--sans); letter-spacing: -.035em; }
+.material-location p { color: var(--muted); }
+.material-location .btn { max-width: 100%; white-space: normal; }
+@media(max-width:480px) { .material-location { padding: 20px 16px; gap: 12px; grid-template-columns: 36px minmax(0,1fr); } .material-location .surface-icon { width: 36px; height: 36px; border-radius: 12px; } .material-location h2 { font-size: 21px; } .material-location .btn { font-size: 11px; gap: 7px; padding: 12px 15px; } }
