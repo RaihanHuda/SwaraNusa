@@ -1,8 +1,8 @@
-import {teacherSidebar,teacherDirectory} from './mentors.js?v=9992e7c43f';
-import {learningPanel,videoPanel,locationPanel} from './learning.js?v=9992e7c43f';
-import {esc,icon,entryVideo,entryFigure,cats,statusLabels,statusBadge,date,photo,entryCard,api,post} from './components.js?v=9992e7c43f';
-import {site,siteUrl,routePath} from './site-config.js?v=9992e7c43f';
-import {mixEntries,mountCarousels} from './carousels.js?v=9992e7c43f';
+import {teacherSidebar,teacherDirectory} from './mentors.js?v=b024d2a4d0';
+import {learningPanel,videoPanel,locationPanel} from './learning.js?v=b024d2a4d0';
+import {esc,icon,entryVideo,entryFigure,cats,statusLabels,statusBadge,date,photo,entryCard,api,post} from './components.js?v=b024d2a4d0';
+import {site,siteUrl,routePath} from './site-config.js?v=b024d2a4d0';
+import {mixEntries,mountCarousels} from './carousels.js?v=b024d2a4d0';
 let data={provinces:[],entries:[]}, teacherProfiles=[], user=null, notifications=[], requestCache=[], pageVersion=0;
 const app=document.querySelector('#app'), dialog=document.querySelector('#auth-dialog');
 const province=id=>data.provinces.find(p=>p.id===id);
