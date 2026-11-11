@@ -1,0 +1,18 @@
+{
+  "mode": "demo",
+  "profiles": [
+    {
+      "id": "rina-contoh",
+      "name": "Kak Rina",
+      "role": "Pengajar seni",
+      "image": "/assets/pengajar-rina.svg",
+      "imageAlt": "Ilustrasi wajah Kak Rina untuk profil contoh",
+      "isDemo": true,
+      "categories": ["tari", "musik", "kerajinan"],
+      "entryIds": [],
+      "examples": ["Saman", "Tari Piring", "Saluang", "Songket Pandai Sikek"],
+      "description": "Contoh profil pengajar untuk mencoba alur belajar tari, alat musik, dan kerajinan. Satu pengajar dapat tampil pada beberapa materi.",
+      "whatsapp": "6287731119997"
+    }
+  ]
+}

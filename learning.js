@@ -1,4 +1,4 @@
-import {esc,icon,youtubeId,entryVideo} from './components.js?v=affc2d51ae';
+import {esc,icon,youtubeId,entryVideo} from './components.js?v=9992e7c43f';
 
 const textList=value=>Array.isArray(value)?value.filter(x=>typeof x==='string'):typeof value==='string'?[value]:[];
 export function videoPanel(entry) {
@@ -31,4 +31,4 @@ export function locationPanel(entry) {
  const url='https://www.google.com/maps/search/?api=1&query='+encodeURIComponent(query);
  return `<section class="material-location" aria-label="Lokasi ${esc(entry.title)}"><span class="surface-icon">${icon('pin')}</span><div><span class="eyebrow">LOKASI</span><h2>${esc(entry.title)}</h2><p>${esc(entry.location)}</p><a class="btn btn-dark" href="${esc(url)}" target="_blank" rel="noopener noreferrer">Buka lokasi di Google Maps ${icon('upRight')}</a></div></section>`;
 }
-export {youtubeId} from './components.js?v=affc2d51ae';
+export {youtubeId} from './components.js?v=9992e7c43f';
