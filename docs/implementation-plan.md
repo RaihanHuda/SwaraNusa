@@ -112,3 +112,8 @@ Validasi: 300 panel berhasil dirender; hitungan langkah sesuai data; panel wisat
 Mengganti CTA request pendamping dengan kartu individu pada `/pendamping?materi=ID`, dibatasi ke tari, musik, dan kerajinan. Data terpisah `mentors.json` memungkinkan beberapa materi mengarah ke profil sama; maksimum dua profil per materi. Satu profil demo Kak Rina dengan ilustrasi orisinal memakai nomor demonstrasi dari pengguna. Kontak tersusun sebagai URL WhatsApp dengan pesan ter-encode; tidak ada pesan otomatis. Tautan request lama beralih ke direktori; form request baru hanya untuk informasi.
 
 Uji: 12 pengujian lulus. Browser lokal memeriksa Saman→profil, kartu di360px tanpa luapan, tidak ada sidebar pengajar pada Congkak, tautan lama menuju profil, serta nol galat aplikasi. Status dan isi panduan 250 materi tidak berubah.
+
+
+## Beberapa profil dan gambar berkas, 11 November 2026
+
+Enam profil dipisahkan per bidang dan dipetakan ke ID materi. Seluruh 150 materi tari/musik/kerajinan menghasilkan satu atau dua profil; kategori lain tidak menghasilkan ajakan pengajar. Semua memakai nomor demonstrasi sama sesuai instruksi pemilik proyek, sementara pesan mengubah nama dan judul materi. Banner, badge, dan keterangan profil contoh dihapus dari UI. Status latihan tetap tercatat pada data/dokumentasi. Renderer gambar mendukung SVG, JPG/JPEG, PNG, WebP lokal agar foto dapat diganti tanpa perubahan struktur HTML. Uji direktori meliputi cakupan, pencocokan materi, nomor bersama, encoding pesan, teks aman, serta format foto.

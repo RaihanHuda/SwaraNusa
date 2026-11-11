@@ -72,3 +72,8 @@ Pengantar provinsi tetap sesuai koleksi; bagian pendamping tetap menyebut layana
 ## Pengajar langsung ke WhatsApp, 11 November 2026
 
 Tindakan utama menggunakan Lihat pengajar dan Hubungi via WhatsApp. Satu profil contoh memuat nama serta ilustrasi dan dapat muncul pada beberapa materi. Label Profil contoh dan keterangan kontak demonstrasi menjaga agar pengguna tidak mengira pengajar sungguhan telah bergabung. Bidang hanya tari, alat musik, dan kerajinan. Pengantar provinsi tetap sesuai isi; ketiadaan pengajar menampilkan pesan yang sesuai; alur usulan materi lokal tetap ada, tanpa janji admin menghubungkan pengajar. Pemeriksaan mandiri: directness 9, rhythm 8, trust 9, authenticity 8, density 8 (42/50).
+
+
+## Penyederhanaan profil pengajar, 11 November 2026
+
+Menghapus banner, badge Profil contoh, dan catatan demonstrasi dari halaman profil sesuai permintaan pengguna. Menambahkan enam nama dengan bidang dan daftar materi masing-masing; seluruh kontak menuju nomor yang sama dari pengguna. Tidak membuat ulasan, pengalaman, harga, atau status verifikasi rekaan. Dokumentasi dan field data tetap mencatat bahwa identitas adalah latihan proyek. Gambar tetap ilustrasi berupa berkas SVG; renderer juga menerima format foto biasa. Tinjauan mandiri: directness 9, rhythm 8, trust 8, authenticity 8, density 9 (42/50).

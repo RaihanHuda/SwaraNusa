@@ -11,14 +11,20 @@ Diperbarui 11 November 2026. Pengguna meminta kartu individu yang langsung membu
 
 Wisata, kuliner, dan permainan tidak menampilkan ajakan pengajar pada halaman materi. Tautan lama `/request?tujuan=pendamping&...` membuka direktori dengan konteks yang sama. Formulir request lokal kini untuk usulan materi/informasi; data request lama tetap ada untuk demonstrasi proyek.
 
-## Data saat ini
+## Data dan gambar
 
-Satu profil contoh bernama Kak Rina memakai ilustrasi orisinal, bukan foto orang nyata. Seluruh kartu memuat label Profil contoh. Kontak demonstrasi diberikan pemilik proyek pada percakapan dan dipakai untuk mencoba tombol, bukan kontak pengajar yang sudah bermitra. Nomor berformat internasional Indonesia; situs tidak mengklaim telah mengonfirmasi kepemilikan atau status akun WhatsApp. Tidak ada pesan yang dikirim untuk pengujian.
+Direktori memuat enam identitas latihan proyek: Rina dan Ayu untuk tari; Nadia dan Salsa untuk musik tradisional; Putri dan Lestari untuk kerajinan. Masing-masing memiliki daftar `entryIds` yang jelas. Seluruh 150 materi seni memiliki satu atau dua profil yang cocok, sedangkan wisata, kuliner, dan permainan tidak memperoleh profil. Semua profil memakai nomor demonstrasi yang diberikan pemilik proyek. Nama serta ilustrasi belum mewakili pengajar nyata dan tidak menyatakan kemitraan; informasi ini disimpan dalam dokumentasi serta `isDemo` pada data. Sesuai permintaan pemilik proyek, banner, badge, dan catatan contoh tidak tampil pada kartu.
 
-`public/mentors.json` berisi objek `profiles`. Setiap profil memuat `id`, `name`, `role`, `image`, `imageAlt`, `isDemo`, `categories`, `entryIds`, `examples`, `description`, dan `whatsapp`. Kategori yang diterima: `tari`, `musik`, `kerajinan`. `entryIds` kosong menampilkan profil untuk materi dalam kategori tersebut; isi array dengan ID tertentu untuk membatasi pengajar sungguhan. Nomor kosong/tidak valid membuat tombol kontak tidak aktif.
+Data profil berada di `public/mentors.json`. Setiap profil berisi nama, bidang, deskripsi, daftar materi, jalur gambar, dan nomor WhatsApp. Saat pengguna membuka materi tertentu, situs mencocokkan ID materi dengan `entryIds` dan menampilkan maksimal dua profil. Pesan WhatsApp menyebut nama yang dipilih serta judul materi. Semua nomor menuju kontak demonstrasi yang sama; tidak ada pesan yang dikirim untuk pengujian.
 
-Mengganti profil contoh membutuhkan nama, foto berizin, bidang/materi, dan nomor yang benar dari pengajar. Jangan mengganti label demo sebelum data nyata tersedia. Profil dapat ditambah tanpa menyalin semua halaman materi.
+Gambar tetap berkas tersendiri, bukan gambar yang dibangun di komponen profil. Untuk saat ini, kartu memakai ilustrasi orisinal `public/assets/pengajar-rina.svg` sebagai gambar profil bersama. SVG merupakan format gambar; browser menampilkannya dengan elemen HTML yang sama seperti foto.
+
+```html
+<img src="/assets/pengajar-rina.svg" alt="Ilustrasi profil pengajar">
+```
+
+Renderer membaca lokasi gambar dari `profile.image`. Untuk mengganti dengan foto, simpan berkas JPG, PNG, atau WebP di `public/assets`, lalu ganti nilai `image` pada profil. Tidak perlu mengganti struktur kartu. Gunakan foto yang pemakaiannya sudah diizinkan dan sesuaikan `imageAlt`. Renderer menerima SVG, JPG/JPEG, PNG, dan WebP lokal di folder aset; alamat yang tidak sesuai memakai gambar bawaan. Pada GitHub Pages, situs menambahkan awalan `/SwaraNusa` otomatis.
 
 ## Pemeriksaan
 
-Dua uji otomatis direktori memastikan cakupan kategori pada 300 materi, kecocokan ID, format nomor, encoding pesan, dan escaping teks. Seluruh 12 pengujian proyek lulus. Pemeriksaan browser pada layar 360 piksel: kartu tidak meluap horizontal, tombol menunjuk nomor demonstrasi dan menyebut Saman, Congkak tidak memuat bagian pengajar, dan tautan request lama membuka profil tanpa formulir.
+Dua uji otomatis direktori memastikan cakupan kategori pada 300 materi, satu–dua hasil yang cocok, kesamaan nomor tujuan, format nomor, encoding pesan, escaping teks, penghapusan label contoh, serta dukungan berkas foto. Seluruh 12 pengujian proyek lulus. Pemeriksaan browser pada layar 360 piksel: kartu tidak meluap horizontal, tombol menunjuk nomor demonstrasi dan menyebut Saman, Congkak tidak memuat bagian pengajar, dan tautan request lama membuka profil tanpa formulir.

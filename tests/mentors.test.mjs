@@ -9,7 +9,9 @@ test('teaching links only appear for art materials and select the clicked materi
  for(const entry of catalogue.entries){
   const supported=['tari','musik','kerajinan'].includes(entry.category);
   assert.equal(Boolean(teacherSidebar(entry)),supported,entry.id);
-  assert.equal(teachersForEntry(profiles,entry).length,supported?1:0,entry.id);
+  const matches=teachersForEntry(profiles,entry);
+  if(supported)assert.ok(matches.length>=1&&matches.length<=2,entry.id);else assert.equal(matches.length,0,entry.id);
+  for(const profile of matches){assert.ok(profile.entryIds.includes(entry.id));assert.equal(new URL(whatsappUrl(profile,entry)).pathname,'/6287731119997');}
   if(supported)assert.ok(teacherSidebar(entry).includes('materi='+entry.id),entry.id);
  }
  const saman=catalogue.entries.find(e=>e.id==='saman');
@@ -29,5 +31,8 @@ test('WhatsApp uses a valid mobile number and encodes the chosen topic without s
  for(const whatsapp of ['', 'javascript:alert(1)', '628123?bad=1', 'nomor-contoh'])assert.equal(whatsappUrl({...profile,whatsapp}), '');
  const invalid=teacherCard({...profiles[0],whatsapp:'',name:'<script>bad</script>'});
  assert.ok(!invalid.includes('href="https://wa.me'));assert.match(invalid,/disabled/);assert.match(invalid,/&lt;script&gt;/);assert.ok(!invalid.includes('<script>'));
- assert.match(teacherCard(profiles[0]),/Profil contoh/);
+ assert.doesNotMatch(teacherCard(profiles[0]),/Profil contoh|kontak demonstrasi/);
+ assert.doesNotMatch(teacherDirectory(catalogue,profiles,new URLSearchParams('materi=saman')),/teacher-demo|profil contoh/);
+ assert.match(teacherCard({...profiles[0],image:'/assets/foto-pengajar.jpg'}),/src="\/assets\/foto-pengajar.jpg"/);
+ assert.match(teacherCard({...profiles[0],image:'javascript:bad'}),/src="\/assets\/pengajar-rina.svg"/);
 });
