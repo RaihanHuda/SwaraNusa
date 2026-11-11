@@ -1,5 +1,25 @@
 # Alur penggunaan SwaraNusa
 
+## Alur pengajar saat ini, 11 November 2026
+
+```mermaid
+flowchart TD
+    A[Buka materi] --> B{Tari, musik, atau kerajinan?}
+    B -->|Ya| C[Lihat pengajar]
+    C --> D[Tampilkan maksimal dua profil yang cocok]
+    D --> E[Hubungi via WhatsApp]
+    E --> F[Buka pesan awal tentang materi terpilih]
+    F --> G[Pengguna memeriksa dan mengirim pesan sendiri]
+    B -->|Tidak| H[Baca materi tanpa bagian pengajar]
+```
+
+Satu profil dapat mencakup beberapa materi. Versi saat ini memakai satu profil contoh dan nomor demonstrasi dari pemilik proyek. Alur tidak memerlukan akun, persetujuan admin, atau pengiriman request. Rincian data serta pengujian ada pada [Profil pengajar](teachers.md).
+
+## Riwayat alur request proyek lokal
+
+Diagram serta tabel di bawah mendokumentasikan alur request sebelumnya yang masih didukung API untuk data lama. Formulir baru hanya membuat usulan informasi; kontak pengajar memakai alur langsung di atas.
+
+
 Diagram ini mengikuti konsep provinsi sebagai pintu masuk dan aturan API dalam [`server.mjs`](../server.mjs). Pengunjung dapat membaca materi tanpa akun. Akun diperlukan untuk mengirim dan melacak request. Pendamping serta pengelola memakai ruang akun sesuai perannya.
 
 ## Menjelajah dan mengirim kebutuhan

@@ -105,3 +105,10 @@ Menulis ulang atau memperluas 250 panduan nonwisata: 1.692 tahap, dengan distrib
 Menambahkan daftar pemeriksaan hasil pada 151 materi dan petunjuk perbaikan pada 38 materi. Perlengkapan diselaraskan dengan instruksi baru; formula bahan Sate Padang dilengkapi dari keterangan penerbit video. Klaim lama belum ada video/panduan dihapus atau diperjelas lingkupnya. Materi yang sumbernya belum mendukung panduan tradisi lengkap tetap diberi label analisis/persiapan/model.
 
 Validasi: 300 panel berhasil dirender; hitungan langkah sesuai data; panel wisata hanya lokasi; isi masukan di-escape; video tidak masuk ulang ke bagian panduan. Pada lebar 320–360 piksel, Saman dan Congkak tidak meluap horizontal; Congkak menampilkan delapan tahap satu kali serta pemeriksaan hasil setelahnya.
+
+
+## Direktori pengajar, 11 November 2026
+
+Mengganti CTA request pendamping dengan kartu individu pada `/pendamping?materi=ID`, dibatasi ke tari, musik, dan kerajinan. Data terpisah `mentors.json` memungkinkan beberapa materi mengarah ke profil sama; maksimum dua profil per materi. Satu profil demo Kak Rina dengan ilustrasi orisinal memakai nomor demonstrasi dari pengguna. Kontak tersusun sebagai URL WhatsApp dengan pesan ter-encode; tidak ada pesan otomatis. Tautan request lama beralih ke direktori; form request baru hanya untuk informasi.
+
+Uji: 12 pengujian lulus. Browser lokal memeriksa Saman→profil, kartu di360px tanpa luapan, tidak ada sidebar pengajar pada Congkak, tautan lama menuju profil, serta nol galat aplikasi. Status dan isi panduan 250 materi tidak berubah.

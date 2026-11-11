@@ -67,3 +67,8 @@ Tiga kasus: pengantar provinsi sesuai 30 materi daerah; panel pendamping tetap m
 Jumlah tahap mengikuti proses, dari lima sampai sembilan. Saman menjelaskan ketukan, panggil-jawab, arah tangan, rangkaian, dan evaluasi; Congkak menjelaskan perpindahan biji serta hasil giliran; bahan/alat kuliner mengikuti langkah yang ditulis. Judul pemeriksaan hasil dan petunjuk perbaikan menyebut tindakan pembaca. Perlengkapan model dibedakan dari bahan pangan atau alat musik nyata. Ragam tradisi yang belum dapat direkonstruksi tidak diberi gerak, nada, denah, atau aturan rekaan.
 
 Pengantar provinsi tetap sesuai koleksi; bagian pendamping tetap menyebut layanan belum dibuka; alur request lokal tidak berubah. Tinjauan mandiri pada sampel dan antarmuka: directness 9, rhythm 8, trust 9, authenticity 8, density 8 (42/50). Panduan urutan yang belum mempunyai takaran/prosedur penuh tetap menyebut kebutuhan resep atau arahan pembuat, dan tidak dilabeli kursus lengkap.
+
+
+## Pengajar langsung ke WhatsApp, 11 November 2026
+
+Tindakan utama menggunakan Lihat pengajar dan Hubungi via WhatsApp. Satu profil contoh memuat nama serta ilustrasi dan dapat muncul pada beberapa materi. Label Profil contoh dan keterangan kontak demonstrasi menjaga agar pengguna tidak mengira pengajar sungguhan telah bergabung. Bidang hanya tari, alat musik, dan kerajinan. Pengantar provinsi tetap sesuai isi; ketiadaan pengajar menampilkan pesan yang sesuai; alur usulan materi lokal tetap ada, tanpa janji admin menghubungkan pengajar. Pemeriksaan mandiri: directness 9, rhythm 8, trust 9, authenticity 8, density 8 (42/50).
