@@ -12,13 +12,6 @@ const data = JSON.parse(await readFile(path.join(publicRoot, 'data.json'), 'utf8
 await rm(output, { recursive: true, force: true });
 await cp(publicRoot, output, { recursive: true });
 await writeFile(path.join(output, '.nojekyll'), '');
-const configPath = path.join(output, 'site-config.js');
-const config = await readFile(configPath, 'utf8');
-await writeFile(configPath, config.replace(
-  "{ basePath: '', publicPreview: false }",
-  `{ basePath: '${basePath}', publicPreview: true }`
-));
-
 const withBase = html => html.replace(/\b(href|src)="\/(?!\/)/g, `$1="${basePath}/`);
 const files = (await readdir(output)).filter(file => /\.(js|css|json)$/.test(file)).sort();
 const revisionHash = createHash('sha256');
@@ -44,7 +37,7 @@ const routes = [
   ...data.entries.map(e => `materi/${e.id}`),
   'budaya',
   ...['tari', 'musik', 'kerajinan', 'wisata', 'kuliner', 'permainan'].map(category => `budaya/${category}`),
-  'request', 'akun', 'pendamping', 'tentang'
+  'pendamping', 'tentang'
 ];
 for (const route of routes) {
   const directory = path.join(output, route);

@@ -1,5 +1,5 @@
-// The public build replaces this configuration; the local app keeps its API.
-export const site = Object.freeze({ basePath: '', publicPreview: false });
+// One base path is shared by the local preview and GitHub Pages.
+export const site = Object.freeze({ basePath: '/SwaraNusa' });
 
 export function siteUrl(path) {
   if (!site.basePath || !path.startsWith('/') || path.startsWith('//')) return path;

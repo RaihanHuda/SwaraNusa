@@ -2,15 +2,12 @@
   "name": "swaranusa",
   "version": "1.0.0",
   "private": true,
-  "description": "Pengenalan budaya Sumatra dan alur request pendamping.",
+  "description": "Website belajar budaya Sumatra.",
   "type": "module",
-  "engines": {
-    "node": ">=24"
-  },
+  "engines": {"node": ">=24"},
   "scripts": {
-    "start": "node server.mjs",
-    "test": "node --test tests/*.test.mjs",
-    "check": "node --check server.mjs && node --check public/app.js && node --check public/components.js",
+    "start": "node scripts/build-pages.mjs && node scripts/serve.mjs",
+    "check": "node --check public/app.js && node --check public/components.js && node --check public/learning.js && node --check public/mentors.js && node --check scripts/serve.mjs && node scripts/validate-content.mjs --complete",
     "build:pages": "node scripts/build-pages.mjs"
   }
 }

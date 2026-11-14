@@ -1,4 +1,3 @@
-import {site} from './site-config.js';
 export const esc = value => String(value ?? '').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const paths = {
  compass:'<circle cx="12" cy="12" r="9"/><path d="m16 8-2.5 5.5L8 16l2.5-5.5L16 8Z"/>',
@@ -26,9 +25,6 @@ const paths = {
 };
 export const icon=(name,cls='')=>`<svg class="icon ${cls}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${paths[name]||paths.arrow}</svg>`;
 export const cats={tari:'Tari',musik:'Musik Tradisional',kerajinan:'Kerajinan',wisata:'Wisata & Ikon',kuliner:'Kuliner',permainan:'Permainan Tradisional'};
-export const statusLabels={pending:'Menunggu tinjauan',open:'Terbuka',responded:'Ada tanggapan',connected:'Dihubungkan',completed:'Selesai',rejected:'Ditolak',cancelled:'Dibatalkan'};
-export const statusBadge=s=>`<span class="status status-${esc(s)}"><i></i>${esc(statusLabels[s]||s)}</span>`;
-export const date=s=>s?new Intl.DateTimeFormat('id-ID',{day:'numeric',month:'short',year:'numeric',timeZone:'Asia/Jakarta'}).format(new Date(s)):'';
 export function youtubeId(value) {
  try {
   const url=new URL(value);
@@ -44,7 +40,7 @@ export const entryVideo=entry=>entry.video||entry.learning?.video;
 export function entryMedia(entry) {
  if(entry.imageContext!=='regional')return {src:entry.image,alt:entry.imageAlt||entry.title,kind:entry.imageContext==='illustration'?'illustration':'photo'};
  const video=entry.coverVideo||entryVideo(entry),id=youtubeId(video?.url);
- if(id)return {src:`https://i.ytimg.com/vi/${id}/hqdefault.jpg`,alt:`Cuplikan ${video.cover===false?'video rujukan umum':'dokumentasi'} ${video.title} dari kanal ${video.channel||'YouTube'}`,kind:'video',video,contextual:video.cover===false};
+ if(id)return {src:`https://i.ytimg.com/vi/${id}/hqdefault.jpg`,alt:`${video.title} — ${video.channel||'YouTube'}`,kind:'video',video,contextual:video.cover===false};
  return null;
 }
 export function entryFigure(entry,photos=[]) {
@@ -57,13 +53,6 @@ export const entryCard=(e,provinces,large=false)=>{
  const media=entryMedia(e);
  const categoryIcon=({tari:'book',musik:'music',kerajinan:'leaf',wisata:'pin',kuliner:'bowl',permainan:'game'})[e.category];
  const visual=media?`<img src="${esc(media.src)}" alt="${esc(media.alt)}" loading="lazy" decoding="async">`:`<span class="topic-symbol">${icon(categoryIcon)}</span><span class="topic-region">${esc(provinces.find(p=>p.id===e.provinceId)?.name)}</span>`;
- const imageLabel=media?.kind==='video'?(e.category==='wisata'?'Gambar dokumentasi':media.contextual?'Ilustrasi video':'Cuplikan video'):media?.kind==='illustration'?'Ilustrasi':'';
+ const imageLabel=media?.kind==='illustration'?'Ilustrasi':'';
  return `<a class="entry-card ${large?'entry-card-large':''}" href="/materi/${esc(e.id)}"><div class="entry-photo ${!media?'entry-topic-art topic-'+esc(e.category):''}">${visual}<span class="photo-tag">${icon(categoryIcon)}${esc(cats[e.category])}</span>${imageLabel?`<span class="image-context-tag">${esc(imageLabel)}</span>`:''}<span class="entry-arrow">${icon('upRight')}</span></div><div class="entry-card-copy"><div class="entry-meta">${esc(provinces.find(p=>p.id===e.provinceId)?.name)}<span>${e.category==='wisata'?'Lokasi':entryVideo(e)?'Dengan video':e.learning?.steps?.length?'Dengan latihan':esc(e.kind||'Pengenalan')}</span></div><h3>${esc(e.title)}</h3><p>${esc(e.summary)}</p></div></a>`;
 };
-export async function api(path,options={}) {
- if(site.publicPreview)throw new Error('Akun dan request belum dibuka pada situs publik ini.');
- const r=await fetch('/api'+path,{...options,headers:{'Content-Type':'application/json',...options.headers},credentials:'same-origin'});
- let d;try{d=await r.json()}catch{throw new Error('Server belum dapat memuat data. Coba muat ulang halaman.')}
- if(!r.ok)throw new Error(d.error||'Permintaan belum berhasil. Coba lagi.');return d;
-}
-export const post=(path,data={})=>api(path,{method:'POST',body:JSON.stringify(data)});

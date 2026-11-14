@@ -2,11 +2,13 @@
 set -eu
 cd "$(dirname "$0")"
 if command -v node >/dev/null 2>&1; then
-  exec node server.mjs
+  node scripts/build-pages.mjs
+  exec node scripts/serve.mjs
 fi
-BUNDLED_NODE="$HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node"
-if [ -x "$BUNDLED_NODE" ]; then
-  exec "$BUNDLED_NODE" server.mjs
+SWARANUSA_NODE="$HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node"
+if [ -x "$SWARANUSA_NODE" ]; then
+  "$SWARANUSA_NODE" scripts/build-pages.mjs
+  exec "$SWARANUSA_NODE" scripts/serve.mjs
 fi
-printf '%s\n' 'SwaraNusa memerlukan Node.js 24 atau lebih baru. Instal dari https://nodejs.org, lalu jalankan node server.mjs.'
+printf '%s\n' 'SwaraNusa memerlukan Node.js 24 atau lebih baru.'
 exit 1

@@ -1,13 +1,5 @@
-.data/
+_site/
 node_modules/
 .DS_Store
 .env
 .env.*
-!.env.example
-work/
-coverage/
-docs/qa/github-created.png
-
-docs/qa/
-
-_site/
