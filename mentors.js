@@ -1,4 +1,4 @@
-import {esc, icon, cats} from './components.js?v=b024d2a4d0';
+import {esc, icon, cats} from './components.js?v=6c7671c459';
 
 export const teachingCategories=Object.freeze(['tari','musik','kerajinan']);
 export const canHaveTeacher=entry=>teachingCategories.includes(entry?.category);

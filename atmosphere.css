@@ -45,8 +45,7 @@ body {
 .section-heading h2,
 .about-heading h1,
 .about-columns h2,
-.about-help h2,
-.request-band h2,
+.explore-band h2,
 .collection-title h2 {
   font-family: var(--sans);
   font-weight: 650;
@@ -145,11 +144,11 @@ body {
 .culture-slide .entry-photo { height: 236px; }
 .culture-carousel .carousel-caption { padding-top: 0; }
 
-.request-band { padding: 38px; margin-block: 35px 85px; gap: 30px; border: 1px solid var(--surface-border); border-radius: 34px; background: radial-gradient(ellipse at 10% 70%, #f4e8c666, transparent 45%), var(--surface); box-shadow: var(--shadow-surface); }
-.request-band h2 { font-size: 38px; }
-.request-band p { font-size: 13px; }
-.request-band-art img { height: 220px; }
-.request-band .band-note { display: flex; flex-direction: column; gap: 18px; font-size: 11px; line-height: 1.8; }
+.explore-band { padding: 38px; margin-block: 35px 85px; gap: 30px; border: 1px solid var(--surface-border); border-radius: 34px; background: radial-gradient(ellipse at 10% 70%, #f4e8c666, transparent 45%), var(--surface); box-shadow: var(--shadow-surface); }
+.explore-band h2 { font-size: 38px; }
+.explore-band p { font-size: 13px; }
+.explore-band-art img { height: 220px; }
+.explore-band .band-note { display: flex; flex-direction: column; gap: 18px; font-size: 11px; line-height: 1.8; }
 
 /* About: one learning panel, two shorter service panels and a separate sources row. */
 .about-heading { gap: 65px; padding-block: 32px 48px; border-bottom: 0; }
@@ -194,17 +193,9 @@ body {
 .source-links strong { display: block; font-size: 16px; font-weight: 600; letter-spacing: -.025em; }
 .source-links small { display: block; color: var(--muted); margin-top: 6px; font-size: 12px; line-height: 1.7; }
 .about-sources .source-links > a:hover { background: #fffffc; border-color: #bdcfb2; transform: translateY(-3px); }
-.about-help { gap: 22px; margin-top: 15px; padding: 32px; color: #fffdf4; background: linear-gradient(120deg, #254b3b, #3f6047); box-shadow: var(--shadow-surface); }
-.about-help > .surface-icon { background: #ffffff12; border-color: #ffffff35; color: #f2e4bf; }
-.about-help > div { flex: 1; }
-.about-help h2 { font-size: 25px; }
-.about-help p { color: #e3ead8; font-size: 12px; line-height: 1.75; }
-.about-help .btn-outline { color: #fffdf4; background: #ffffff0d; border-color: #ffffff5e; }
-.about-help .btn-outline:hover { color: var(--green); background: #fffdf4; }
 .empty-state,
 .fact-list,
-.mentor-note,
-.request-form { border: 1px solid var(--surface-border); background: var(--surface); box-shadow: var(--shadow-surface); }
+.mentor-note{ border: 1px solid var(--surface-border); background: var(--surface); box-shadow: var(--shadow-surface); }
 .empty-state > .icon { width: 48px; height: 48px; padding: 12px; border-radius: 16px; background: #e9f0e2; }
 .empty-state h3 { font-family: var(--sans); font-weight: 600; letter-spacing: -.035em; }
 
@@ -217,8 +208,8 @@ body {
   .province-row-name { font-size: 13px; }
   .province-row-name small { font-size: 9px; }
   .province-feature-content h3 { font-size: 32px; }
-  .request-band { grid-template-columns: .65fr 1.4fr; padding: 30px; }
-  .request-band .band-note { display: none; }
+  .explore-band { grid-template-columns: .65fr 1.4fr; padding: 30px; }
+  .explore-band .band-note { display: none; }
   .about-heading { gap: 38px; }
   .surface-panel { padding: 28px; }
   .about-learning h2 { font-size: 36px; }
@@ -278,11 +269,11 @@ body {
   .entry-card-copy { padding: 16px 8px 12px; }
   .entry-card-copy h3 { font-size: 22px; }
   .entry-card-copy > p { font-size: 12px; }
-  .request-band { grid-template-columns: 1fr; padding: 26px 22px; margin-block: 20px 50px; border-radius: 28px; gap: 0; }
-  .request-band-art { height: 145px; margin-bottom: 22px; }
-  .request-band-art img { width: 150px; height: 145px; }
-  .request-band h2 { font-size: 32px; }
-  .request-band p { font-size: 12px; }
+  .explore-band { grid-template-columns: 1fr; padding: 26px 22px; margin-block: 20px 50px; border-radius: 28px; gap: 0; }
+  .explore-band-art { height: 145px; margin-bottom: 22px; }
+  .explore-band-art img { width: 150px; height: 145px; }
+  .explore-band h2 { font-size: 32px; }
+  .explore-band p { font-size: 12px; }
   .about-heading { grid-template-columns: 1fr; gap: 32px; padding-block: 12px 32px; }
   .about-heading h1 { font-size: 43px; }
   .about-heading p { font-size: 14px; }
@@ -309,10 +300,6 @@ body {
   .about-sources .source-links > a > .icon:last-child { position: static; width: 14px; height: 14px; }
   .about-sources .surface-icon { width: 39px; height: 39px; border-radius: 12px; }
   .source-links small { font-size: 11px; }
-  .about-help { flex-direction: column; align-items: flex-start; padding: 26px 22px; gap: 18px; }
-  .about-help h2 { font-size: 24px; }
-  .about-help > div { min-width: 0; }
-  .about-help .btn { max-width: 100%; gap: 16px; }
 }
 @media (max-width: 360px) {
   .section-heading h2 { font-size: 32px; }
@@ -438,7 +425,6 @@ body {
 .teacher-page-heading h1 { font: 600 clamp(42px,5vw,72px)/1.08 var(--serif); letter-spacing: -.04em; margin: 20px 0; }
 .teacher-page-heading h1 em { color: var(--green); font-weight: inherit; }
 .teacher-page-heading > p { max-width: 540px; font-size: 15px; line-height: 1.85; color: var(--muted); }
-.teacher-demo-notice { padding: 14px 18px; margin: 0 0 24px; border: 1px solid #e4d8bc; border-radius: 15px; background: #f8f1e4bd; color: #78613c; font-size: 13px; line-height: 1.7; }
 .teacher-context { display: flex; align-items: center; flex-wrap: wrap; gap: 12px; padding: 18px 0; margin-bottom: 22px; border-block: 1px solid #dce3d7; font-size: 13px; }
 .teacher-context > .icon { color: var(--green); width: 18px; }
 .teacher-context > a { display: inline-flex; align-items: center; gap: 10px; margin-left: auto; color: var(--green); }
@@ -451,7 +437,6 @@ body {
 .teacher-grid > .teacher-card:only-child { grid-column: 1 / -1; display: grid; grid-template-columns: minmax(220px,.85fr) minmax(0,1.25fr); max-width: 940px; }
 .teacher-portrait { position: relative; min-width: 0; background: #dfe7d7; }
 .teacher-portrait img { display: block; width: 100%; height: 100%; object-fit: cover; aspect-ratio: 1; }
-.teacher-demo-badge { position: absolute; top: 20px; left: 20px; padding: 8px 12px; background: #fffbeded; color: #4c634b; border-radius: 999px; font-size: 11px; letter-spacing: .02em; }
 .teacher-card-body { padding: clamp(24px,3vw,38px); align-self: center; min-width: 0; }
 .teacher-card-body .eyebrow { font-size: 10px; }
 .teacher-card-body h2 { font: 600 38px/1.15 var(--serif); margin: 12px 0 16px; }
@@ -481,5 +466,4 @@ body {
  .teacher-card-body { padding: 24px; }
  .teacher-card-body h2 { font-size: 34px; }
  .teacher-contact { font-size: 12px; }
- .teacher-demo-notice { font-size: 12px; }
 }

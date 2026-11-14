@@ -5278,8 +5278,20 @@
         ],
         "notes": "Ikuti satu variasi setempat; peran berganti setelah satu pencarian."
       },
-      "sources": [],
-      "imageOrigin": "SwaraNusa"
+      "sources": [
+        {
+          "label": "Nisa Nugraha, Tugas video olahraga rekreasi permainan sembunyi lidi",
+          "url": "https://www.youtube.com/watch?v=tEG4GCQDuWE"
+        }
+      ],
+      "imageOrigin": "SwaraNusa",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=tEG4GCQDuWE",
+        "title": "Tugas video olahraga rekreasi permainan sembunyi lidi",
+        "channel": "Nisa Nugraha",
+        "type": "demonstrasi",
+        "context": "Video memperagakan permainan sembunyi lidi di tanah sebagai pembanding cara menyembunyikan dan menebak benda. Ini bukan dokumentasi Marsir dari Sabungan Nihuta II; aturan Marsir mengikuti panduan tertulis pada halaman ini."
+      }
     },
     {
       "id": "marjalengkat",
@@ -10407,7 +10419,20 @@
           "Arah kanan-kiri dibaca dari sudut pandang penari.",
           "Catatan tidak menyebut pemanasan pergelangan sebagai gerak sembah adat."
         ]
-      }
+      },
+      "video": {
+        "url": "https://www.youtube.com/watch?v=18xL9lAfKLs",
+        "title": "WBTB - TARI INAI - LINGGA",
+        "channel": "sirajakapoor",
+        "type": "pengenalan",
+        "context": "Dokumentasi pengantar Tari Inai Daik Lingga. Video membantu mengenali konteks perkawinan Melayu; urutan gerak dan adab ragam Panggak Laut tetap mengacu pada pelaku serta bacaan yang dirujuk."
+      },
+      "sources": [
+        {
+          "label": "sirajakapoor, WBTB - TARI INAI - LINGGA",
+          "url": "https://www.youtube.com/watch?v=18xL9lAfKLs"
+        }
+      ]
     },
     {
       "id": "kepri-gazal-penyengat",
@@ -11141,7 +11166,20 @@
           "Potongan kertas model isi tertahan sementara celah anyaman masih terlihat.",
           "Bingkai tetap menyatu saat diangkat ringan tanpa beban."
         ]
-      }
+      },
+      "video": {
+        "url": "https://www.youtube.com/watch?v=RDtrdvemMm4",
+        "title": "Proses Pembuatan Piring Anyaman Bambu",
+        "channel": "Hana Widya K",
+        "type": "tutorial",
+        "context": "Video teknik pembuatan piring anyaman bambu secara umum untuk mengenali jalinan dan pembentukan wadah. Ini bukan dokumentasi khusus kintau Daik Lingga atau ukuran baku alat pengolah ikannya."
+      },
+      "sources": [
+        {
+          "label": "Hana Widya K, Proses Pembuatan Piring Anyaman Bambu",
+          "url": "https://www.youtube.com/watch?v=RDtrdvemMm4"
+        }
+      ]
     },
     {
       "id": "kepri-kerajinan-cangkang-gonggong",
@@ -12794,7 +12832,20 @@
           "Pensil",
           "Kelintang yang sudah jadi, bila tersedia"
         ]
-      }
+      },
+      "video": {
+        "url": "https://www.youtube.com/watch?v=7hm0vhgucBw",
+        "title": "Vidio Pembelajaran Pengembangan Muatan Lokal, Seni Budaya Daerah Jambi (Alat Musik “ Kelintang Kayu”",
+        "channel": "Oktaviani Putri",
+        "type": "pengenalan",
+        "context": "Video memperkenalkan kelintang kayu dalam materi seni budaya Jambi. Gunakan sebagai pengantar alat dan bunyi; keterangan khusus susunan enam batang Kerinci tetap mengikuti bacaan pada halaman ini."
+      },
+      "sources": [
+        {
+          "label": "Oktaviani Putri, Vidio Pembelajaran Pengembangan Muatan Lokal, Seni Budaya Daerah Jambi (Alat Musik “ Kelintang Kayu”",
+          "url": "https://www.youtube.com/watch?v=7hm0vhgucBw"
+        }
+      ]
     },
     {
       "id": "jambi-suling-buluh-kerinci",
@@ -14384,8 +14435,21 @@
           "Kamu dapat menyebut fungsi dua sayak dan menunjukkan arah sasaran."
         ]
       },
-      "sources": [],
-      "imageOrigin": "SwaraNusa"
+      "sources": [
+        {
+          "label": "Hendra Sofyan PAUD, PERMAINAN TRADISIONAL DARO || DAPAT MENUMBUH KEMBANGKAN ASEP PERKEMBANGAN ANAK",
+          "url": "https://www.youtube.com/watch?v=fFxJs4kC1IY"
+        }
+      ],
+      "imageOrigin": "SwaraNusa",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=fFxJs4kC1IY",
+        "title": "PERMAINAN TRADISIONAL DARO || DAPAT MENUMBUH KEMBANGKAN ASEP PERKEMBANGAN ANAK",
+        "channel": "Hendra Sofyan PAUD",
+        "type": "demonstrasi",
+        "context": "Video memperagakan Daro Jambi dengan sayak/tempurung. Jarak, hukuman permainan, dan cara pelaksanaan pada video merupakan variasi pembuat; panduan tertulis halaman ini tetap membatasi latihan pada pengenalan alat serta arah sasaran.",
+        "cover": false
+      }
     },
     {
       "id": "jambi-ye-ye",
@@ -15365,7 +15429,20 @@
           "Tindakan dapat dikenali dari arah tangan dan jeda, tanpa membawa beban.",
           "Papan cerita berlabel interpretasi latihan, bukan dokumentasi koreografi."
         ]
-      }
+      },
+      "video": {
+        "url": "https://www.youtube.com/watch?v=EoPssQ6ff4E",
+        "title": "TARI BIDADARI MENIMANG ANAK Provinsi Bengkulu- FAJAR RAUF RAMADIAN ABSEN 10 7A",
+        "channel": "SMP N 28 SEMARANG OFFICIAL",
+        "type": "pengenalan",
+        "context": "Penjelasan pelajar tentang Tari Bidadari Menimang Anak. Video ini pengenalan lisan, bukan rekaman pertunjukan atau panduan gerak."
+      },
+      "sources": [
+        {
+          "label": "SMP N 28 SEMARANG OFFICIAL, TARI BIDADARI MENIMANG ANAK Provinsi Bengkulu- FAJAR RAUF RAMADIAN ABSEN 10 7A",
+          "url": "https://www.youtube.com/watch?v=EoPssQ6ff4E"
+        }
+      ]
     },
     {
       "id": "tari-gereguak-bengkulu",
@@ -15435,7 +15512,20 @@
           "Pengamat dapat membedakan perjalanan, pengambilan air, dan perjalanan pulang.",
           "Jalur dua peserta terpisah tanpa gerak berpapasan mendadak."
         ]
-      }
+      },
+      "video": {
+        "url": "https://www.youtube.com/watch?v=8P0e0iToJL8",
+        "title": "Belajar Pantomiim - Tehnik Gerak dasar pantomim bersama : Septian Dwi Cahyo",
+        "channel": "Septian Dwi Cahyo",
+        "type": "tutorial",
+        "context": "Video latihan dasar pantomim untuk membantu latihan gerak benda imajiner pada tema mengambil air. Ini bukan dokumentasi Tari Gereguak atau susunan ragam adat Bengkulu."
+      },
+      "sources": [
+        {
+          "label": "Septian Dwi Cahyo, Belajar Pantomiim - Tehnik Gerak dasar pantomim bersama : Septian Dwi Cahyo",
+          "url": "https://www.youtube.com/watch?v=8P0e0iToJL8"
+        }
+      ]
     },
     {
       "id": "gandai-klasik-pekal-ketahun",
@@ -16921,8 +17011,20 @@
           "Kamu dapat menjelaskan garis yang dipakai untuk menggeser atau melangkahi."
         ]
       },
-      "sources": [],
-      "imageOrigin": "SwaraNusa"
+      "sources": [
+        {
+          "label": "Olahraga Tradisional Bengkulu, PERMAINAN TRADISIONAL BICAU",
+          "url": "https://www.youtube.com/watch?v=j4ViZYUuPxQ"
+        }
+      ],
+      "imageOrigin": "SwaraNusa",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=j4ViZYUuPxQ",
+        "title": "PERMAINAN TRADISIONAL BICAU",
+        "channel": "Olahraga Tradisional Bengkulu",
+        "type": "demonstrasi",
+        "context": "Video memperlihatkan satu variasi permainan Bicau. Cocokkan bidang dan jumlah buah dengan uraian buku Bengkulu yang dipakai pada panduan halaman ini."
+      }
     },
     {
       "id": "cipak-bengkulu",
@@ -17252,8 +17354,20 @@
           "Kamu dapat membedakan tahap satu kaki, keliling kota, jual apam, dan tukak ayam."
         ]
       },
-      "sources": [],
-      "imageOrigin": "SwaraNusa"
+      "sources": [
+        {
+          "label": "DONGA STUDIO, Lompek kodok",
+          "url": "https://www.youtube.com/watch?v=70v3rG7hgq0"
+        }
+      ],
+      "imageOrigin": "SwaraNusa",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=70v3rG7hgq0",
+        "title": "Lompek kodok",
+        "channel": "DONGA STUDIO",
+        "type": "demonstrasi",
+        "context": "Demonstrasi permainan lompat petak yang disebut Lompek Kodok. Bentuk petak dan tahap permainan dapat berbeda; panduan halaman ini mengikuti denah buku Bengkulu."
+      }
     },
     {
       "id": "tari-gending-sriwijaya",
@@ -19425,7 +19539,21 @@
           "Dua pasangan tetap memakai ruang masing-masing.",
           "Peserta mampu menyebut Campak Darat Gebong Memarong tanpa menukarnya dengan Campak Dalung."
         ]
-      }
+      },
+      "video": {
+        "url": "https://www.youtube.com/watch?v=NlVw89Wy59Y",
+        "title": "Campak Darat (Campak Gunong Payong)",
+        "channel": "Multi Media Belitung",
+        "type": "pengenalan",
+        "context": "Video memperkenalkan kelompok Campak Gunong Payong di Belitung sebagai pembanding kesenian Campak Darat. Ini bukan dokumentasi kelompok Gebong Memarong di Aik Abik, Bangka; ragam dan penyajian setempat dapat berbeda.",
+        "cover": false
+      },
+      "sources": [
+        {
+          "label": "Multi Media Belitung, Campak Darat (Campak Gunong Payong)",
+          "url": "https://www.youtube.com/watch?v=NlVw89Wy59Y"
+        }
+      ]
     },
     {
       "id": "tari-kedidi-bangka",
@@ -23590,9 +23718,21 @@
         {
           "url": "https://repositori.kemendikdasmen.go.id/29258/1/PERMAINAN%20ANAK-ANAK%20DAERAH%20LAMPUNG.pdf",
           "label": "Departemen Pendidikan dan Kebudayaan, Permainan Anak-anak Daerah Lampung, bagian Main Sundung Khulah, halaman 35–39"
+        },
+        {
+          "label": "What Do We Do All Day?, Pong Hau K'i",
+          "url": "https://www.youtube.com/watch?v=LWMCAk4NyTQ"
         }
       ],
-      "imageOrigin": "SwaraNusa"
+      "imageOrigin": "SwaraNusa",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=LWMCAk4NyTQ",
+        "title": "Pong Hau K'i",
+        "channel": "What Do We Do All Day?",
+        "type": "pengenalan",
+        "context": "Video memperagakan Pong Hau K’i sebagai pembanding untuk membaca jalur papan lima titik, giliran, dan upaya menutup jalan dua bidak. Ini bukan dokumentasi Sundung Khulah Lampung. Untuk bermain Sundung Khulah, tetap gunakan denah dan aturan sumber Lampung pada panduan tertulis.",
+        "cover": false
+      }
     },
     {
       "id": "setayakhan-sinjang",
@@ -23661,7 +23801,21 @@
         "checks": [
           "Pengirim menunggu jawaban siap dan sasaran operan dapat dijangkau penerima."
         ]
-      }
+      },
+      "video": {
+        "url": "https://www.youtube.com/watch?v=ZQdzTkghvSs",
+        "title": "Pembelajaran PJOK Kelas III, \"Gerak Menangkap dan Melempar Melalui Media Permainan Sarung\"",
+        "channel": "sdn kemirimuka2",
+        "type": "tutorial",
+        "context": "Video pembelajaran melempar dan menangkap memakai media sarung ini mendampingi latihan koordinasi. Ini bukan dokumentasi Setayakhan Sinjang Kota Agung; bentuk historisnya berbeda. Ikuti adaptasi berpijak di tanah pada panduan tertulis, tanpa saling menyangga tubuh.",
+        "cover": false
+      },
+      "sources": [
+        {
+          "label": "sdn kemirimuka2, Pembelajaran PJOK Kelas III, \"Gerak Menangkap dan Melempar Melalui Media Permainan Sarung\"",
+          "url": "https://www.youtube.com/watch?v=ZQdzTkghvSs"
+        }
+      ]
     },
     {
       "id": "sepatu-batok-lampung",
@@ -24841,8 +24995,8 @@
     }
   ],
   "contentNotes": {
-    "reviewedAt": "2026-11-04",
+    "reviewedAt": "2026-11-14",
     "scope": "300 materi pengenalan dan panduan pada 10 provinsi wilayah Sumatra, lima materi per kategori. Provinsi menjadi pintu penelusuran, bukan batas kepemilikan budaya.",
-    "practiceGuides": "Seluruh 250 materi nonwisata memiliki panduan tertulis, termasuk latihan dasar/adaptasi, prototipe, pengenalan bahan, dan aturan permainan sesuai lingkup sumber. Video pendamping ditempatkan setelah deskripsi; 50 wisata hanya menampilkan lokasi dan peta. Catatan membedakan adaptasi dari koreografi, kriya, resep, dan aturan adat yang lengkap."
+    "practiceGuides": "Seluruh 250 materi nonwisata memiliki panduan tertulis dan video pendamping. Video dapat berupa tutorial, pengenalan, demonstrasi, atau pembanding teknik yang dijelaskan konteksnya. Sebanyak 50 halaman wisata menampilkan lokasi dan peta."
   }
 }
